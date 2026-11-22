@@ -1,0 +1,478 @@
+[
+ {
+  "id": "ddhh-0001",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 3",
+  "enunciado": "En ejercicio de la función preventiva, la Procuraduría ejerce control sobre la gestión administrativa y la contratación estatal de manera",
+  "opciones": {
+   "A": "exclusivamente posterior, una vez liquidado el contrato.",
+   "B": "permanente sobre cada acto de la entidad.",
+   "C": "previa y obligatoria para todo contrato.",
+   "D": "selectiva."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 3 del artículo 24 del Decreto Ley 262 de 2000 dispone que las procuradurías delegadas ejercen, de manera selectiva, control preventivo de la gestión administrativa y de la contratación estatal. No es un control previo obligatorio que condicione cada contrato.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0002",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 6",
+  "enunciado": "Un ciudadano informa a la Procuraduría que un hospital público no está aplicando los recursos de una dotación. La Procuraduría puede",
+  "opciones": {
+   "A": "tomar el control administrativo del hospital.",
+   "B": "realizar una visita a la entidad, a solicitud de cualquier persona u oficiosamente, para proteger los recursos públicos.",
+   "C": "ordenar el traslado del gerente.",
+   "D": "actuar solo si la Contraloría lo autoriza."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 6 del artículo 24 del Decreto Ley 262 de 2000 faculta a la Procuraduría para realizar visitas a entidades estatales o a particulares que cumplen función pública, a solicitud de cualquier persona u oficiosamente. No coadministra ni ordena traslados.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0003",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 2",
+  "enunciado": "Para ejercer el control de gestión sobre las funciones públicas, las procuradurías pueden",
+  "opciones": {
+   "A": "exigir a los servidores públicos y a los particulares que cumplan funciones públicas la información que consideren necesaria.",
+   "B": "suspender a los servidores sin proceso.",
+   "C": "intervenir las cuentas bancarias de las entidades.",
+   "D": "aprobar o improbar los presupuestos municipales."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 2 del artículo 24 del Decreto Ley 262 de 2000 permite exigir información a servidores y particulares con funciones públicas; el artículo 277, numeral 9, de la Constitución consagra la misma facultad para el Procurador.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0004",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 26, num. 7",
+  "enunciado": "La Procuraduría recibe información sobre hacinamiento extremo y malos tratos en una cárcel. Dentro de sus funciones de derechos humanos, puede",
+  "opciones": {
+   "A": "asumir la dirección del establecimiento carcelario.",
+   "B": "abstenerse, porque es competencia exclusiva del INPEC.",
+   "C": "velar por los derechos fundamentales de los internos para que sean tratados con dignidad y no sean sometidos a tratos crueles, inhumanos o degradantes.",
+   "D": "ordenar la libertad de los internos."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 7 del artículo 26 del Decreto Ley 262 de 2000 asigna a las procuradurías delegadas velar por los derechos fundamentales en establecimientos carcelarios, judiciales, de policía y de internación psiquiátrica. No ordenan libertades ni administran los centros.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0005",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 26, num. 10",
+  "enunciado": "Para asegurar la defensa de los derechos fundamentales, colectivos o del ambiente, las procuradurías delegadas pueden interponer",
+  "opciones": {
+   "A": "solo acciones de repetición.",
+   "B": "acciones populares, de tutela, de cumplimiento y las demás que resulten conducentes.",
+   "C": "recursos de casación en cualquier proceso.",
+   "D": "únicamente denuncias penales."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 10 del artículo 26 del Decreto Ley 262 de 2000 faculta para interponer acciones populares, de tutela, de cumplimiento y demás conducentes para defender el orden jurídico y los derechos fundamentales, colectivos o del ambiente.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0006",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 26, num. 9",
+  "enunciado": "En una actuación administrativa de licenciamiento que afecta el territorio de una comunidad indígena, la Procuraduría puede",
+  "opciones": {
+   "A": "intervenir en la actuación en defensa del orden jurídico y los derechos fundamentales de la comunidad.",
+   "B": "intervenir solo si la comunidad tiene abogado.",
+   "C": "otorgar directamente la licencia.",
+   "D": "realizar ella misma la consulta previa."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 9 del artículo 26 del Decreto Ley 262 de 2000 permite intervenir en actuaciones administrativas y de policía en las que tengan interés miembros de minorías étnicas. La consulta previa la adelantan las autoridades competentes, con acompañamiento del Ministerio Público.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0007",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 10",
+  "enunciado": "Una persona no puede interponer por sí misma una tutela por encontrarse en estado de inconsciencia. La tutela puede ser presentada",
+  "opciones": {
+   "A": "solo cuando la persona recupere la conciencia.",
+   "B": "exclusivamente por el Procurador General.",
+   "C": "únicamente por su abogado con poder especial.",
+   "D": "por un agente oficioso, manifestando esa circunstancia, o por el Defensor del Pueblo y los personeros municipales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 10 del Decreto 2591 de 1991 permite agenciar derechos ajenos cuando el titular no está en condiciones de promover su propia defensa, y legitima también al Defensor del Pueblo y a los personeros municipales.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0008",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 7",
+  "enunciado": "Desde la presentación de una tutela, cuando el juez lo considere necesario y urgente para proteger el derecho, puede",
+  "opciones": {
+   "A": "condenar en costas al accionado.",
+   "B": "declarar la nulidad del acto.",
+   "C": "suspender la aplicación del acto concreto que lo amenace o vulnere.",
+   "D": "remitir el asunto al Consejo de Estado."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 7 del Decreto 2591 de 1991 permite al juez de tutela, desde la presentación de la solicitud y si lo considera necesario y urgente, suspender la aplicación del acto concreto que amenace o vulnere el derecho, como medida provisional.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0009",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 31",
+  "enunciado": "El fallo de tutela de primera instancia",
+  "opciones": {
+   "A": "solo puede ser revisado por la Corte Constitucional a solicitud del juez.",
+   "B": "puede ser impugnado dentro de los tres días siguientes a su notificación.",
+   "C": "no admite ningún recurso.",
+   "D": "puede apelarse dentro de los diez días siguientes."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 31 del Decreto 2591 de 1991 dispone que el fallo podrá ser impugnado dentro de los tres días siguientes a su notificación por el Defensor del Pueblo, el solicitante, la autoridad pública o el representante del órgano accionado, sin perjuicio de su cumplimiento inmediato.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0010",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, arts. 27 y 52",
+  "enunciado": "Una entidad no cumple la orden contenida en un fallo de tutela. El accionante puede solicitar",
+  "opciones": {
+   "A": "el trámite de desacato ante el juez, que puede imponer arresto y multa, sin perjuicio de la responsabilidad penal.",
+   "B": "una nueva tutela por los mismos hechos.",
+   "C": "una acción de cumplimiento contra el juez.",
+   "D": "la revocatoria directa del fallo."
+  },
+  "correcta": "A",
+  "explicacion": "Los artículos 27 y 52 del Decreto 2591 de 1991 regulan el cumplimiento del fallo y el desacato, que se sanciona con arresto hasta de seis meses y multa hasta de veinte salarios mínimos mensuales, sin perjuicio de las sanciones penales.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0011",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 393 de 1997, art. 8",
+  "enunciado": "Antes de presentar una acción de cumplimiento, por regla general, el demandante debe",
+  "opciones": {
+   "A": "obtener concepto favorable de la Procuraduría.",
+   "B": "agotar la conciliación extrajudicial.",
+   "C": "interponer una acción de tutela previa.",
+   "D": "haber reclamado a la autoridad el cumplimiento del deber legal y que esta se haya ratificado en el incumplimiento o no haya contestado en diez días."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 8 de la Ley 393 de 1997 exige como requisito de procedibilidad la renuencia: reclamar el cumplimiento y que la autoridad se ratifique en el incumplimiento o no conteste dentro de los diez días siguientes, salvo inminente perjuicio irremediable.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0012",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 393 de 1997, art. 9",
+  "enunciado": "La acción de cumplimiento no procede",
+  "opciones": {
+   "A": "contra autoridades del orden territorial.",
+   "B": "cuando la ley tiene más de cinco años de vigencia.",
+   "C": "para la protección de derechos que puedan ser garantizados mediante la acción de tutela, ni para exigir normas que establezcan gastos.",
+   "D": "contra actos administrativos."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 9 de la Ley 393 de 1997 declara improcedente la acción de cumplimiento cuando el derecho puede protegerse por tutela, cuando existe otro instrumento judicial para lograr el cumplimiento y, según su parágrafo, para perseguir el cumplimiento de normas que establezcan gastos.",
+  "dificultad": 3
+ },
+ {
+  "id": "ddhh-0013",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 2",
+  "enunciado": "Según la Ley 472 de 1998, las acciones populares se ejercen para",
+  "opciones": {
+   "A": "obtener la indemnización individual de cada afectado.",
+   "B": "proteger exclusivamente derechos fundamentales.",
+   "C": "evitar el daño contingente, hacer cesar el peligro, la amenaza, la vulneración o agravio sobre los derechos colectivos, o restituir las cosas a su estado anterior cuando fuere posible.",
+   "D": "declarar la nulidad de contratos estatales."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 2 de la Ley 472 de 1998 define el objeto de las acciones populares: prevenir el daño, hacer cesar la amenaza o vulneración de derechos colectivos o restituir las cosas a su estado anterior. La indemnización de un grupo se busca con la acción de grupo.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0014",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 3; Ley 1437 de 2011, art. 145",
+  "enunciado": "Un grupo de veinte familias sufrió perjuicios individuales por la contaminación de un río causada por una obra pública. Para obtener la indemnización conjunta, el medio procedente es",
+  "opciones": {
+   "A": "la acción popular.",
+   "B": "la acción de grupo o de reparación de los perjuicios causados a un grupo.",
+   "C": "la acción de cumplimiento.",
+   "D": "la acción de tutela colectiva."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 3 de la Ley 472 de 1998 y el artículo 145 del CPACA regulan la acción de grupo para un número plural de personas, no menor de veinte, que reúnen condiciones uniformes respecto de una misma causa que les originó perjuicios individuales, con el fin de obtener su reconocimiento y pago.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0015",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 4",
+  "enunciado": "Es un derecho colectivo según la Ley 472 de 1998",
+  "opciones": {
+   "A": "el libre desarrollo de la personalidad.",
+   "B": "la intimidad personal y familiar.",
+   "C": "el habeas data.",
+   "D": "el goce de un ambiente sano."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 4 de la Ley 472 de 1998 enumera derechos colectivos como el ambiente sano, la moralidad administrativa, el espacio público, la defensa del patrimonio público y el acceso a los servicios públicos. Los demás son derechos fundamentales individuales.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0016",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 4, lit. b",
+  "enunciado": "Un alcalde usa recursos públicos de forma ostensiblemente contraria a la ley para favorecer a terceros. Además de las acciones disciplinarias, cualquier persona puede invocar mediante acción popular la protección del derecho colectivo a",
+  "opciones": {
+   "A": "la moralidad administrativa.",
+   "B": "la honra.",
+   "C": "la libre competencia económica exclusivamente.",
+   "D": "el debido proceso."
+  },
+  "correcta": "A",
+  "explicacion": "La moralidad administrativa es un derecho colectivo reconocido en el literal b del artículo 4 de la Ley 472 de 1998, protegible mediante acción popular cuando la actuación administrativa se aparta ostensiblemente de la legalidad para favorecer intereses ajenos al interés general.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0017",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 93; Corte Constitucional, C-225 de 1995",
+  "enunciado": "El conjunto de normas y principios que, sin aparecer formalmente en el articulado de la Constitución, se utilizan como parámetro del control de constitucionalidad por mandato de la propia Constitución, se denomina",
+  "opciones": {
+   "A": "bloque de constitucionalidad.",
+   "B": "precedente horizontal.",
+   "C": "derecho blando.",
+   "D": "jurisprudencia de unificación."
+  },
+  "correcta": "A",
+  "explicacion": "La Corte Constitucional, a partir de la sentencia C-225 de 1995, define el bloque de constitucionalidad como las normas que, sin estar en el articulado, se integran a la Constitución por remisión de ella misma, como los tratados de derechos humanos del artículo 93 y las normas de DIH.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0018",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Protocolo II adicional a los Convenios de Ginebra, art. 4; Ley 1952 de 2019, art. 52",
+  "enunciado": "Durante un conflicto armado no internacional, un servidor de la fuerza pública ordena atacar a personas que no participan directamente en las hostilidades. Esta conducta",
+  "opciones": {
+   "A": "es una falta leve si no hubo víctimas.",
+   "B": "es legítima si existe una orden superior.",
+   "C": "solo tiene consecuencias penales, no disciplinarias.",
+   "D": "infringe el principio de distinción del DIH y constituye falta gravísima relacionada con el DIH."
+  },
+  "correcta": "D",
+  "explicacion": "El DIH impone el principio de distinción entre combatientes y población civil (Protocolo II, art. 4 y ss.). Atacar a personas protegidas es una infracción grave que la Ley 1952 de 2019 tipifica como falta gravísima en el artículo 52; la orden superior no justifica la conducta.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0019",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 282",
+  "enunciado": "Velar por la promoción, el ejercicio y la divulgación de los derechos humanos, orientar e instruir a los habitantes en su ejercicio y defensa, e invocar el habeas corpus e interponer tutelas, son funciones constitucionales de",
+  "opciones": {
+   "A": "el Contralor General.",
+   "B": "el Defensor del Pueblo.",
+   "C": "el Registrador Nacional.",
+   "D": "el Fiscal General de la Nación."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 282 de la Constitución asigna estas funciones al Defensor del Pueblo, que hace parte del Ministerio Público bajo la suprema dirección del Procurador General.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0020",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1448 de 2011, art. 3",
+  "enunciado": "Según la Ley de Víctimas, se consideran víctimas, para los efectos de esa ley, quienes individual o colectivamente hayan sufrido un daño por hechos ocurridos",
+  "opciones": {
+   "A": "solo a partir de 2011.",
+   "B": "únicamente por actos de la delincuencia común organizada.",
+   "C": "a partir del 1 de enero de 1985, como consecuencia de infracciones al DIH o de violaciones graves y manifiestas a las normas internacionales de derechos humanos, ocurridas con ocasión del conflicto armado interno.",
+   "D": "en cualquier época, por cualquier delito común."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 3 de la Ley 1448 de 2011 define como víctimas a quienes hayan sufrido daño por hechos ocurridos a partir del 1 de enero de 1985 con ocasión del conflicto armado interno; las víctimas anteriores tienen derecho a medidas de verdad, reparación simbólica y garantías de no repetición.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0021",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1448 de 2011, art. 201",
+  "enunciado": "En el sistema de atención y reparación a las víctimas, la Procuraduría General de la Nación",
+  "opciones": {
+   "A": "decide la inclusión en el Registro Único de Víctimas.",
+   "B": "paga las indemnizaciones administrativas.",
+   "C": "hace parte de la Comisión de Seguimiento y Monitoreo al cumplimiento de la ley, junto con la Defensoría y la Contraloría.",
+   "D": "administra el Fondo de Reparación de Víctimas."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 201 de la Ley 1448 de 2011 crea la Comisión de Seguimiento y Monitoreo, integrada entre otros por el Procurador General, el Defensor del Pueblo y el Contralor General. El registro y las indemnizaciones corresponden a la Unidad para las Víctimas.",
+  "dificultad": 3
+ },
+ {
+  "id": "ddhh-0022",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 13",
+  "enunciado": "Usuarios de un servicio público domiciliario denuncian cobros abusivos generalizados. En ejercicio de su función preventiva, la Procuraduría puede",
+  "opciones": {
+   "A": "sancionar a la empresa con multas por prácticas comerciales.",
+   "B": "velar por la defensa de los derechos de los usuarios de servicios públicos domiciliarios e intervenir ante las autoridades competentes.",
+   "C": "fijar directamente las tarifas del servicio.",
+   "D": "anular las facturas emitidas."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 13 del artículo 24 del Decreto Ley 262 de 2000 asigna a las procuradurías delegadas velar por la defensa de los derechos de los consumidores y usuarios de servicios públicos domiciliarios. Fijar tarifas y sancionar a las empresas corresponde a las comisiones de regulación y a la Superintendencia.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0023",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 7",
+  "enunciado": "Ante la mora reiterada de un juzgado en decidir procesos de alimentos, la Procuraduría puede ejercer",
+  "opciones": {
+   "A": "la dirección del despacho judicial.",
+   "B": "la facultad de dictar las sentencias pendientes.",
+   "C": "el poder disciplinario sobre el juez, en todo caso.",
+   "D": "vigilancia superior de las actuaciones judiciales, de oficio o a petición de parte, de manera temporal o permanente."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 7 del artículo 24 del Decreto Ley 262 de 2000 permite ejercer vigilancia superior de las actuaciones judiciales. El juzgamiento disciplinario de los jueces corresponde a la Comisión Nacional y las Comisiones Seccionales de Disciplina Judicial.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0024",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 30; Ley 1095 de 2006, art. 1",
+  "enunciado": "Una persona fue privada de la libertad y la detención se prolongó ilegalmente. El mecanismo para restablecer su libertad es",
+  "opciones": {
+   "A": "el habeas corpus, que puede invocarse ante cualquier autoridad judicial y debe resolverse en treinta y seis horas.",
+   "B": "la acción de cumplimiento.",
+   "C": "la acción popular.",
+   "D": "la revocatoria directa del acto de captura."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 30 de la Constitución y la Ley 1095 de 2006 regulan el habeas corpus como derecho fundamental y acción constitucional que protege la libertad cuando alguien es privado de ella con violación de las garantías o la privación se prolonga ilegalmente; se resuelve en treinta y seis horas.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0025",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 44",
+  "enunciado": "En un conflicto entre los derechos de un niño y los de otras personas, según el artículo 44 de la Constitución",
+  "opciones": {
+   "A": "prevalecen siempre los derechos de los padres.",
+   "B": "se aplica la regla de igualdad sin preferencia alguna.",
+   "C": "los derechos de los niños prevalecen sobre los derechos de los demás.",
+   "D": "decide el interés de la entidad territorial."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 44 de la Constitución consagra los derechos fundamentales de los niños y dispone que prevalecen sobre los derechos de los demás; la familia, la sociedad y el Estado deben asistirlos y protegerlos.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0026",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 26, num. 4",
+  "enunciado": "La función de llevar un registro actualizado de los hechos constitutivos de violaciones de derechos humanos e infracciones graves al DIH corresponde, según el Decreto Ley 262 de 2000, a",
+  "opciones": {
+   "A": "el Ministerio de Defensa.",
+   "B": "las personerías exclusivamente.",
+   "C": "la Registraduría Nacional del Estado Civil.",
+   "D": "las procuradurías delegadas con funciones de protección de derechos humanos."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 4 del artículo 26 del Decreto Ley 262 de 2000 asigna a las procuradurías delegadas llevar un registro actualizado de los hechos constitutivos de violaciones de derechos humanos e infracciones graves al DIH.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0027",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 8",
+  "enunciado": "La tutela puede proceder aunque exista otro medio de defensa judicial cuando",
+  "opciones": {
+   "A": "el accionante prefiere la tutela por ser más rápida.",
+   "B": "se utiliza como mecanismo transitorio para evitar un perjuicio irremediable.",
+   "C": "el otro medio exige pagar un abogado.",
+   "D": "el juez de tutela es del mismo municipio."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 8 del Decreto 2591 de 1991 permite la tutela como mecanismo transitorio para evitar un perjuicio irremediable, aun existiendo otro medio judicial; en ese caso el afectado debe ejercer la acción ordinaria en un término máximo de cuatro meses.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0028",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 219",
+  "enunciado": "En una visita, la Procuraduría evidencia que un contrato en ejecución vulnera el ordenamiento jurídico y puede defraudar el patrimonio público. Como medida preventiva puede",
+  "opciones": {
+   "A": "solicitar la suspensión del procedimiento, el acto o el contrato o de su ejecución, medida que solo adopta el Procurador General, su delegado especial o el personero.",
+   "B": "tomar posesión de la obra.",
+   "C": "declarar la nulidad absoluta del contrato.",
+   "D": "ordenar al contratista devolver los recursos."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 219 de la Ley 1952 de 2019 permite a la Procuraduría y a las personerías solicitar la suspensión de procedimientos, actos o contratos o de su ejecución para que cesen los efectos y se eviten perjuicios; solo puede adoptarla el Procurador General, su delegado especial o el personero.",
+  "dificultad": 3
+ }
+]
