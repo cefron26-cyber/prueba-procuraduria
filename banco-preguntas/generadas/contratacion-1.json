@@ -1,0 +1,478 @@
+[
+ {
+  "id": "cont-0001",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2",
+  "enunciado": "Según la Ley 1150 de 2007, la regla general para escoger al contratista es",
+  "opciones": {
+   "A": "la selección abreviada en todos los casos.",
+   "B": "la contratación directa, salvo que el valor supere la menor cuantía.",
+   "C": "la licitación pública, salvo los casos de selección abreviada, concurso de méritos, contratación directa y mínima cuantía.",
+   "D": "el concurso de méritos para todo tipo de contrato."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 1 del artículo 2 de la Ley 1150 de 2007 establece que la escogencia del contratista se efectuará por regla general a través de licitación pública, con las excepciones de las demás modalidades previstas en la ley.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0002",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 3",
+  "enunciado": "Una entidad necesita contratar los estudios técnicos y diseños de un puente con una firma consultora. La modalidad de selección aplicable es",
+  "opciones": {
+   "A": "la contratación directa por ausencia de pluralidad de oferentes.",
+   "B": "la mínima cuantía.",
+   "C": "la selección abreviada por subasta inversa.",
+   "D": "el concurso de méritos."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 3 del artículo 2 de la Ley 1150 de 2007 dispone que la selección de consultores, como los de estudios y diseños, se hace mediante concurso de méritos, en el que se evalúa la calidad técnica y la experiencia, no el precio.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0003",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 2, lit. a",
+  "enunciado": "Una gobernación necesita adquirir papelería y equipos de cómputo estándar, de características técnicas uniformes y común utilización. La modalidad que corresponde es",
+  "opciones": {
+   "A": "la licitación pública obligatoria por el tipo de bien.",
+   "B": "la selección abreviada.",
+   "C": "el concurso de méritos.",
+   "D": "la contratación directa."
+  },
+  "correcta": "B",
+  "explicacion": "El literal a del numeral 2 del artículo 2 de la Ley 1150 de 2007 prevé la selección abreviada para la adquisición de bienes y servicios de características técnicas uniformes y de común utilización, mediante subasta inversa, acuerdo marco de precios o bolsa de productos.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0004",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 4, lit. h",
+  "enunciado": "Un municipio requiere contratar a un abogado para que lo asesore en un asunto jurídico puntual, por un período corto. Puede hacerlo mediante",
+  "opciones": {
+   "A": "contratación directa, por tratarse de prestación de servicios profesionales.",
+   "B": "concurso de méritos abierto.",
+   "C": "subasta inversa.",
+   "D": "licitación pública obligatoria."
+  },
+  "correcta": "A",
+  "explicacion": "El literal h del numeral 4 del artículo 2 de la Ley 1150 de 2007 permite la contratación directa para la prestación de servicios profesionales y de apoyo a la gestión, o para trabajos artísticos que solo puedan encomendarse a determinadas personas naturales.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0005",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 4; Ley 80 de 1993, art. 42",
+  "enunciado": "Una avalancha destruye el acueducto de un municipio y se requiere restablecer el servicio de inmediato. El alcalde puede contratar directamente invocando",
+  "opciones": {
+   "A": "la ausencia de pluralidad de oferentes.",
+   "B": "la urgencia manifiesta.",
+   "C": "la mínima cuantía, sin importar el valor.",
+   "D": "el contrato interadministrativo con cualquier particular."
+  },
+  "correcta": "B",
+  "explicacion": "La urgencia manifiesta (art. 42 de la Ley 80 de 1993) procede ante calamidades, desastres o situaciones de fuerza mayor que exigen actuar de inmediato y es causal de contratación directa según el artículo 2, numeral 4, de la Ley 1150 de 2007.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0006",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 43",
+  "enunciado": "Inmediatamente después de celebrar los contratos originados en una urgencia manifiesta, la entidad debe enviar el contrato, el acto que la declaró y sus antecedentes a",
+  "opciones": {
+   "A": "la Agencia Colombia Compra Eficiente, para su aprobación.",
+   "B": "el concejo municipal, para su ratificación.",
+   "C": "el Consejo de Estado, para su revisión previa.",
+   "D": "el funcionario u organismo que ejerza el control fiscal en la entidad."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 43 de la Ley 80 de 1993 ordena enviar los contratos, el acto que declaró la urgencia y los antecedentes al organismo de control fiscal, que debe pronunciarse sobre los hechos y circunstancias que la determinaron.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0007",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 94 (adiciona art. 2 de Ley 1150 de 2007)",
+  "enunciado": "La modalidad de mínima cuantía se aplica a la contratación cuyo valor",
+  "opciones": {
+   "A": "no exceda el diez por ciento de la menor cuantía de la entidad, independientemente de su objeto.",
+   "B": "no exceda la mitad de la menor cuantía, solo para obras.",
+   "C": "no exceda cien salarios mínimos en todas las entidades.",
+   "D": "sea inferior al presupuesto anual de inversión."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 94 de la Ley 1474 de 2011 creó la modalidad de mínima cuantía para contratos cuyo valor no exceda el diez por ciento de la menor cuantía de la entidad, independientemente de su objeto, con un procedimiento simplificado.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0008",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 14",
+  "enunciado": "Son cláusulas excepcionales al derecho común en los contratos estatales",
+  "opciones": {
+   "A": "la cláusula penal y la de confidencialidad.",
+   "B": "la indexación y los intereses moratorios.",
+   "C": "la interpretación, modificación y terminación unilaterales, el sometimiento a las leyes nacionales, la caducidad y la reversión.",
+   "D": "el arbitramento y la amigable composición."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 14 de la Ley 80 de 1993 enumera como cláusulas excepcionales la interpretación, modificación y terminación unilaterales, el sometimiento a las leyes nacionales, la caducidad y, en ciertos contratos, la reversión.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0009",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 18",
+  "enunciado": "Un contratista de obra abandona los trabajos y su incumplimiento afecta de manera grave y directa la ejecución, con evidencia de que puede conducir a su paralización. La entidad puede",
+  "opciones": {
+   "A": "ceder el contrato a otro contratista sin acto alguno.",
+   "B": "únicamente demandar al contratista ante el juez.",
+   "C": "declarar la caducidad del contrato mediante acto motivado y ordenar su liquidación.",
+   "D": "pagar el saldo y terminar de mutuo acuerdo."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 18 de la Ley 80 de 1993 faculta a la entidad para declarar la caducidad, mediante acto motivado, cuando hay incumplimiento que afecta de manera grave y directa la ejecución y evidencia que puede conducir a su paralización, y ordenar la liquidación en el estado en que se encuentre.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0010",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 8, num. 1, lit. c",
+  "enunciado": "A un contratista le declararon la caducidad de un contrato estatal. En cuanto a nuevos contratos con el Estado, queda inhabilitado por",
+  "opciones": {
+   "A": "un año contado desde la notificación.",
+   "B": "diez años contados desde la firma del contrato.",
+   "C": "dos años contados desde la liquidación.",
+   "D": "cinco años contados desde la ejecutoria del acto que la declaró."
+  },
+  "correcta": "D",
+  "explicacion": "El literal c del numeral 1 del artículo 8 de la Ley 80 de 1993 inhabilita a quienes dieron lugar a la declaratoria de caducidad, por cinco años contados desde la fecha de ejecutoria del acto que la declaró.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0011",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 40, parágrafo",
+  "enunciado": "Un contrato de obra se pactó por 1.000 SMMLV y la entidad requiere adicionarlo. Según la Ley 80 de 1993, la adición no puede superar",
+  "opciones": {
+   "A": "el valor que autorice el contratista.",
+   "B": "el cincuenta por ciento de su valor inicial, expresado en salarios mínimos legales mensuales.",
+   "C": "el cien por ciento del valor inicial.",
+   "D": "el veinte por ciento del valor inicial."
+  },
+  "correcta": "B",
+  "explicacion": "El parágrafo del artículo 40 de la Ley 80 de 1993 dispone que los contratos no podrán adicionarse en más del cincuenta por ciento de su valor inicial, expresado en salarios mínimos legales mensuales.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0012",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 11",
+  "enunciado": "Terminado un contrato que requiere liquidación, si no se pactó plazo, la liquidación de mutuo acuerdo debe hacerse dentro de los",
+  "opciones": {
+   "A": "cuatro meses siguientes a la expiración del término de ejecución.",
+   "B": "seis meses siguientes a la última factura.",
+   "C": "dos años siguientes a la firma del contrato.",
+   "D": "diez días hábiles siguientes a la entrega."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 11 de la Ley 1150 de 2007 dispone que la liquidación de mutuo acuerdo se hará en el término pactado o, en su defecto, dentro de los cuatro meses siguientes a la expiración del plazo de ejecución; si no se logra, la entidad puede liquidar unilateralmente dentro de los dos meses siguientes.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0013",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 11",
+  "enunciado": "Vencidos los plazos de liquidación bilateral y unilateral sin que el contrato se haya liquidado, la liquidación",
+  "opciones": {
+   "A": "solo puede hacerla la Contraloría.",
+   "B": "debe hacerse dentro de los treinta días siguientes, so pena de nulidad.",
+   "C": "ya no es posible y el contrato queda cerrado sin liquidar.",
+   "D": "podrá realizarse en cualquier tiempo dentro de los dos años siguientes, de mutuo acuerdo o unilateralmente."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 11 de la Ley 1150 de 2007 permite liquidar en cualquier tiempo dentro de los dos años siguientes al vencimiento de los términos legales, de mutuo acuerdo o unilateralmente, sin perjuicio de la liquidación judicial.",
+  "dificultad": 3
+ },
+ {
+  "id": "cont-0014",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 5",
+  "enunciado": "En una licitación, la entidad otorga puntaje adicional a los proponentes con mayor patrimonio, que es un requisito de capacidad financiera. Según la Ley 1150 de 2007",
+  "opciones": {
+   "A": "es válido solo en obras públicas.",
+   "B": "los requisitos habilitantes, como la capacidad financiera, son objeto de verificación de cumplimiento y no otorgan puntaje.",
+   "C": "es obligatorio otorgar puntaje a la capacidad financiera.",
+   "D": "es válido porque mejora la selección objetiva."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 1 del artículo 5 de la Ley 1150 de 2007 dispone que la capacidad jurídica, la experiencia, la capacidad financiera y de organización son requisitos habilitantes que se verifican como cumple o no cumple y no otorgan puntaje.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0015",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 5, num. 4",
+  "enunciado": "En el concurso de méritos para seleccionar consultores, el precio",
+  "opciones": {
+   "A": "define el orden de elegibilidad en caso de empate técnico.",
+   "B": "es el único factor de evaluación.",
+   "C": "no puede incluirse como factor de escogencia.",
+   "D": "vale como mínimo el cincuenta por ciento del puntaje."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 4 del artículo 5 de la Ley 1150 de 2007 establece que en la selección de consultores la entidad no puede incluir el precio como factor de escogencia; se evalúan la experiencia, la formación y la calidad técnica.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0016",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 6",
+  "enunciado": "Las personas naturales o jurídicas que aspiren a celebrar contratos con las entidades estatales deben, por regla general, inscribirse en",
+  "opciones": {
+   "A": "el Registro Único de Proponentes que llevan las cámaras de comercio.",
+   "B": "el registro nacional de abogados.",
+   "C": "el SIGEP administrado por la Función Pública.",
+   "D": "el registro de la Procuraduría General."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 6 de la Ley 1150 de 2007 exige inscribirse en el Registro Único de Proponentes, que llevan las cámaras de comercio, salvo excepciones como la contratación directa, la mínima cuantía o los bienes de características técnicas uniformes, entre otras.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0017",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 23 (modifica art. 41 de Ley 80 de 1993)",
+  "enunciado": "Un contrato estatal fue firmado por las partes. Para iniciar su ejecución se requiere",
+  "opciones": {
+   "A": "la aprobación de la garantía y la existencia de las disponibilidades presupuestales correspondientes.",
+   "B": "la autorización de la Contraloría.",
+   "C": "el pago del anticipo pactado.",
+   "D": "la publicación en el Diario Oficial y el registro ante notario."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 41 de la Ley 80 de 1993, modificado por el artículo 23 de la Ley 1150 de 2007, dispone que el contrato se perfecciona con el acuerdo sobre objeto y contraprestación elevado a escrito, y que su ejecución requiere la aprobación de la garantía y el registro presupuestal.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0018",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 44",
+  "enunciado": "Es causal de nulidad absoluta del contrato estatal",
+  "opciones": {
+   "A": "que el contratista incumpla una obligación menor.",
+   "B": "celebrarlo con personas incursas en causales de inhabilidad o incompatibilidad previstas en la Constitución y la ley.",
+   "C": "que la entidad pague con retraso.",
+   "D": "que la obra se termine antes del plazo."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 44 de la Ley 80 de 1993 establece como causales de nulidad absoluta celebrar el contrato con personas inhabilitadas o incompatibles, contra expresa prohibición, con abuso o desviación de poder, cuando se declaren nulos los actos en que se funda o con desconocimiento de reglas sobre cláusulas excepcionales.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0019",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 83",
+  "enunciado": "Una entidad debe vigilar un contrato de obra de gran complejidad técnica. Según el Estatuto Anticorrupción, el seguimiento técnico especializado",
+  "opciones": {
+   "A": "debe hacerlo siempre el ordenador del gasto personalmente.",
+   "B": "corresponde a la Procuraduría por ser una obra de gran cuantía.",
+   "C": "lo realiza el mismo contratista mediante autocontrol.",
+   "D": "se hace mediante interventoría contratada con una persona natural o jurídica, cuando el seguimiento suponga conocimiento especializado o la complejidad lo justifique."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 83 de la Ley 1474 de 2011 distingue la supervisión, que ejerce la entidad con sus funcionarios cuando no se requieren conocimientos especializados, y la interventoría, contratada con una persona natural o jurídica cuando el seguimiento supone conocimiento especializado o la complejidad o extensión del contrato lo justifiquen.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0020",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 86",
+  "enunciado": "Una entidad pretende imponer una multa a un contratista por retraso. Según la Ley 1474 de 2011, debe",
+  "opciones": {
+   "A": "pedir autorización al juez administrativo.",
+   "B": "publicar la sanción antes de notificar al contratista.",
+   "C": "citarlo a una audiencia en la que se le presenten los hechos, las cláusulas afectadas y las consecuencias, para que ejerza su defensa.",
+   "D": "descontar la multa de la factura sin trámite."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 86 de la Ley 1474 de 2011 establece un procedimiento en audiencia para imponer multas, sanciones y declaratorias de incumplimiento, con citación al contratista y a su garante, garantizando el debido proceso.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0021",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 24",
+  "enunciado": "El principio de la contratación estatal según el cual los procesos de selección deben permitir a los interesados conocer y controvertir los informes, conceptos y decisiones, y en virtud del cual los actos deben motivarse, es el de",
+  "opciones": {
+   "A": "transparencia.",
+   "B": "responsabilidad.",
+   "C": "ecuación contractual.",
+   "D": "economía."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 24 de la Ley 80 de 1993 desarrolla el principio de transparencia: publicidad de las actuaciones, posibilidad de controvertir informes y decisiones, pliegos con reglas objetivas y motivación de los actos.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0022",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 27",
+  "enunciado": "Durante la ejecución de un contrato, un hecho imprevisible ajeno a las partes encarece de forma extraordinaria los insumos y rompe el equilibrio económico. Según la Ley 80 de 1993",
+  "opciones": {
+   "A": "el contrato se termina de pleno derecho.",
+   "B": "las partes deben adoptar las medidas necesarias para restablecer la ecuación económica del contrato.",
+   "C": "la entidad debe declarar la caducidad.",
+   "D": "el contratista debe asumir todo el riesgo sin compensación."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 27 de la Ley 80 de 1993 dispone que se mantendrá la igualdad o equivalencia entre derechos y obligaciones surgidos al proponer o contratar, y que si se rompe por causas no imputables a quien resulte afectado, las partes adoptarán las medidas para su restablecimiento.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0023",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 4, lit. c",
+  "enunciado": "Un municipio y una universidad pública celebran un contrato para que esta realice un diagnóstico social. Pueden hacerlo mediante contratación directa porque se trata de",
+  "opciones": {
+   "A": "una urgencia manifiesta.",
+   "B": "un contrato de mínima cuantía.",
+   "C": "un concurso de méritos simplificado.",
+   "D": "un contrato interadministrativo, siempre que las obligaciones tengan relación directa con el objeto de la entidad ejecutora."
+  },
+  "correcta": "D",
+  "explicacion": "El literal c del numeral 4 del artículo 2 de la Ley 1150 de 2007 permite contratar directamente los contratos interadministrativos, siempre que las obligaciones tengan relación directa con el objeto de la entidad ejecutora señalado en la ley o en sus reglamentos.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0024",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 82",
+  "enunciado": "Los interventores responden por el cumplimiento de sus obligaciones",
+  "opciones": {
+   "A": "solo disciplinariamente.",
+   "B": "únicamente si son servidores públicos.",
+   "C": "civil, fiscal, penal y disciplinariamente.",
+   "D": "solo civilmente frente a la entidad."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 82 de la Ley 1474 de 2011 dispone que los consultores, asesores e interventores responden civil, fiscal, penal y disciplinariamente por los hechos u omisiones que les sean imputables. La Ley 1952 de 2019 los incluye como sujetos disciplinables (art. 70).",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0025",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 25",
+  "enunciado": "Una entidad abre un proceso de selección sin tener disponibilidad presupuestal para el contrato. Esta actuación desconoce el principio de",
+  "opciones": {
+   "A": "publicidad.",
+   "B": "buena fe del contratista.",
+   "C": "economía, que exige contar con las apropiaciones presupuestales antes de iniciar el proceso.",
+   "D": "autonomía de la voluntad."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 6 del artículo 25 de la Ley 80 de 1993, dentro del principio de economía, exige que las entidades abran licitaciones o concursos e inicien procesos de suscripción de contratos solo cuando existan las respectivas partidas o disponibilidades presupuestales.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0026",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 26",
+  "enunciado": "Según el principio de responsabilidad de la Ley 80 de 1993, los servidores públicos que intervienen en la contratación",
+  "opciones": {
+   "A": "responden por sus actuaciones y omisiones antijurídicas y deben indemnizar los daños que causen por ellas.",
+   "B": "no responden si actúan por delegación.",
+   "C": "solo responden ante el contratista.",
+   "D": "responden únicamente por dolo, nunca por culpa."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 26 de la Ley 80 de 1993 establece que los servidores públicos están obligados a buscar los fines de la contratación y a proteger los derechos de la entidad, y responden por sus actuaciones y omisiones antijurídicas, debiendo indemnizar los daños que causen.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0027",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 8, num. 1, lit. a",
+  "enunciado": "Un aspirante a contratista fue condenado a la pena accesoria de interdicción de derechos y funciones públicas, que aún está vigente. Para contratar con el Estado",
+  "opciones": {
+   "A": "puede contratar si ofrece una garantía mayor.",
+   "B": "solo está inhabilitado para contratos de obra.",
+   "C": "puede contratar por intermedio de un consorcio.",
+   "D": "está inhabilitado durante el término de la interdicción."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 8 de la Ley 80 de 1993 inhabilita para contratar a quienes se hallen inhabilitados por la Constitución y las leyes, entre ellos los condenados a interdicción de derechos y funciones públicas, durante el término de la pena. La inhabilidad no se elude participando en un consorcio.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0028",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 24; Ley 1150 de 2007, art. 3",
+  "enunciado": "La publicidad de los procesos de contratación de las entidades estatales se garantiza principalmente mediante",
+  "opciones": {
+   "A": "el envío de los pliegos solo a los proveedores registrados.",
+   "B": "el Sistema Electrónico de Contratación Pública, SECOP.",
+   "C": "la publicación en la cartelera de la alcaldía únicamente.",
+   "D": "la notificación personal a cada posible oferente."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 3 de la Ley 1150 de 2007 dispone que la sustanciación de las actuaciones y la expedición de los actos en la contratación pública se publicarán en el Sistema Electrónico de Contratación Pública, SECOP, desarrollado por Colombia Compra Eficiente.",
+  "dificultad": 1
+ }
+]
