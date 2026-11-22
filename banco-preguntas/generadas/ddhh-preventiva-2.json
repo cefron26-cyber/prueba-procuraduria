@@ -1,0 +1,480 @@
+[
+ {
+  "id": "ddhh-0029",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 5",
+  "enunciado": "Según el Decreto 2591 de 1991, la acción de tutela procede contra",
+  "opciones": {
+   "A": "solo contra autoridades judiciales.",
+   "B": "toda acción u omisión de las autoridades públicas que haya violado, viole o amenace violar derechos fundamentales, y contra particulares en los casos previstos.",
+   "C": "únicamente contra actos administrativos de carácter general.",
+   "D": "solo contra particulares que presten servicios públicos."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 5 del Decreto 2591 de 1991 dispone que la tutela procede contra toda acción u omisión de las autoridades públicas que viole o amenace derechos fundamentales, y también contra particulares en los casos del capítulo III del decreto.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0030",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 6, num. 3",
+  "enunciado": "Unos vecinos interponen tutela para proteger un parque público frente a una construcción que no afecta ningún derecho fundamental individual. Según el Decreto 2591 de 1991",
+  "opciones": {
+   "A": "la tutela procede para cualquier derecho colectivo.",
+   "B": "debe tramitarse como acción de grupo.",
+   "C": "la tutela es improcedente cuando se pretenda proteger derechos colectivos, para lo cual procede la acción popular.",
+   "D": "debe ser resuelta por el Consejo de Estado."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 3 del artículo 6 del Decreto 2591 de 1991 declara improcedente la tutela para proteger derechos colectivos como la paz o el espacio público, salvo que se trate de impedir un perjuicio irremediable a derechos fundamentales conexos; la vía propia es la acción popular.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0031",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 6, num. 5",
+  "enunciado": "Un ciudadano interpone tutela contra un decreto departamental de carácter general, impersonal y abstracto. La tutela",
+  "opciones": {
+   "A": "debe remitirse a la Corte Constitucional.",
+   "B": "procede siempre que se alegue un derecho fundamental.",
+   "C": "debe tramitarse como acción de cumplimiento.",
+   "D": "es improcedente cuando se trate de actos de carácter general, impersonal y abstracto."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 5 del artículo 6 del Decreto 2591 de 1991 declara improcedente la tutela cuando se trate de actos de carácter general, impersonal y abstracto, sin perjuicio de su procedencia excepcional para evitar un perjuicio irremediable frente a su aplicación concreta.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0032",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 33",
+  "enunciado": "Los fallos de tutela que no son impugnados, así como los de segunda instancia, se remiten",
+  "opciones": {
+   "A": "a la Corte Constitucional para su eventual revisión.",
+   "B": "al superior jerárquico de la autoridad accionada.",
+   "C": "al Consejo de Estado para su confirmación.",
+   "D": "a la Procuraduría para su archivo."
+  },
+  "correcta": "A",
+  "explicacion": "Los artículos 31 a 33 del Decreto 2591 de 1991 disponen que los fallos de tutela se remiten a la Corte Constitucional para su eventual revisión; la selección es discrecional.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0033",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 42",
+  "enunciado": "Una empresa privada de salud niega un tratamiento a un afiliado. La tutela contra esa empresa",
+  "opciones": {
+   "A": "solo procede si la empresa es de economía mixta.",
+   "B": "procede, porque la tutela procede contra particulares encargados de la prestación del servicio público de salud.",
+   "C": "solo procede ante la Superintendencia.",
+   "D": "es improcedente porque es un particular."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 42 del Decreto 2591 de 1991 prevé la tutela contra particulares encargados de la prestación de servicios públicos, como el de salud, entre otros supuestos de subordinación, indefensión o prestación de servicios públicos.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0034",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 37",
+  "enunciado": "La acción de tutela es competencia, a prevención, de",
+  "opciones": {
+   "A": "exclusivamente la Corte Constitucional.",
+   "B": "solo los jueces administrativos.",
+   "C": "los jueces o tribunales con jurisdicción donde ocurriere la violación o la amenaza que motiva la solicitud.",
+   "D": "la Procuraduría General."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 37 del Decreto 2591 de 1991 dispone que son competentes para conocer de la tutela, a prevención, los jueces o tribunales con jurisdicción donde ocurriere la violación o amenaza; las reglas de reparto las fija el reglamento.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0035",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 38",
+  "enunciado": "Un abogado presenta, sin motivo expresamente justificado, la misma tutela ante varios jueces. Según el Decreto 2591 de 1991",
+  "opciones": {
+   "A": "es una práctica permitida para asegurar la protección.",
+   "B": "se rechazarán o decidirán desfavorablemente todas las solicitudes y el abogado puede ser sancionado por temeridad.",
+   "C": "se tramitan todas y prevalece la primera decisión favorable.",
+   "D": "se acumulan sin consecuencia alguna."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 38 del Decreto 2591 de 1991 dispone que, cuando sin motivo justificado la misma acción se presente ante varios jueces, se rechazarán o decidirán desfavorablemente todas, y el abogado que promueva esa actuación temeraria puede ser sancionado.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0036",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 14",
+  "enunciado": "Respecto de la forma de presentar una acción de tutela, es correcto afirmar que",
+  "opciones": {
+   "A": "requiere siempre apoderado judicial.",
+   "B": "debe presentarse con autenticación notarial.",
+   "C": "requiere el pago de un arancel judicial.",
+   "D": "no requiere abogado, puede presentarse por cualquier medio de comunicación escrito y en caso de urgencia incluso verbalmente."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 14 del Decreto 2591 de 1991 permite presentar la tutela sin formalidades, por cualquier medio escrito, sin necesidad de abogado, y verbalmente en caso de urgencia o cuando el solicitante no sepa escribir o sea menor de edad.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0037",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 11",
+  "enunciado": "Según la Ley 472 de 1998, la acción popular puede promoverse",
+  "opciones": {
+   "A": "dentro de los dos años siguientes al hecho.",
+   "B": "dentro de los cuatro meses siguientes al acto.",
+   "C": "durante el tiempo que subsista la amenaza o peligro al derecho e interés colectivo.",
+   "D": "solo antes de que se cause el daño."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 11 de la Ley 472 de 1998 dispone que la acción popular puede promoverse durante el tiempo que subsista la amenaza o peligro al derecho e interés colectivo; si se busca volver las cosas a su estado anterior, el término es de cinco años.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0038",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 27",
+  "enunciado": "En el trámite de una acción popular, el juez cita a las partes y al Ministerio Público para",
+  "opciones": {
+   "A": "una audiencia especial de pacto de cumplimiento.",
+   "B": "la lectura de la sentencia de única instancia.",
+   "C": "una conciliación extrajudicial.",
+   "D": "la elección del perito."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 27 de la Ley 472 de 1998 regula la audiencia especial de pacto de cumplimiento, a la que se cita a las partes y al Ministerio Público, en la que puede establecerse un pacto sobre la forma de proteger los derechos colectivos.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0039",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 46",
+  "enunciado": "La acción de grupo según la Ley 472 de 1998 se ejerce por un número plural de personas",
+  "opciones": {
+   "A": "de cualquier número, para proteger derechos colectivos.",
+   "B": "no inferior a cinco, solo contra el Estado.",
+   "C": "no inferior a veinte, que reúnen condiciones uniformes respecto de una misma causa que les originó perjuicios individuales.",
+   "D": "no inferior a cien, siempre que sean propietarios."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 46 de la Ley 472 de 1998 define la acción de grupo como la interpuesta por un número plural o conjunto de personas, no inferior a veinte, que reúnen condiciones uniformes respecto de una misma causa que les originó perjuicios individuales, para obtener la indemnización.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0040",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 393 de 1997, art. 1",
+  "enunciado": "Según la Ley 393 de 1997, toda persona puede acudir ante la autoridad judicial mediante la acción de cumplimiento para",
+  "opciones": {
+   "A": "hacer efectivo el cumplimiento de normas aplicables con fuerza material de ley o actos administrativos.",
+   "B": "obtener una indemnización por perjuicios.",
+   "C": "anular actos administrativos ilegales.",
+   "D": "proteger derechos fundamentales de manera inmediata."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 1 de la Ley 393 de 1997 dispone que toda persona puede acudir ante la autoridad judicial para hacer efectivo el cumplimiento de normas aplicables con fuerza material de ley o actos administrativos.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0041",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1095 de 2006, art. 3",
+  "enunciado": "Según la Ley 1095 de 2006, la acción de habeas corpus",
+  "opciones": {
+   "A": "solo procede ante la Corte Suprema.",
+   "B": "puede invocarse ante cualquier autoridad judicial y debe resolverse en un término de treinta y seis horas.",
+   "C": "se resuelve en diez días hábiles.",
+   "D": "exige agotar recursos ordinarios previos."
+  },
+  "correcta": "B",
+  "explicacion": "La Ley 1095 de 2006, estatutaria del habeas corpus, establece que puede invocarse ante cualquier autoridad judicial y que debe resolverse en un término de treinta y seis horas; no exige agotar previamente otros recursos.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0042",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 12; Ley 1952 de 2019, art. 52",
+  "enunciado": "Según el artículo 12 de la Constitución, nadie será sometido a",
+  "opciones": {
+   "A": "vigilancia administrativa.",
+   "B": "interrogatorios por autoridades judiciales.",
+   "C": "detención por orden judicial.",
+   "D": "desaparición forzada, a torturas ni a tratos o penas crueles, inhumanos o degradantes."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 12 de la Constitución prohíbe la desaparición forzada, la tortura y los tratos o penas crueles, inhumanos o degradantes. La Ley 1952 de 2019 tipifica estas conductas, cometidas por servidores, como faltas gravísimas en el artículo 52.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0043",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Convenios de Ginebra de 1949, art. 3 común; Constitución Política, art. 214",
+  "enunciado": "El artículo 3 común a los Convenios de Ginebra, aplicable a conflictos armados no internacionales, prohíbe respecto de las personas que no participan directamente en las hostilidades",
+  "opciones": {
+   "A": "la prestación de servicios médicos a combatientes.",
+   "B": "la investigación penal de los hechos.",
+   "C": "cualquier detención, incluso con garantías judiciales.",
+   "D": "los atentados contra la vida y la integridad corporal, la toma de rehenes y los atentados contra la dignidad personal."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 3 común prohíbe, en todo tiempo y lugar, los atentados contra la vida y la integridad corporal, la toma de rehenes, los atentados contra la dignidad personal y las condenas sin juicio previo con garantías, respecto de personas que no participan en las hostilidades. La Constitución exige respetar el DIH incluso en estados de excepción.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0044",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1448 de 2011, art. 25",
+  "enunciado": "Según la Ley de Víctimas, la reparación integral comprende medidas de",
+  "opciones": {
+   "A": "solo restitución de tierras.",
+   "B": "restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición.",
+   "C": "exclusivamente atención humanitaria.",
+   "D": "únicamente indemnización económica."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 25 de la Ley 1448 de 2011 dispone que la reparación integral comprende medidas de restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0045",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 330; Convenio 169 de la OIT",
+  "enunciado": "Antes de autorizar la explotación de recursos naturales en territorios indígenas, el Estado debe",
+  "opciones": {
+   "A": "trasladar a la comunidad a otro territorio.",
+   "B": "obtener solo la autorización del alcalde.",
+   "C": "garantizar la participación de las comunidades mediante la consulta previa.",
+   "D": "pagar una compensación sin consulta."
+  },
+  "correcta": "C",
+  "explicacion": "El parágrafo del artículo 330 de la Constitución y el Convenio 169 de la OIT, que integra el bloque de constitucionalidad, exigen propiciar la participación de los representantes de las comunidades indígenas, mediante consulta previa, en las decisiones sobre explotación de recursos naturales en sus territorios.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0046",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 8",
+  "enunciado": "En ejercicio de la función preventiva, la Procuraduría ejerce vigilancia especial sobre los bienes y recursos de la Nación, especialmente sobre",
+  "opciones": {
+   "A": "las islas, islotes, cayos, el subsuelo, el mar territorial, la plataforma continental y el patrimonio arqueológico, histórico y cultural.",
+   "B": "los vehículos de los servidores públicos.",
+   "C": "las cuentas bancarias de los particulares.",
+   "D": "los bienes de las empresas privadas."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 8 del artículo 24 del Decreto Ley 262 de 2000 asigna a las procuradurías delegadas la vigilancia sobre los bienes y recursos de la Nación, especialmente islas, islotes, cayos y morros, subsuelo, mar territorial, plataforma continental y patrimonio arqueológico, histórico y cultural.",
+  "dificultad": 3
+ },
+ {
+  "id": "ddhh-0047",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 9",
+  "enunciado": "Una ley desconoce la autonomía de los municipios en la gestión de sus recursos propios. En su función preventiva, la Procuraduría puede",
+  "opciones": {
+   "A": "suspender su aplicación en todo el país.",
+   "B": "no actuar, porque es tema exclusivo del Congreso.",
+   "C": "vigilar el cumplimiento de las políticas de descentralización y promover las acciones pertinentes cuando se desconozcan los derechos de las entidades territoriales.",
+   "D": "derogar la ley."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 9 del artículo 24 del Decreto Ley 262 de 2000 asigna vigilar el cumplimiento de las políticas de descentralización, la autonomía y los derechos de las entidades territoriales, y promover las acciones pertinentes cuando se desconozcan. No puede derogar ni suspender leyes.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0048",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 24, num. 14",
+  "enunciado": "Entre las funciones preventivas de las procuradurías delegadas está vigilar",
+  "opciones": {
+   "A": "la contabilidad de las empresas privadas.",
+   "B": "la producción agrícola de los municipios.",
+   "C": "la fijación de tarifas de transporte.",
+   "D": "el cumplimiento y la cancelación oportuna de las órdenes de captura."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 14 del artículo 24 del Decreto Ley 262 de 2000 incluye entre las funciones preventivas vigilar el cumplimiento y la cancelación oportuna de las órdenes de captura, para evitar privaciones injustas de la libertad.",
+  "dificultad": 3
+ },
+ {
+  "id": "ddhh-0049",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 26, num. 2",
+  "enunciado": "Un ciudadano colombiano detenido en el exterior denuncia malos tratos. La Procuraduría, en sus funciones de derechos humanos, puede",
+  "opciones": {
+   "A": "juzgar a los funcionarios extranjeros.",
+   "B": "tramitar, por medio del Ministerio de Relaciones Exteriores, las peticiones y quejas sobre violaciones de sus derechos, conforme a los instrumentos internacionales.",
+   "C": "abstenerse, porque no tiene competencia fuera del país.",
+   "D": "ordenar su liberación al gobierno extranjero."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 2 del artículo 26 del Decreto Ley 262 de 2000 asigna a las procuradurías delegadas tramitar, por medio del Ministerio de Relaciones Exteriores, las quejas sobre violaciones de derechos de nacionales detenidos, procesados o condenados en el exterior.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0050",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 26, num. 6",
+  "enunciado": "Una organización internacional denuncia ante la Procuraduría una presunta violación de derechos humanos cometida por agentes estatales. La Procuraduría debe",
+  "opciones": {
+   "A": "recibir y remitir la denuncia a las autoridades competentes y hacer seguimiento a su trámite.",
+   "B": "archivarla porque proviene de un organismo extranjero.",
+   "C": "juzgar penalmente a los responsables.",
+   "D": "publicar los nombres de los presuntos responsables."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 6 del artículo 26 del Decreto Ley 262 de 2000 ordena recibir y remitir a las autoridades competentes las denuncias de organismos nacionales o internacionales o de particulares sobre violaciones de derechos humanos y DIH, y realizar seguimiento a su trámite.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0051",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, arts. 43 y 13",
+  "enunciado": "Según la Constitución, durante el embarazo y después del parto, la mujer",
+  "opciones": {
+   "A": "no tiene protección especial.",
+   "B": "pierde su estabilidad laboral.",
+   "C": "solo tiene protección si es servidora pública.",
+   "D": "gozará de especial asistencia y protección del Estado."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 43 de la Constitución dispone que durante el embarazo y después del parto la mujer gozará de especial asistencia y protección del Estado; la jurisprudencia ha desarrollado la estabilidad laboral reforzada.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0052",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 93, inc. 2",
+  "enunciado": "Según el inciso segundo del artículo 93 de la Constitución, los derechos y deberes consagrados en la Carta",
+  "opciones": {
+   "A": "no admiten interpretación.",
+   "B": "se interpretarán de conformidad con los tratados internacionales sobre derechos humanos ratificados por Colombia.",
+   "C": "se interpretan solo según la jurisprudencia interna.",
+   "D": "prevalecen siempre sobre cualquier tratado."
+  },
+  "correcta": "B",
+  "explicacion": "El inciso segundo del artículo 93 dispone que los derechos y deberes consagrados en la Constitución se interpretarán de conformidad con los tratados internacionales sobre derechos humanos ratificados por Colombia.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0053",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 94",
+  "enunciado": "Según el artículo 94 de la Constitución, la enunciación de los derechos contenidos en la Constitución y en los convenios internacionales",
+  "opciones": {
+   "A": "solo cubre los derechos de los ciudadanos.",
+   "B": "debe actualizarse cada cuatro años por ley.",
+   "C": "no debe entenderse como negación de otros que, siendo inherentes a la persona humana, no figuren expresamente en ellos.",
+   "D": "es taxativa y excluye cualquier otro derecho."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 94 de la Constitución consagra la cláusula de derechos innominados: la enunciación de derechos no niega otros inherentes a la persona humana que no figuren expresamente.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0054",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto 2591 de 1991, art. 23",
+  "enunciado": "Cuando la tutela se dirige contra la negativa de una autoridad a actuar, el fallo que concede el amparo",
+  "opciones": {
+   "A": "ordenará realizar la actuación en un plazo prudencial perentorio, que por regla general no excede de cuarenta y ocho horas.",
+   "B": "ordena a la Procuraduría actuar en su lugar.",
+   "C": "concede un plazo de seis meses.",
+   "D": "solo declara la violación sin dar órdenes."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 23 del Decreto 2591 de 1991 dispone que, si la violación consiste en una omisión, el fallo ordenará realizarla o desarrollar la acción adecuada en un plazo prudencial perentorio, que en principio no excederá de cuarenta y ocho horas.",
+  "dificultad": 2
+ },
+ {
+  "id": "ddhh-0055",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 472 de 1998, art. 4",
+  "enunciado": "Son derechos e intereses colectivos según la Ley 472 de 1998:\n\n1. La moralidad administrativa.\n2. El libre desarrollo de la personalidad.\n3. La defensa del patrimonio público.\n4. La intimidad personal.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 4 de la Ley 472 de 1998 incluye entre los derechos colectivos la moralidad administrativa y la defensa del patrimonio público. El libre desarrollo de la personalidad y la intimidad son derechos fundamentales individuales.",
+  "dificultad": 1
+ },
+ {
+  "id": "ddhh-0056",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Decreto 2591 de 1991, arts. 6 y 8",
+  "enunciado": "TESIS: La acción de tutela es un mecanismo subsidiario de protección de los derechos fundamentales.\n\nPOSTULADO I: Si existe otro medio judicial idóneo y eficaz, la tutela por regla general no procede.\nPOSTULADO II: La tutela puede proceder como mecanismo transitorio para evitar un perjuicio irremediable, aunque exista otro medio.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "A",
+  "explicacion": "La subsidiariedad implica que la tutela cede ante otro medio idóneo (postulado I) y, a la vez, que puede operar transitoriamente cuando ese otro medio no evita un perjuicio irremediable (postulado II), según los artículos 6 y 8 del Decreto 2591 de 1991.",
+  "dificultad": 2
+ }
+]
