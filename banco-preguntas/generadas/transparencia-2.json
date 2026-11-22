@@ -1,0 +1,480 @@
+[
+ {
+  "id": "tra-0029",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 5, lit. e",
+  "enunciado": "Un partido político recibe una solicitud de información sobre el uso de recursos públicos de financiación. Respecto de la Ley 1712 de 2014, el partido",
+  "opciones": {
+   "A": "solo es sujeto obligado durante las campañas.",
+   "B": "no es sujeto obligado por ser una organización privada.",
+   "C": "es sujeto obligado, porque la ley incluye a los partidos o movimientos políticos y los grupos significativos de ciudadanos.",
+   "D": "solo responde si la solicitud la hace el Consejo Nacional Electoral."
+  },
+  "correcta": "C",
+  "explicacion": "El literal e del artículo 5 de la Ley 1712 de 2014 incluye como sujetos obligados a los partidos o movimientos políticos y a los grupos significativos de ciudadanos.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0030",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 5, lit. f",
+  "enunciado": "Una entidad privada administra un fondo parafiscal. Frente a la Ley 1712 de 2014, esa entidad",
+  "opciones": {
+   "A": "solo debe publicar sus estados financieros anuales.",
+   "B": "es sujeto obligado, por administrar instituciones parafiscales, fondos o recursos de naturaleza u origen público.",
+   "C": "es sujeto obligado únicamente si el fondo supera cierto monto.",
+   "D": "no es sujeto obligado por ser de derecho privado."
+  },
+  "correcta": "B",
+  "explicacion": "El literal f del artículo 5 de la Ley 1712 de 2014 incluye como sujetos obligados a las entidades que administren instituciones parafiscales, fondos o recursos de naturaleza u origen público.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0031",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 3",
+  "enunciado": "El principio de la Ley 1712 de 2014 según el cual los sujetos obligados deben entregar información a todas las personas que la soliciten, en igualdad de condiciones y sin exigir expresar las causas de la solicitud, es el de",
+  "opciones": {
+   "A": "calidad de la información.",
+   "B": "gratuidad.",
+   "C": "no discriminación.",
+   "D": "eficacia."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 3 de la Ley 1712 de 2014 define el principio de no discriminación: entregar información a todas las personas en igualdad de condiciones, sin hacer distinciones arbitrarias y sin exigir expresión de causa o motivación de la solicitud.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0032",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 3",
+  "enunciado": "Según el principio de calidad de la información de la Ley 1712 de 2014, la información de interés público que produzcan y difundan los sujetos obligados debe ser",
+  "opciones": {
+   "A": "oportuna, objetiva, veraz, completa, reutilizable, procesable y estar disponible en formatos accesibles.",
+   "B": "publicada solo en medio impreso.",
+   "C": "resumida para no exceder una página.",
+   "D": "aprobada previamente por el jefe de prensa."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 3 de la Ley 1712 de 2014 exige que la información sea oportuna, objetiva, veraz, completa, reutilizable, procesable y disponible en formatos accesibles para los solicitantes e interesados.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0033",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 3",
+  "enunciado": "Según el principio de buena fe de la Ley 1712 de 2014, el sujeto obligado, al cumplir sus obligaciones de acceso a la información,",
+  "opciones": {
+   "A": "puede negar información si sospecha de su uso.",
+   "B": "lo hace con motivación honesta, leal y desprovista de cualquier intención dolosa o culposa.",
+   "C": "puede presumir que el solicitante actúa con fines ilícitos.",
+   "D": "debe exigir que el solicitante demuestre su buena fe."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 3 de la Ley 1712 de 2014 define el principio de buena fe como el deber de cumplir las obligaciones de acceso con motivación honesta, leal y desprovista de cualquier intención dolosa o culposa.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0034",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 6, lit. k",
+  "enunciado": "Una entidad recibe una solicitud de copia de un borrador de estudio técnico aún no definitivo, propio del proceso deliberatorio. Según la Ley 1712 de 2014, ese documento",
+  "opciones": {
+   "A": "es información reservada por quince años.",
+   "B": "es información clasificada por afectar la intimidad.",
+   "C": "es información pública que debe entregarse completa.",
+   "D": "no se considera información pública por ser un documento en construcción."
+  },
+  "correcta": "D",
+  "explicacion": "El literal k del artículo 6 de la Ley 1712 de 2014 dispone que no se considera información pública la información preliminar y no definitiva, propia del proceso deliberatorio de un sujeto obligado en su calidad de tal (documento en construcción).",
+  "dificultad": 3
+ },
+ {
+  "id": "tra-0035",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 8",
+  "enunciado": "Una comunidad indígena solicita que la información de un proyecto que la afecta se divulgue en su lengua. Según la Ley 1712 de 2014",
+  "opciones": {
+   "A": "basta con publicarla en castellano.",
+   "B": "la traducción solo procede por orden judicial.",
+   "C": "el sujeto obligado debe divulgarla en diversos idiomas y lenguas, a solicitud de las autoridades de las comunidades, por el criterio diferencial de accesibilidad.",
+   "D": "la comunidad debe asumir el costo de la traducción."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 8 de la Ley 1712 de 2014 establece el criterio diferencial de accesibilidad: a solicitud de las autoridades de las comunidades, los sujetos obligados divulgarán la información en diversos idiomas y lenguas y en formatos accesibles.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0036",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 9, lit. b",
+  "enunciado": "Es información mínima obligatoria que todo sujeto obligado debe publicar de manera proactiva",
+  "opciones": {
+   "A": "los datos personales de los usuarios.",
+   "B": "las deliberaciones internas no definitivas.",
+   "C": "las claves de acceso a sus sistemas.",
+   "D": "su presupuesto general, la ejecución presupuestal histórica anual y los planes de gasto público."
+  },
+  "correcta": "D",
+  "explicacion": "El literal b del artículo 9 de la Ley 1712 de 2014 obliga a publicar el presupuesto general, la ejecución presupuestal histórica anual y los planes de gasto público de cada año fiscal.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0037",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 9, lit. c",
+  "enunciado": "Según la Ley 1712 de 2014, los sujetos obligados deben publicar un directorio de sus empleados y funcionarios que incluya, entre otros datos,",
+  "opciones": {
+   "A": "el cargo, el correo electrónico y el teléfono del despacho, y las escalas salariales correspondientes a las categorías.",
+   "B": "la afiliación política de cada servidor.",
+   "C": "la dirección de residencia y el número de celular personal.",
+   "D": "las historias clínicas ocupacionales."
+  },
+  "correcta": "A",
+  "explicacion": "El literal c del artículo 9 de la Ley 1712 de 2014 exige publicar un directorio con cargo, correos electrónicos y teléfono del despacho, y las escalas salariales; los datos personales privados no se publican.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0038",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 10, parágrafo",
+  "enunciado": "La información mínima obligatoria del artículo 9 de la Ley 1712 de 2014 debe actualizarse",
+  "opciones": {
+   "A": "una vez al año.",
+   "B": "como mínimo cada mes.",
+   "C": "cada cuatro años, al cambio de gobierno.",
+   "D": "solo cuando un ciudadano lo solicite."
+  },
+  "correcta": "B",
+  "explicacion": "El parágrafo del artículo 10 de la Ley 1712 de 2014 dispone que los sujetos obligados deberán actualizar la información a la que se refiere el artículo 9 mínimo cada mes.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0039",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 13",
+  "enunciado": "Todo sujeto obligado debe crear y mantener actualizado un listado de todas las categorías de información publicada, todo registro publicado y todo registro disponible para ser solicitado. Este instrumento es",
+  "opciones": {
+   "A": "el Registro de Activos de Información.",
+   "B": "el índice de información reservada.",
+   "C": "el Plan Anticorrupción.",
+   "D": "el Programa de Gestión Documental."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 13 de la Ley 1712 de 2014 regula el Registro de Activos de Información, listado de las categorías de información publicada, los registros publicados y los disponibles para solicitud.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0040",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 20",
+  "enunciado": "Los sujetos obligados deben mantener actualizado un índice de los actos, documentos e informaciones calificados como",
+  "opciones": {
+   "A": "de datos abiertos exclusivamente.",
+   "B": "públicos de divulgación proactiva.",
+   "C": "clasificados o reservados, con su motivación y la individualización del acto que los califica.",
+   "D": "de libre circulación."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 20 de la Ley 1712 de 2014 obliga a mantener un índice actualizado de la información clasificada o reservada, que incluya denominaciones, motivación e individualización del acto que la califica.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0041",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 14",
+  "enunciado": "Cuando un sujeto obligado responde una solicitud sobre información previamente divulgada, según la Ley 1712 de 2014 debe",
+  "opciones": {
+   "A": "cobrar una tarifa por la búsqueda.",
+   "B": "entregarla solo de manera verbal.",
+   "C": "mantener la respuesta en reserva.",
+   "D": "hacer pública la respuesta de manera proactiva en su sitio web o, en su defecto, en los dispositivos de divulgación existentes."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 14 de la Ley 1712 de 2014 dispone que cuando se responda una de estas solicitudes, la respuesta deberá hacerse pública de manera proactiva en el sitio web del sujeto obligado o en sus dispositivos de divulgación.",
+  "dificultad": 3
+ },
+ {
+  "id": "tra-0042",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 15",
+  "enunciado": "Según la Ley 1712 de 2014, el instrumento en el que los sujetos obligados establecen los procedimientos para la producción, distribución, organización, consulta y conservación de los documentos públicos es",
+  "opciones": {
+   "A": "el plan de compras.",
+   "B": "el Programa de Gestión Documental.",
+   "C": "el Registro de Activos de Información.",
+   "D": "el esquema de publicación."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 15 de la Ley 1712 de 2014 obliga a adoptar un Programa de Gestión Documental con los procedimientos y lineamientos para la producción, distribución, organización, consulta y conservación de los documentos públicos.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0043",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 18, lit. c",
+  "enunciado": "Una empresa pide que no se divulguen los secretos comerciales que entregó a una entidad en un trámite. Según la Ley 1712 de 2014, el acceso a esa información",
+  "opciones": {
+   "A": "solo puede negarse con orden judicial previa.",
+   "B": "es reservado por quince años automáticamente.",
+   "C": "debe concederse a cualquier persona sin excepción.",
+   "D": "puede negarse de manera motivada y por escrito, por tratarse de secretos comerciales, industriales y profesionales."
+  },
+  "correcta": "D",
+  "explicacion": "El literal c del artículo 18 de la Ley 1712 de 2014 permite rechazar motivadamente y por escrito el acceso a información clasificada cuyo acceso pueda causar daño a los secretos comerciales, industriales y profesionales.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0044",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 19",
+  "enunciado": "Es una de las circunstancias en las que puede negarse el acceso a información reservada por daño a los intereses públicos, siempre que una norma legal o constitucional lo prohíba expresamente,",
+  "opciones": {
+   "A": "el debido proceso y la igualdad de las partes en los procesos judiciales.",
+   "B": "la falta de interés directo del solicitante.",
+   "C": "la incomodidad política para el gobernante.",
+   "D": "el volumen de la información solicitada."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 19 de la Ley 1712 de 2014 enumera, entre otras, la defensa y seguridad nacional, la seguridad pública, las relaciones internacionales, la prevención e investigación de delitos, el debido proceso y la igualdad de las partes en procesos judiciales, y la estabilidad macroeconómica.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0045",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 1",
+  "enunciado": "Según el Estatuto Anticorrupción, quienes hayan sido declarados responsables judicialmente por delitos contra la administración pública",
+  "opciones": {
+   "A": "pueden contratar después de seis meses.",
+   "B": "quedan inhabilitados para contratar con el Estado.",
+   "C": "pueden contratar si pagan una multa.",
+   "D": "solo quedan inhabilitados para contratos de obra."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 1 de la Ley 1474 de 2011, que modificó el artículo 8 de la Ley 80 de 1993, inhabilita para contratar con el Estado a las personas declaradas responsables judicialmente por delitos contra la administración pública, entre otros; la extensión de la inhabilidad fue ampliada por leyes posteriores.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0046",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 2",
+  "enunciado": "Según el Estatuto Anticorrupción, quienes financien campañas a gobernaciones o alcaldías con aportes superiores al dos por ciento de las sumas máximas a invertir",
+  "opciones": {
+   "A": "solo quedan inhabilitados si el candidato pierde.",
+   "B": "pueden contratar libremente con la entidad.",
+   "C": "quedan inhabilitados para celebrar contratos con las entidades de la respectiva entidad territorial durante el período del elegido.",
+   "D": "deben contratar mediante licitación obligatoria."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 2 de la Ley 1474 de 2011 inhabilita a quienes hayan financiado campañas a gobernaciones o alcaldías con aportes superiores al dos por ciento de las sumas máximas a invertir para contratar con la respectiva entidad territorial durante el período del elegido.",
+  "dificultad": 3
+ },
+ {
+  "id": "tra-0047",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 74",
+  "enunciado": "Todas las entidades del Estado deben publicar en su página web, a más tardar el 31 de enero de cada año,",
+  "opciones": {
+   "A": "la lista de quejas recibidas con los nombres de los quejosos.",
+   "B": "los procesos disciplinarios en curso.",
+   "C": "la declaración de renta de sus servidores.",
+   "D": "el plan de acción para el año siguiente, con objetivos, estrategias, proyectos, metas y responsables, y el informe de gestión del año inmediatamente anterior."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 74 de la Ley 1474 de 2011 obliga a publicar en la página web, a más tardar el 31 de enero de cada año, el plan de acción con objetivos, estrategias, proyectos, metas, responsables y presupuesto, junto con el informe de gestión del año anterior.",
+  "dificultad": 3
+ },
+ {
+  "id": "tra-0048",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 78",
+  "enunciado": "Según el Estatuto Anticorrupción, todas las entidades de la administración pública deben",
+  "opciones": {
+   "A": "rendir cuentas solo al Congreso.",
+   "B": "rendir cuentas de manera permanente a la ciudadanía.",
+   "C": "rendir cuentas únicamente al final del período del jefe.",
+   "D": "abstenerse de rendir cuentas en año electoral."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 78 de la Ley 1474 de 2011 dispone que todas las entidades y organismos de la administración pública deben rendir cuentas de manera permanente a la ciudadanía, en los términos que defina el Gobierno.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0049",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 73",
+  "enunciado": "El Plan Anticorrupción y de Atención al Ciudadano que deben elaborar las entidades",
+  "opciones": {
+   "A": "es un documento reservado.",
+   "B": "se elabora cada cuatro años por la Procuraduría.",
+   "C": "se elabora anualmente y contempla, entre otros, el mapa de riesgos de corrupción, medidas para mitigarlos, estrategias antitrámites y mecanismos de atención al ciudadano.",
+   "D": "solo es obligatorio para las entidades nacionales."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 73 de la Ley 1474 de 2011 obliga a elaborar anualmente el plan anticorrupción y de atención al ciudadano en todos los órdenes; según el literal g del artículo 9 de la Ley 1712 de 2014, debe publicarse.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0050",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, arts. 2 y 3",
+  "enunciado": "Según el principio de transparencia de la Ley 1712 de 2014, la información en poder de los sujetos obligados",
+  "opciones": {
+   "A": "se presume pública, y por ello deben proporcionarla y facilitar el acceso en los términos más amplios posibles.",
+   "B": "es pública solo si se refiere a contratos.",
+   "C": "es pública únicamente para ciudadanos colombianos.",
+   "D": "se presume reservada salvo autorización."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 3 de la Ley 1712 de 2014 define el principio de transparencia: toda la información en poder de los sujetos obligados se presume pública, por lo que deben proporcionarla y facilitar el acceso en los términos más amplios posibles.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0051",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 9, lit. e",
+  "enunciado": "Respecto de la contratación, la Ley 1712 de 2014 obliga a los sujetos obligados a publicar",
+  "opciones": {
+   "A": "su plan anual de compras y las contrataciones adjudicadas para la vigencia, con su objeto, valor y plazos.",
+   "B": "los contratos después de liquidados, nunca antes.",
+   "C": "únicamente los contratos superiores a mil salarios mínimos.",
+   "D": "solo los contratos de obra."
+  },
+  "correcta": "A",
+  "explicacion": "El literal e del artículo 9 de la Ley 1712 de 2014 exige publicar el plan de compras anual y las contrataciones adjudicadas para la vigencia; el literal f exige publicar los plazos de cumplimiento de los contratos.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0052",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 11",
+  "enunciado": "Es información mínima obligatoria sobre servicios, procedimientos y funcionamiento que deben publicar los sujetos obligados",
+  "opciones": {
+   "A": "los borradores de decisiones aún no adoptadas.",
+   "B": "todos los informes de gestión, evaluación y auditoría.",
+   "C": "las conversaciones privadas de los directivos.",
+   "D": "las hojas de vida completas de los contratistas con datos sensibles."
+  },
+  "correcta": "B",
+  "explicacion": "El literal e del artículo 11 de la Ley 1712 de 2014 obliga a publicar todos los informes de gestión, evaluación y auditoría del sujeto obligado, además de procedimientos, servicios y mecanismos de supervisión.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0053",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 7",
+  "enunciado": "Según la Ley 1712 de 2014, la información pública debe estar a disposición del público",
+  "opciones": {
+   "A": "exclusivamente en papel.",
+   "B": "únicamente en la sede principal de la entidad.",
+   "C": "a través de medios físicos, remotos o locales de comunicación electrónica.",
+   "D": "solo en el Diario Oficial."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 7 de la Ley 1712 de 2014 dispone que la información debe estar disponible a través de medios físicos, remotos o locales de comunicación electrónica, y que los sujetos obligados deben tener a disposición de las personas la información de manera accesible.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0054",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 3",
+  "enunciado": "El principio según el cual cualquier persona que haga uso de la información que proporcionen los sujetos obligados lo hará atendiendo a la misma, es el de",
+  "opciones": {
+   "A": "facilitación.",
+   "B": "máxima publicidad.",
+   "C": "celeridad.",
+   "D": "responsabilidad en el uso de la información."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 3 de la Ley 1712 de 2014 consagra el principio de responsabilidad en el uso de la información: quien use la información proporcionada por los sujetos obligados lo hará atendiendo a ella.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0055",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1712 de 2014, arts. 18 y 19",
+  "enunciado": "Según la Ley 1712 de 2014, puede negarse motivadamente el acceso a la información cuando pueda causar daño a:\n\n1. La intimidad de las personas.\n2. La imagen política del gobernante de turno.\n3. La defensa y seguridad nacional, si una norma lo prohíbe expresamente.\n4. La comodidad administrativa de la entidad.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 18 protege derechos como la intimidad (información clasificada) y el artículo 19 intereses públicos como la defensa y seguridad nacional, con norma expresa (información reservada). La imagen del gobernante o la comodidad administrativa no son excepciones legales.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0056",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Ley 1712 de 2014, arts. 21 y 28",
+  "enunciado": "TESIS: El acceso a la información pública solo puede restringirse excepcionalmente y las excepciones deben ser limitadas y proporcionales.\n\nPOSTULADO I: Si solo una parte de un documento está protegida, debe entregarse el resto en versión pública.\nPOSTULADO II: Corresponde al sujeto obligado demostrar que la información debe permanecer reservada.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "A",
+  "explicacion": "Si las excepciones son limitadas y proporcionales, la reserva debe circunscribirse a lo indispensable (postulado I, art. 21) y quien la invoca debe justificarla (postulado II, art. 28), pues la regla general es la publicidad.",
+  "dificultad": 3
+ }
+]
