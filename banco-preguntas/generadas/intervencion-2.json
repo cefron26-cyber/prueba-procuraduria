@@ -1,0 +1,480 @@
+[
+ {
+  "id": "int-0029",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303, num. 3",
+  "enunciado": "Un procurador judicial advierte que un municipio celebró un contrato con objeto ilícito. Ante la Jurisdicción de lo Contencioso Administrativo, el Ministerio Público puede",
+  "opciones": {
+   "A": "liquidar unilateralmente el contrato.",
+   "B": "declarar él mismo la nulidad del contrato.",
+   "C": "pedir que se declare la nulidad absoluta del contrato estatal.",
+   "D": "ordenar la suspensión de pagos al contratista."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 3 del artículo 303 del CPACA faculta al Ministerio Público para pedir que se declare la nulidad absoluta de los contratos estatales. La declaratoria corresponde al juez, y la liquidación a la entidad o al juez.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0030",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303, num. 7",
+  "enunciado": "Según el CPACA, entre las atribuciones especiales del Ministerio Público ante la Jurisdicción de lo Contencioso Administrativo está",
+  "opciones": {
+   "A": "adelantar las conciliaciones prejudiciales o extrajudiciales.",
+   "B": "representar a los particulares demandantes.",
+   "C": "administrar los depósitos judiciales.",
+   "D": "dictar las sentencias de primera instancia en ausencia del juez."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 7 del artículo 303 del CPACA atribuye al Ministerio Público adelantar las conciliaciones prejudiciales o extrajudiciales; su parágrafo le ordena verificar la existencia de jurisprudencia unificada aplicable al caso.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0031",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303, parágrafo",
+  "enunciado": "Presentada una solicitud de conciliación extrajudicial, el agente del Ministerio Público debe, de oficio o a solicitud del convocante,",
+  "opciones": {
+   "A": "fallar el fondo del asunto.",
+   "B": "remitirla al juez para que decida si se concilia.",
+   "C": "rechazarla si el valor supera cien salarios mínimos.",
+   "D": "verificar la existencia de jurisprudencia unificada que resulte aplicable al caso."
+  },
+  "correcta": "D",
+  "explicacion": "El parágrafo del artículo 303 del CPACA dispone que, presentada la solicitud de conciliación, el agente del Ministerio Público verificará la existencia de jurisprudencia unificada aplicable, lo que orienta la posibilidad de conciliar.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0032",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303, num. 6",
+  "enunciado": "El Ministerio Público puede solicitar, ante la Jurisdicción de lo Contencioso Administrativo,",
+  "opciones": {
+   "A": "la elección de los magistrados de tribunal.",
+   "B": "la aplicación de la extensión de la jurisprudencia y del mecanismo de revisión eventual de providencias.",
+   "C": "la destitución de los jueces que fallen en su contra.",
+   "D": "la reforma de los códigos procesales."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 6 del artículo 303 del CPACA faculta al Ministerio Público para solicitar la aplicación de la extensión de la jurisprudencia y del mecanismo de revisión eventual de providencias.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0033",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 142",
+  "enunciado": "Una entidad pagó una condena causada por la conducta gravemente culposa de un exfuncionario. Según el CPACA, la entidad",
+  "opciones": {
+   "A": "debe pedir a la Contraloría que inicie un juicio fiscal.",
+   "B": "debe esperar la sanción disciplinaria para cobrar.",
+   "C": "deberá repetir contra el exfuncionario por lo pagado; si no lo hace, el Ministerio Público puede promover la repetición.",
+   "D": "no puede recuperar lo pagado porque el funcionario ya se retiró."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 142 del CPACA dispone que la entidad deberá repetir contra el servidor o exservidor cuya conducta dolosa o gravemente culposa causó la condena; si no lo hace, la repetición puede ser promovida por el Ministerio Público.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0034",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 164, num. 2, lit. a",
+  "enunciado": "El Ministerio Público quiere demandar la nulidad electoral de la elección de un concejal declarada en audiencia pública. El término de caducidad es de",
+  "opciones": {
+   "A": "treinta días, contados a partir del día siguiente a la declaratoria de la elección.",
+   "B": "en cualquier tiempo.",
+   "C": "cuatro meses.",
+   "D": "dos años."
+  },
+  "correcta": "A",
+  "explicacion": "El literal a del numeral 2 del artículo 164 del CPACA fija en treinta días el término para demandar la nulidad electoral; si la elección se declara en audiencia pública, se cuenta a partir del día siguiente.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0035",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 906 de 2004, art. 111, num. 2",
+  "enunciado": "En la audiencia de formulación de acusación de un proceso penal, el procurador judicial considera que la acusación vulnera garantías del procesado. Como Ministerio Público puede",
+  "opciones": {
+   "A": "asumir la defensa técnica del procesado.",
+   "B": "retirar la acusación de la Fiscalía.",
+   "C": "absolver al procesado.",
+   "D": "intervenir para que se garanticen los derechos fundamentales y el debido proceso, formulando sus observaciones."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 111 de la Ley 906 de 2004 asigna al Ministerio Público, como garante de los derechos y del debido proceso, la facultad de intervenir en las audiencias. No puede retirar la acusación, que es de la Fiscalía, ni fallar ni ser defensor.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0036",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 906 de 2004, art. 111, num. 2",
+  "enunciado": "En el sistema penal acusatorio, el Ministerio Público, en representación de la sociedad, puede",
+  "opciones": {
+   "A": "solicitar condena o absolución de los acusados e intervenir en la audiencia de control de preclusión.",
+   "B": "dictar sentencia anticipada.",
+   "C": "formular imputación de manera autónoma.",
+   "D": "dirigir la investigación de la Fiscalía."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 2 del artículo 111 de la Ley 906 de 2004 permite al Ministerio Público, como representante de la sociedad, solicitar condena o absolución e intervenir en la audiencia de control de preclusión, entre otras funciones. La imputación y la dirección de la investigación son de la Fiscalía.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0037",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 906 de 2004, art. 111",
+  "enunciado": "Una víctima de un delito no ha sido informada de sus derechos en el proceso penal. El procurador judicial penal puede",
+  "opciones": {
+   "A": "constituirse en su apoderado de parte civil.",
+   "B": "procurar que las víctimas tengan acceso a la justicia y velar por el respeto de sus derechos en el proceso.",
+   "C": "dictar medidas de reparación integral.",
+   "D": "ignorar la situación porque la víctima tiene la Defensoría."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 111 de la Ley 906 de 2004 asigna al Ministerio Público velar por el respeto de los derechos de las víctimas y procurar que tengan acceso a la justicia y a ser oídas. No asume su representación judicial ni decreta la reparación.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0038",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1564 de 2012, art. 46",
+  "enunciado": "Según el Código General del Proceso, el Ministerio Público interviene en los procesos de su competencia, entre otras funciones,",
+  "opciones": {
+   "A": "como demandado en los procesos ejecutivos.",
+   "B": "únicamente cuando el juez lo designa curador.",
+   "C": "en defensa del ordenamiento jurídico, las garantías y derechos fundamentales, sociales, económicos, culturales o colectivos.",
+   "D": "para fijar los honorarios de los peritos."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 46 del Código General del Proceso dispone que el Ministerio Público interviene en defensa del ordenamiento jurídico y de las garantías y derechos fundamentales, sociales, económicos, culturales o colectivos, en los procesos que determine la ley.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0039",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1564 de 2012, art. 46",
+  "enunciado": "En los procesos de familia en que estén comprometidos los derechos de niños, niñas o adolescentes, el Código General del Proceso prevé que",
+  "opciones": {
+   "A": "el Ministerio Público solo actúe si los padres lo solicitan.",
+   "B": "la intervención corresponda exclusivamente a la Fiscalía.",
+   "C": "no se requiere intervención de ninguna autoridad de control.",
+   "D": "el Ministerio Público intervenga en defensa de sus derechos."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 46 del Código General del Proceso incluye la intervención del Ministerio Público en los procesos de familia, en defensa de los derechos de los menores, de las personas con discapacidad y de la familia, en concordancia con el artículo 47 del Decreto Ley 262 de 2000.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0040",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 44, parágrafo (adic. Ley 1367 de 2009)",
+  "enunciado": "Los procuradores judiciales administrativos deben remitir oportunamente a los procuradores regionales la información relacionada con",
+  "opciones": {
+   "A": "las sentencias proferidas contra entidades públicas declaradas responsables en los procesos administrativos.",
+   "B": "los contratos de prestación de servicios de su dependencia.",
+   "C": "las quejas anónimas recibidas.",
+   "D": "las tutelas falladas en todo el país."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 3 del parágrafo del artículo 44 del Decreto Ley 262 de 2000, adicionado por la Ley 1367 de 2009, ordena remitir a los procuradores regionales la información de las sentencias proferidas contra entidades públicas declaradas responsables, para el seguimiento de la responsabilidad patrimonial.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0041",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 2220 de 2022; Ley 1437 de 2011, art. 161",
+  "enunciado": "El acuerdo conciliatorio celebrado ante el procurador judicial en un asunto de lo contencioso administrativo",
+  "opciones": {
+   "A": "requiere ratificación del Concejo Municipal.",
+   "B": "produce efectos inmediatos sin control judicial.",
+   "C": "debe someterse a aprobación del juez competente, que verifica que no sea lesivo para el patrimonio público ni violatorio de la ley.",
+   "D": "debe ser aprobado por la Contraloría."
+  },
+  "correcta": "C",
+  "explicacion": "En materia contencioso administrativa, el acuerdo conciliatorio extrajudicial debe remitirse al juez o corporación competente para su aprobación o improbación, verificando que esté soportado probatoriamente, no sea lesivo para el patrimonio público ni violatorio de la ley (Ley 2220 de 2022).",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0042",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 2220 de 2022; Ley 1437 de 2011, art. 161",
+  "enunciado": "Sobre asuntos que no son conciliables, como los tributarios en lo contencioso administrativo, la conciliación extrajudicial",
+  "opciones": {
+   "A": "la adelanta la DIAN como conciliador.",
+   "B": "no es requisito de procedibilidad ni procede.",
+   "C": "es obligatoria antes de demandar.",
+   "D": "se adelanta ante un centro privado."
+  },
+  "correcta": "B",
+  "explicacion": "La conciliación extrajudicial solo es requisito de procedibilidad cuando los asuntos son conciliables (CPACA, art. 161); los asuntos tributarios, entre otros, no son conciliables en lo contencioso administrativo según la Ley 2220 de 2022.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0043",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 277, num. 7; Decreto Ley 262 de 2000, art. 28, parágrafo",
+  "enunciado": "Un juez de tutela concedió un amparo que compromete gravemente el patrimonio público con base en pruebas irregulares. El Ministerio Público",
+  "opciones": {
+   "A": "puede intervenir en el trámite de tutela en defensa del orden jurídico y del patrimonio público, e impugnar el fallo cuando proceda.",
+   "B": "puede revocar el fallo directamente.",
+   "C": "solo puede iniciar proceso disciplinario contra el juez.",
+   "D": "no puede intervenir porque la tutela es entre particulares y el juez."
+  },
+  "correcta": "A",
+  "explicacion": "El parágrafo del artículo 28 del Decreto Ley 262 de 2000 permite a los procuradores intervenir en el trámite de tutela ante cualquier autoridad judicial en defensa del orden jurídico y del patrimonio público; el Procurador también puede solicitar su revisión ante la Corte Constitucional.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0044",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 7, num. 16",
+  "enunciado": "Cuando la importancia o trascendencia de un asunto lo requiera, el Procurador General puede",
+  "opciones": {
+   "A": "suspender el proceso judicial.",
+   "B": "designar al juez del caso.",
+   "C": "intervenir personalmente ante las autoridades judiciales o administrativas.",
+   "D": "asumir la función de juez en el proceso."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 16 del artículo 7 del Decreto Ley 262 de 2000 faculta al Procurador para asumir el conocimiento de procesos disciplinarios e intervenir ante las autoridades judiciales o administrativas cuando la importancia o trascendencia del asunto requieran su atención personal.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0045",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 36",
+  "enunciado": "Para la coordinación de la intervención del Ministerio Público ante las autoridades judiciales, el Procurador General",
+  "opciones": {
+   "A": "nombra a los jueces coordinadores.",
+   "B": "transfiere la intervención a la Defensoría.",
+   "C": "delega la coordinación en los personeros.",
+   "D": "asigna a los procuradores delegados funciones de coordinación y vigilancia de las actividades de los procuradores judiciales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 36 del Decreto Ley 262 de 2000 dispone que el Procurador General asignará a los procuradores delegados funciones de coordinación y vigilancia de las actividades de intervención de los procuradores judiciales.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0046",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 43",
+  "enunciado": "La intervención del Ministerio Público en los procesos penales militares ante autoridades distintas de la Corte Suprema corresponde a",
+  "opciones": {
+   "A": "los fiscales penales militares.",
+   "B": "los procuradores judiciales con funciones de intervención en procesos penales militares.",
+   "C": "los personeros municipales.",
+   "D": "la Defensoría del Pueblo."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 43 del Decreto Ley 262 de 2000 asigna a los procuradores judiciales con funciones de intervención en procesos penales militares la actuación ante las autoridades que conozcan de esos procesos, distintas de la Corte Suprema de Justicia.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0047",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 46",
+  "enunciado": "En un proceso agrario de restitución de tierras con interés de comunidades campesinas, la intervención del Ministerio Público corresponde a",
+  "opciones": {
+   "A": "los procuradores penales militares.",
+   "B": "ninguna autoridad del Ministerio Público.",
+   "C": "los procuradores judiciales con funciones de intervención en los procesos agrarios, cuando sea necesario para defender el orden jurídico y los derechos fundamentales.",
+   "D": "los procuradores laborales."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 46 del Decreto Ley 262 de 2000 asigna a los procuradores judiciales agrarios la intervención ante las salas civiles y agrarias y los juzgados correspondientes, cuando sea necesario para defender el orden jurídico, el patrimonio público y los derechos fundamentales, colectivos o del ambiente.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0048",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 34",
+  "enunciado": "Los procuradores delegados intervienen como Ministerio Público en los procesos disciplinarios que adelanta",
+  "opciones": {
+   "A": "el Consejo Nacional Electoral.",
+   "B": "la Superintendencia de Sociedades.",
+   "C": "la oficina de control interno de cada ministerio.",
+   "D": "la Comisión Nacional de Disciplina Judicial."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 34 del Decreto Ley 262 de 2000 regula la intervención de los procuradores delegados como Ministerio Público en los procesos disciplinarios que adelanta la Comisión Nacional de Disciplina Judicial.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0049",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 35",
+  "enunciado": "Los procuradores delegados intervienen como Ministerio Público en las actuaciones disciplinarias que adelanta",
+  "opciones": {
+   "A": "el Congreso de la República contra los funcionarios con fuero constitucional.",
+   "B": "cada universidad pública contra sus estudiantes.",
+   "C": "la Fiscalía contra sus empleados.",
+   "D": "la Registraduría contra los jurados de votación."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 35 del Decreto Ley 262 de 2000 asigna a los procuradores delegados la intervención en las actuaciones disciplinarias que adelante el Congreso de la República contra funcionarios con fuero constitucional.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0050",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 29, num. 3",
+  "enunciado": "La intervención del Ministerio Público en el trámite de extradición ante la Corte Suprema de Justicia corresponde a",
+  "opciones": {
+   "A": "el Ministerio de Relaciones Exteriores.",
+   "B": "los procuradores delegados.",
+   "C": "los personeros.",
+   "D": "los procuradores provinciales."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 3 del artículo 29 del Decreto Ley 262 de 2000 asigna a los procuradores delegados la intervención en el trámite de extradición.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0051",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303, num. 5",
+  "enunciado": "El Ministerio Público está facultado para interponer, ante la Jurisdicción de lo Contencioso Administrativo,",
+  "opciones": {
+   "A": "recursos solo si la entidad demandada lo autoriza.",
+   "B": "únicamente el recurso de reposición.",
+   "C": "la acción de tutela contra los consejeros de Estado como único medio.",
+   "D": "los recursos extraordinarios previstos en el CPACA, como el de revisión."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 5 del artículo 303 del CPACA faculta al Ministerio Público para interponer los recursos extraordinarios previstos en el Código, como el recurso extraordinario de revisión y el de unificación de jurisprudencia.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0052",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303",
+  "enunciado": "El Ministerio Público interviene ante la Jurisdicción de lo Contencioso Administrativo como",
+  "opciones": {
+   "A": "demandante o sujeto procesal especial, en defensa del orden jurídico, el patrimonio público y los derechos y garantías fundamentales.",
+   "B": "auxiliar del juez sin facultades propias.",
+   "C": "perito en asuntos técnicos.",
+   "D": "apoderado de la entidad pública demandada."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 303 del CPACA dispone que el Ministerio Público puede actuar como demandante o como sujeto procesal especial en todos los procesos e incidentes, en defensa del orden jurídico, del patrimonio público y de los derechos y garantías fundamentales.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0053",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 12",
+  "enunciado": "Un personero municipal quiere proteger a la comunidad frente a la contaminación de una fuente hídrica. Según la Ley 472 de 1998, puede",
+  "opciones": {
+   "A": "actuar únicamente si un ciudadano interpone la acción.",
+   "B": "interponer directamente una acción popular, pues está legitimado para ello.",
+   "C": "pedir autorización al Procurador General.",
+   "D": "solo informar al alcalde."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 12 de la Ley 472 de 1998 legitima, entre otros, al Procurador General, al Defensor del Pueblo y a los personeros distritales y municipales para interponer acciones populares en lo relacionado con su competencia.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0054",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 393 de 1997, art. 4",
+  "enunciado": "Además de cualquier persona, están legitimados para ejercer la acción de cumplimiento",
+  "opciones": {
+   "A": "exclusivamente los congresistas.",
+   "B": "solo los abogados inscritos.",
+   "C": "los servidores públicos, en especial el Procurador General, el Defensor del Pueblo, los personeros y los contralores.",
+   "D": "únicamente las entidades territoriales."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 4 de la Ley 393 de 1997 dispone que cualquier persona puede ejercer la acción de cumplimiento, y también los servidores públicos, en especial el Procurador General, el Defensor del Pueblo, los personeros, los contralores, entre otros, y las organizaciones sociales y no gubernamentales.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0055",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1437 de 2011, art. 303",
+  "enunciado": "Son atribuciones especiales del Ministerio Público ante la Jurisdicción de lo Contencioso Administrativo:\n\n1. Solicitar que se declare la nulidad de actos administrativos.\n2. Dictar sentencia en procesos de única instancia.\n3. Adelantar las conciliaciones prejudiciales o extrajudiciales.\n4. Representar judicialmente a la entidad demandada.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 303 del CPACA incluye entre las atribuciones especiales solicitar la nulidad de actos administrativos (num. 2) y adelantar las conciliaciones prejudiciales o extrajudiciales (num. 7). El Ministerio Público no dicta sentencias ni representa a las entidades.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0056",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Constitución Política, art. 277, num. 7; Decreto Ley 262 de 2000, arts. 44 a 48",
+  "enunciado": "TESIS: El Ministerio Público interviene en los procesos judiciales cuando sea necesario en defensa del orden jurídico, del patrimonio público o de los derechos y garantías fundamentales.\n\nPOSTULADO I: La intervención del Ministerio Público no es obligatoria en todos los procesos, sino cuando se justifica por esas finalidades.\nPOSTULADO II: Cuando interviene, el agente del Ministerio Público actúa como apoderado de una de las partes.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "La expresión cuando sea necesario implica que la intervención depende de las finalidades señaladas (postulado I). El postulado II contradice la tesis: el Ministerio Público actúa en defensa de intereses generales, no como apoderado de una parte.",
+  "dificultad": 2
+ }
+]
