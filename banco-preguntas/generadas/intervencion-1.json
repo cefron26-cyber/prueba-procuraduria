@@ -1,0 +1,478 @@
+[
+ {
+  "id": "int-0001",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 277, num. 7",
+  "enunciado": "Según la Constitución, el Procurador General, por sí o por medio de sus agentes, interviene en los procesos y ante las autoridades judiciales o administrativas",
+  "opciones": {
+   "A": "solo cuando el juez lo solicite por escrito.",
+   "B": "únicamente en los procesos penales contra servidores públicos.",
+   "C": "cuando sea necesario en defensa del orden jurídico, del patrimonio público o de los derechos y garantías fundamentales.",
+   "D": "en todos los procesos, sin excepción, como parte demandada."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 7 del artículo 277 de la Constitución establece la intervención del Ministerio Público cuando sea necesario en defensa del orden jurídico, del patrimonio público o de los derechos y garantías fundamentales. No es parte demandada ni se limita a lo penal.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0002",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 44",
+  "enunciado": "Los procuradores judiciales con funciones de intervención en lo contencioso administrativo actúan ante",
+  "opciones": {
+   "A": "los tribunales y juzgados administrativos, los tribunales de arbitramento y las cámaras de comercio, entre otras autoridades.",
+   "B": "los juzgados de familia y de menores.",
+   "C": "únicamente el Consejo de Estado.",
+   "D": "la Sala de Casación Penal de la Corte Suprema."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 44 del Decreto Ley 262 de 2000 dispone que actúan ante los tribunales y juzgados administrativos, tribunales de arbitramento y cámaras de comercio, entre otras. Ante el Consejo de Estado intervienen los procuradores delegados (art. 30).",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0003",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 44",
+  "enunciado": "Un concejal municipal habría incurrido en una causal de pérdida de investidura. Según el Decreto Ley 262 de 2000, los procuradores judiciales administrativos",
+  "opciones": {
+   "A": "no tienen competencia frente a concejales.",
+   "B": "deciden directamente la pérdida de investidura.",
+   "C": "solo pueden enviar un informe al concejo.",
+   "D": "intervienen en esos procesos y pueden promover la acción de pérdida de investidura conforme a la ley."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 44 del Decreto Ley 262 de 2000 dispone que los procuradores judiciales administrativos intervienen en los procesos de pérdida de investidura de alcaldes, diputados y concejales y promueven las acciones respectivas. La decisión corresponde a la jurisdicción contencioso administrativa.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0004",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 44, parágrafo (adic. Ley 1367 de 2009)",
+  "enunciado": "Un tribunal condenó a un municipio por un daño causado por la conducta gravemente culposa de un exfuncionario. El procurador judicial que actúa en ese proceso debe",
+  "opciones": {
+   "A": "pagar la condena con recursos de la Procuraduría.",
+   "B": "velar porque se haga efectiva la responsabilidad patrimonial del exservidor, incluida la acción de repetición.",
+   "C": "archivar el asunto porque el funcionario ya no está vinculado.",
+   "D": "iniciar el proceso penal contra el exservidor."
+  },
+  "correcta": "B",
+  "explicacion": "El parágrafo del artículo 44, adicionado por la Ley 1367 de 2009, asigna a los procuradores judiciales velar porque se haga efectiva la responsabilidad patrimonial de servidores, exservidores y particulares por cuya conducta una entidad haya sido condenada. La acción penal corresponde a la Fiscalía.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0005",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 161, num. 1; Decreto Ley 262 de 2000, art. 28, parágrafo",
+  "enunciado": "Antes de demandar en reparación directa a una entidad pública por un asunto conciliable, el interesado debe agotar la conciliación extrajudicial, que en esa materia se adelanta ante",
+  "opciones": {
+   "A": "el juez administrativo de conocimiento.",
+   "B": "los agentes del Ministerio Público asignados a la jurisdicción de lo contencioso administrativo.",
+   "C": "la oficina jurídica de la entidad demandada.",
+   "D": "cualquier centro de conciliación privado."
+  },
+  "correcta": "B",
+  "explicacion": "La conciliación extrajudicial en asuntos contencioso administrativos es requisito de procedibilidad (CPACA, art. 161) y se adelanta ante los agentes del Ministerio Público asignados a esa jurisdicción, no ante centros privados ni ante la entidad demandada.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0006",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 2220 de 2022; Ley 1437 de 2011, art. 161",
+  "enunciado": "En una conciliación extrajudicial ante el procurador judicial administrativo, las partes llegan a un acuerdo que el procurador considera lesivo para el patrimonio público. El procurador",
+  "opciones": {
+   "A": "debe remitirlo a la Contraloría para su aprobación.",
+   "B": "debe aprobarlo porque prima la voluntad de las partes.",
+   "C": "debe ejecutarlo de inmediato.",
+   "D": "debe dejar constancia de su desacuerdo y no avalar el acuerdo, pues vela por el patrimonio público y la legalidad."
+  },
+  "correcta": "D",
+  "explicacion": "El agente del Ministerio Público en la conciliación contencioso administrativa defiende el orden jurídico, el patrimonio público y los derechos fundamentales. Si el acuerdo es lesivo o ilegal, no debe avalarlo; el acuerdo además requiere aprobación judicial.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0007",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303",
+  "enunciado": "En los procesos ejecutivos ante la Jurisdicción de lo Contencioso Administrativo, debe notificarse personalmente al Ministerio Público",
+  "opciones": {
+   "A": "el mandamiento de pago, la sentencia y el primer auto en la segunda instancia.",
+   "B": "ninguna providencia, porque no interviene en ejecutivos.",
+   "C": "todos los autos de trámite.",
+   "D": "únicamente la sentencia de segunda instancia."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 303 del CPACA ordena notificar personalmente al Ministerio Público, en los procesos ejecutivos, el mandamiento de pago, la sentencia y el primer auto en la segunda instancia.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0008",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303",
+  "enunciado": "El agente del Ministerio Público ante la Jurisdicción de lo Contencioso Administrativo puede",
+  "opciones": {
+   "A": "decretar la suspensión provisional del acto demandado.",
+   "B": "dictar la sentencia cuando el juez esté impedido.",
+   "C": "solicitar la vinculación al proceso de servidores o exservidores que hayan actuado dolosa o gravemente culposamente.",
+   "D": "representar judicialmente a la entidad demandada."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 303 del CPACA enumera atribuciones del Ministerio Público, entre ellas solicitar la vinculación de servidores o exservidores cuya conducta dolosa o gravemente culposa pueda comprometer a la entidad. No falla, no representa a la entidad y no decreta medidas cautelares, aunque puede solicitarlas.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0009",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 42",
+  "enunciado": "Los procuradores judiciales con funciones de intervención en procesos penales actúan, entre otras autoridades, ante",
+  "opciones": {
+   "A": "los tribunales superiores de distrito judicial, los juzgados penales del circuito, los de ejecución de penas y las unidades de fiscalía.",
+   "B": "la Sala de Casación Penal de la Corte Suprema de Justicia exclusivamente.",
+   "C": "los juzgados laborales y de familia.",
+   "D": "la Comisión de Acusaciones de la Cámara."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 42 del Decreto Ley 262 de 2000 dispone que actúan ante tribunales superiores, juzgados especializados, penales y promiscuos del circuito, de ejecución de penas, unidades de fiscalía y policía judicial, entre otras. La casación corresponde a los procuradores delegados (art. 29).",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0010",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 42",
+  "enunciado": "Además de intervenir en los procesos penales, los procuradores judiciales penales pueden",
+  "opciones": {
+   "A": "dirigir la policía judicial de la Fiscalía.",
+   "B": "dictar medidas de aseguramiento.",
+   "C": "interponer acciones de extinción del dominio ante las autoridades competentes cuando lo consideren procedente.",
+   "D": "formular imputación contra los indiciados."
+  },
+  "correcta": "C",
+  "explicacion": "El inciso segundo del artículo 42 del Decreto Ley 262 de 2000 los faculta para interponer acciones de extinción del dominio. La imputación es de la Fiscalía y las medidas de aseguramiento las decreta el juez de control de garantías.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0011",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 906 de 2004, arts. 109 y 111",
+  "enunciado": "En el sistema penal acusatorio, el Ministerio Público interviene",
+  "opciones": {
+   "A": "como defensor del procesado cuando no tiene abogado.",
+   "B": "como juez de control de garantías en zonas rurales.",
+   "C": "como acusador principal, en reemplazo de la Fiscalía.",
+   "D": "como garante de los derechos humanos y los derechos fundamentales y como representante de la sociedad, sin ser parte acusadora."
+  },
+  "correcta": "D",
+  "explicacion": "Los artículos 109 y 111 de la Ley 906 de 2004 asignan al Ministerio Público, como interviniente, funciones de protección de las garantías y derechos fundamentales y de representación de la sociedad. La acusación es de la Fiscalía y la defensa del procesado corresponde a su abogado o a la Defensoría.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0012",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 906 de 2004, art. 111",
+  "enunciado": "En un proceso penal, el procurador judicial advierte que la Fiscalía obtuvo una prueba vulnerando derechos fundamentales del procesado. Puede",
+  "opciones": {
+   "A": "ordenar directamente la nulidad del proceso.",
+   "B": "solicitar la exclusión de la prueba por ilicitud, como garante de los derechos fundamentales.",
+   "C": "destituir al fiscal del caso.",
+   "D": "abstenerse de actuar porque solo la defensa puede pedir exclusión."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 111 de la Ley 906 de 2004 faculta al Ministerio Público para intervenir en defensa de las garantías, lo que incluye solicitar la exclusión de pruebas ilícitas. No decreta nulidades ni ejerce poder disciplinario sobre el fiscal en esa actuación.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0013",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 47; Ley 1564 de 2012, art. 46",
+  "enunciado": "En un proceso de familia en el que se discuten los derechos de un niño, el procurador judicial de familia",
+  "opciones": {
+   "A": "no interviene si hay defensor de familia.",
+   "B": "interviene para defender el orden jurídico y los derechos fundamentales, en especial los del menor.",
+   "C": "actúa como apoderado de la madre.",
+   "D": "decide la custodia en lugar del juez."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 47 del Decreto Ley 262 de 2000 y el artículo 46 del Código General del Proceso prevén la intervención del Ministerio Público en procesos de familia para proteger el orden jurídico y los derechos fundamentales, en particular de niños, niñas y adolescentes. Su intervención concurre con la del defensor de familia.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0014",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 48",
+  "enunciado": "Los procuradores judiciales en lo laboral intervienen cuando sea necesario para defender el orden jurídico y los derechos",
+  "opciones": {
+   "A": "fundamentales, individuales o colectivos de los trabajadores y pensionados o de las minorías étnicas.",
+   "B": "de los empleadores frente a los sindicatos.",
+   "C": "de las entidades públicas como demandantes.",
+   "D": "patrimoniales de las empresas en liquidación."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 48 del Decreto Ley 262 de 2000 dispone que intervienen ante las salas laborales, juzgados laborales y tribunales de arbitramento cuando sea necesario para defender el orden jurídico y los derechos de trabajadores, pensionados o minorías étnicas.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0015",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 30",
+  "enunciado": "Los procuradores delegados ante el Consejo de Estado pueden",
+  "opciones": {
+   "A": "decidir los recursos extraordinarios de revisión.",
+   "B": "suspender actos administrativos sin intervención judicial.",
+   "C": "juzgar disciplinariamente a los consejeros de Estado.",
+   "D": "interponer acciones de nulidad de actos administrativos y de nulidad absoluta de contratos estatales cuando haya lugar."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 7 del artículo 30 del Decreto Ley 262 de 2000 faculta a los procuradores delegados para interponer acciones de nulidad de actos administrativos y de nulidad absoluta de contratos estatales. Las decisiones judiciales corresponden al Consejo de Estado.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0016",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 30, num. 6",
+  "enunciado": "Un procurador delegado ante el Consejo de Estado considera que un asunto en trámite en una sección tiene especial importancia jurídica. Puede",
+  "opciones": {
+   "A": "retirar el expediente y decidirlo él mismo.",
+   "B": "pedir a la Corte Constitucional que asuma el proceso.",
+   "C": "solicitar que sea remitido para decisión de la Sala Plena de lo Contencioso Administrativo.",
+   "D": "suspender el proceso por seis meses."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 6 del artículo 30 del Decreto Ley 262 de 2000 permite a los procuradores delegados solicitar a las secciones del Consejo de Estado la remisión de asuntos a la Sala Plena por su importancia jurídica o trascendencia social.",
+  "dificultad": 3
+ },
+ {
+  "id": "int-0017",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 28, parágrafo",
+  "enunciado": "Respecto de las acciones de tutela, los procuradores delegados",
+  "opciones": {
+   "A": "solo pueden intervenir en tutelas contra la Procuraduría.",
+   "B": "deciden las impugnaciones de los fallos de tutela.",
+   "C": "tienen prohibido intervenir en tutela.",
+   "D": "pueden intervenir ante cualquier autoridad judicial cuando sea necesario en defensa del orden jurídico, el patrimonio público o los derechos y garantías fundamentales."
+  },
+  "correcta": "D",
+  "explicacion": "El parágrafo del artículo 28 del Decreto Ley 262 de 2000 permite a los procuradores delegados intervenir en el trámite de tutela ante cualquier autoridad judicial cuando sea necesario en defensa del orden jurídico, el patrimonio público o los derechos fundamentales, sociales, colectivos o del ambiente.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0018",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 27",
+  "enunciado": "Ante una actuación de policía en la que se desaloja a una comunidad vulnerable sin las garantías legales, el Ministerio Público puede",
+  "opciones": {
+   "A": "limitarse a presentar una queja disciplinaria después.",
+   "B": "intervenir en la actuación administrativa y de policía para defender el orden jurídico y los derechos fundamentales.",
+   "C": "ordenar a la Policía suspender el desalojo como superior jerárquico.",
+   "D": "intervenir solo si existe un proceso judicial previo."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 27 del Decreto Ley 262 de 2000 dispone que los procuradores intervienen en las actuaciones y ante las autoridades administrativas y de policía cuando sea necesario para defender el orden jurídico, el patrimonio público y los derechos fundamentales. No son superiores jerárquicos de la Policía.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0019",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, arts. 139 y 303",
+  "enunciado": "Un procurador judicial administrativo advierte que se declaró la elección de un diputado que estaba inhabilitado. Puede",
+  "opciones": {
+   "A": "pedir al gobernador que no le dé posesión.",
+   "B": "esperar a que el diputado cometa una falta disciplinaria.",
+   "C": "demandar la nulidad electoral ante la jurisdicción contencioso administrativa.",
+   "D": "anular directamente el acto de elección."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 139 del CPACA permite a cualquier persona demandar la nulidad de los actos de elección, y el artículo 303 faculta al Ministerio Público para actuar como demandante. La nulidad la declara el juez, no el procurador.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0020",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 45",
+  "enunciado": "Los procuradores judiciales con funciones de intervención en procesos civiles actúan",
+  "opciones": {
+   "A": "ante salas civiles, juzgados civiles y tribunales de arbitramento, cuando sea necesario para defender el orden jurídico, el patrimonio público y los derechos fundamentales, colectivos o del ambiente.",
+   "B": "solo en los procesos ejecutivos hipotecarios.",
+   "C": "únicamente como conciliadores en equidad.",
+   "D": "en todos los procesos civiles como parte obligatoria."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 45 del Decreto Ley 262 de 2000 delimita su intervención a los casos en que sea necesario para defender el orden jurídico, el patrimonio público y los derechos fundamentales, individuales, colectivos o del ambiente; no es parte obligatoria en todo proceso civil.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0021",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 29",
+  "enunciado": "La intervención del Ministerio Público en el trámite de la casación penal ante la Corte Suprema de Justicia está a cargo de",
+  "opciones": {
+   "A": "la Defensoría del Pueblo.",
+   "B": "los procuradores judiciales penales del circuito.",
+   "C": "los procuradores delegados.",
+   "D": "los personeros municipales."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 1 del artículo 29 del Decreto Ley 262 de 2000 asigna a los procuradores delegados la intervención en el trámite de la casación ante la Sala de Casación Penal de la Corte Suprema de Justicia.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0022",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 280",
+  "enunciado": "Un procurador judicial actúa ante un tribunal superior. Su categoría y remuneración son",
+  "opciones": {
+   "A": "las mismas de los magistrados del tribunal ante el cual ejerce el cargo.",
+   "B": "las de un profesional universitario de la PGN.",
+   "C": "las de un juez municipal.",
+   "D": "las que fije libremente el Procurador General."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 280 de la Constitución dispone que los agentes del Ministerio Público tendrán las mismas calidades, categoría, remuneración, derechos y prestaciones de los magistrados y jueces de mayor jerarquía ante quienes ejercen el cargo.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0023",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 12",
+  "enunciado": "Para la protección de un derecho colectivo como el ambiente sano, la acción popular puede ser interpuesta, entre otros, por",
+  "opciones": {
+   "A": "solo la entidad territorial afectada.",
+   "B": "el Procurador General, el Defensor del Pueblo, los personeros y cualquier persona natural o jurídica.",
+   "C": "únicamente las organizaciones ambientales registradas.",
+   "D": "exclusivamente el Ministerio de Ambiente."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 12 de la Ley 472 de 1998 legitima a toda persona natural o jurídica, organizaciones, entidades públicas de control, el Procurador General, el Defensor del Pueblo, los personeros y los servidores públicos para interponer acciones populares.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0024",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 472 de 1998, art. 21",
+  "enunciado": "En una acción popular que no fue promovida por el Ministerio Público, el auto admisorio de la demanda debe",
+  "opciones": {
+   "A": "remitirse a la Contraloría.",
+   "B": "publicarse en el Diario Oficial como único medio.",
+   "C": "notificarse solo al demandante.",
+   "D": "comunicarse al Ministerio Público para que intervenga como parte pública en defensa de los derechos colectivos."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 21 de la Ley 472 de 1998 ordena que, si la demanda no fue promovida por el Ministerio Público, se le comunique el auto admisorio para que intervenga como parte pública en defensa de los derechos e intereses colectivos.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0025",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303",
+  "enunciado": "En un proceso contencioso administrativo, el agente del Ministerio Público no está de acuerdo con la sentencia de primera instancia. Puede",
+  "opciones": {
+   "A": "solo emitir un concepto, sin posibilidad de recurrir.",
+   "B": "pedir al Procurador General que revoque la sentencia.",
+   "C": "interponer recurso solo si la entidad pública no apela.",
+   "D": "interponer los recursos contra las providencias, incluida la apelación de la sentencia."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 303 del CPACA faculta al Ministerio Público para interponer los recursos contra los autos y sentencias, incluidos los extraordinarios, en defensa del orden jurídico, el patrimonio público o los derechos fundamentales, con independencia de la actuación de la entidad.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0026",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 41",
+  "enunciado": "Además de su intervención ante los jueces, los procuradores judiciales",
+  "opciones": {
+   "A": "califican el desempeño de los jueces.",
+   "B": "intervienen en los trámites de conciliación.",
+   "C": "dirigen las audiencias de juicio oral.",
+   "D": "expiden licencias urbanísticas."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 41 del Decreto Ley 262 de 2000 dispone que los procuradores judiciales, como agentes del Ministerio Público, intervienen ante las autoridades judiciales y también en los trámites de conciliación.",
+  "dificultad": 1
+ },
+ {
+  "id": "int-0027",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 30, num. 2",
+  "enunciado": "En los procesos de pérdida de investidura de los congresistas, que conoce el Consejo de Estado, interviene",
+  "opciones": {
+   "A": "el procurador judicial administrativo del domicilio del congresista.",
+   "B": "el personero de Bogotá.",
+   "C": "el procurador delegado ante esa corporación.",
+   "D": "la Sala Disciplinaria de Instrucción de la PGN."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 2 del artículo 30 del Decreto Ley 262 de 2000 asigna a los procuradores delegados la intervención en los procesos de pérdida de investidura de los congresistas ante el Consejo de Estado.",
+  "dificultad": 2
+ },
+ {
+  "id": "int-0028",
+  "eje": "intervencion",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303; Decreto Ley 262 de 2000, art. 44",
+  "enunciado": "Un acto administrativo municipal que viola abiertamente la ley está causando un grave perjuicio al patrimonio público. El procurador judicial administrativo puede",
+  "opciones": {
+   "A": "demandar su nulidad y solicitar medidas cautelares como la suspensión provisional.",
+   "B": "ordenar al alcalde que no lo aplique bajo pena de arresto.",
+   "C": "esperar a que algún ciudadano lo demande.",
+   "D": "declarar él mismo la nulidad del acto."
+  },
+  "correcta": "A",
+  "explicacion": "El Ministerio Público puede actuar como demandante y solicitar medidas cautelares (CPACA, arts. 229 y 303). La suspensión y la nulidad las decide el juez; el procurador no anula actos ni impone arrestos.",
+  "dificultad": 2
+ }
+]
