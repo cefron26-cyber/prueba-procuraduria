@@ -1,0 +1,480 @@
+[
+ {
+  "id": "pgn-0029",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 49",
+  "enunciado": "El Instituto de Estudios del Ministerio Público es",
+  "opciones": {
+   "A": "una unidad administrativa especial de carácter académico, con autonomía financiera y presupuestal.",
+   "B": "una fundación privada contratada por la PGN.",
+   "C": "una universidad pública adscrita al Ministerio de Educación.",
+   "D": "una dependencia de la Defensoría del Pueblo."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 49 del Decreto Ley 262 de 2000 define el Instituto de Estudios del Ministerio Público como unidad administrativa especial de carácter académico, con autonomía financiera y presupuestal; su reglamento lo aprueba el Procurador General.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0030",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 50",
+  "enunciado": "Es función del Instituto de Estudios del Ministerio Público",
+  "opciones": {
+   "A": "adelantar los procesos disciplinarios contra los servidores de la PGN.",
+   "B": "calificar el desempeño de los procuradores judiciales.",
+   "C": "realizar estudios que orienten la lucha contra la corrupción administrativa y promuevan la protección de los derechos humanos.",
+   "D": "ejercer la representación judicial de la PGN."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 50 del Decreto Ley 262 de 2000 asigna al Instituto funciones de capacitación, investigación, estudios contra la corrupción y para la protección de derechos humanos, y exámenes de actualización a servidores de libre nombramiento.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0031",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 75 (modif. Decreto Ley 1851 de 2021)",
+  "enunciado": "Tras la reforma del Decreto Ley 1851 de 2021, las procuradurías regionales de instrucción conocen de las actuaciones disciplinarias",
+  "opciones": {
+   "A": "hasta la notificación del pliego de cargos o de la decisión de archivo.",
+   "B": "solo en la etapa de juzgamiento.",
+   "C": "únicamente en la segunda instancia.",
+   "D": "desde la queja hasta el fallo de segunda instancia."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 75 del Decreto Ley 262 de 2000, modificado por el Decreto Ley 1851 de 2021, dispone que las procuradurías regionales de instrucción conocen de las actuaciones hasta la notificación del pliego de cargos o del archivo; el juzgamiento corresponde a las procuradurías de juzgamiento (art. 75A).",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0032",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 76 (modif. Decreto Ley 1851 de 2021)",
+  "enunciado": "La investigación disciplinaria contra el alcalde de un municipio que no es capital de departamento corresponde, en la etapa de instrucción, a",
+  "opciones": {
+   "A": "la Sala Disciplinaria de Instrucción.",
+   "B": "la procuraduría provincial o distrital de instrucción de la respectiva circunscripción.",
+   "C": "el personero del mismo municipio.",
+   "D": "la oficina de control interno de la alcaldía."
+  },
+  "correcta": "B",
+  "explicacion": "El literal a del numeral 1 del artículo 76 del Decreto Ley 262 de 2000, modificado, asigna a las procuradurías provinciales y distritales de instrucción las actuaciones contra alcaldes de municipios que no sean capital de departamento, sus concejales y personeros, entre otros.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0033",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 80",
+  "enunciado": "Según el Decreto Ley 262 de 2000, los procuradores provinciales dependen directamente de",
+  "opciones": {
+   "A": "los procuradores delegados.",
+   "B": "el Viceprocurador General.",
+   "C": "los gobernadores.",
+   "D": "los respectivos procuradores regionales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 80 del Decreto Ley 262 de 2000 dispone que los procuradores regionales y distritales dependen directamente del Procurador General, y los provinciales de los respectivos procuradores regionales.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0034",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 85",
+  "enunciado": "No puede desempeñar empleos en la Procuraduría General quien",
+  "opciones": {
+   "A": "haya sido condenado por un delito culposo de tránsito.",
+   "B": "haya sido sancionado con amonestación hace diez años.",
+   "C": "haya sido condenado en cualquier época por delitos contra el patrimonio del Estado o por enriquecimiento ilícito.",
+   "D": "tenga parientes trabajando en otra entidad pública."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 85 del Decreto Ley 262 de 2000 establece como inhabilidad haber sido condenado en cualquier época por delitos contra el patrimonio del Estado o por enriquecimiento ilícito; la condena a pena privativa de la libertad inhabilita salvo por delitos políticos o culposos.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0035",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 86",
+  "enunciado": "Un profesional de la Procuraduría quiere actuar como árbitro en un tribunal de arbitramento privado, a título personal. Según el Decreto Ley 262 de 2000",
+  "opciones": {
+   "A": "solo es incompatible si el tribunal es de una entidad pública.",
+   "B": "puede hacerlo si es fuera de la jornada laboral.",
+   "C": "es incompatible con su empleo, salvo que lo haga en razón de este.",
+   "D": "puede hacerlo con permiso del jefe inmediato."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 3 del artículo 86 del Decreto Ley 262 de 2000 dispone que los empleos de la Procuraduría son incompatibles con las funciones de árbitro, conciliador o amigable componedor, salvo que se cumplan en razón del empleo.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0036",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 86",
+  "enunciado": "Un servidor de la Procuraduría quiere celebrar un contrato de prestación de servicios con una empresa privada en sus tiempos libres. Según el Decreto Ley 262 de 2000",
+  "opciones": {
+   "A": "es incompatible con su empleo.",
+   "B": "es válido si el contrato no supera seis meses.",
+   "C": "es válido si no tiene relación con la PGN.",
+   "D": "es válido con autorización de la División de Gestión Humana."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 2 del artículo 86 del Decreto Ley 262 de 2000 establece que los empleos de la Procuraduría son incompatibles con la celebración de contratos con entidades públicas y de contratos de prestación de servicios con entidades privadas.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0037",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 111",
+  "enunciado": "Los servidores de la Procuraduría tienen derecho, por cada año calendario, a licencia ordinaria no remunerada hasta por",
+  "opciones": {
+   "A": "un año, por una sola vez.",
+   "B": "tres meses, continua o discontinua.",
+   "C": "un mes continuo.",
+   "D": "seis meses continuos."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 111 del Decreto Ley 262 de 2000 reconoce licencia ordinaria no remunerada hasta por tres meses por año calendario, en forma continua o discontinua, y el artículo 112 dispone que debe concederse siempre que no obedezca a razones de impedimentos, inhabilidades o incompatibilidades.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0038",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 139",
+  "enunciado": "Los servidores de la Procuraduría General de la Nación tienen derecho, por cada año de servicio, a vacaciones de",
+  "opciones": {
+   "A": "treinta días hábiles.",
+   "B": "diez días calendario.",
+   "C": "quince días hábiles.",
+   "D": "veintidós días calendario."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 139 del Decreto Ley 262 de 2000 reconoce veintidós días calendario de vacaciones por año de servicio, colectivas entre el 20 de diciembre y el 10 de enero o individuales; el régimen general de quince días hábiles no aplica a la PGN.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0039",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 146",
+  "enunciado": "Según el Decreto Ley 262 de 2000, las vacaciones de los servidores de la Procuraduría prescriben en",
+  "opciones": {
+   "A": "no prescriben.",
+   "B": "tres años contados a partir de su causación.",
+   "C": "un año contado desde su causación.",
+   "D": "cinco años contados desde el retiro."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 146 del Decreto Ley 262 de 2000 establece que el término de prescripción de las vacaciones es de tres años contados a partir de su causación.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0040",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 163",
+  "enunciado": "Un servidor de la Procuraduría presenta renuncia y el nominador no se pronuncia dentro de los treinta días calendario siguientes. El servidor",
+  "opciones": {
+   "A": "queda retirado automáticamente sin opción de continuar.",
+   "B": "incurre en abandono del cargo si se retira.",
+   "C": "puede separarse inmediatamente del servicio sin incurrir en abandono del cargo, o continuar, caso en el cual la renuncia pierde vigencia.",
+   "D": "debe esperar indefinidamente la aceptación."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 163 del Decreto Ley 262 de 2000 dispone que si en treinta días no se decide la renuncia, el servidor puede separarse inmediatamente sin incurrir en abandono, o continuar en el cargo, caso en el cual la renuncia pierde vigencia.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0041",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 161",
+  "enunciado": "No son válidas, según el Decreto Ley 262 de 2000, las renuncias",
+  "opciones": {
+   "A": "presentadas en blanco, sin fecha determinada o que pongan con anticipación en manos del nominador la suerte del servidor.",
+   "B": "presentadas durante las vacaciones.",
+   "C": "presentadas por escrito.",
+   "D": "motivadas en razones personales."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 161 del Decreto Ley 262 de 2000 exige que la renuncia sea escrita, inequívoca, libre y espontánea, y declara inválidas las presentadas en blanco, sin fecha o que pongan anticipadamente la suerte del servidor en manos del nominador.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0042",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 166",
+  "enunciado": "Se declara la vacancia del empleo por abandono del cargo cuando un servidor de la Procuraduría, sin justa causa,",
+  "opciones": {
+   "A": "no asiste a una capacitación programada.",
+   "B": "llega tarde tres veces en un mes.",
+   "C": "se ausenta un día sin permiso.",
+   "D": "deja de concurrir al trabajo durante tres días hábiles consecutivos."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 1 del artículo 166 del Decreto Ley 262 de 2000 dispone que se declara la vacancia por abandono cuando el servidor deja de concurrir al trabajo durante tres días hábiles consecutivos sin justa causa, entre otros supuestos.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0043",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 202",
+  "enunciado": "Un aspirante no admitido a un concurso de la Procuraduría quiere reclamar contra la lista de admitidos. Según el Decreto Ley 262 de 2000, debe hacerlo",
+  "opciones": {
+   "A": "dentro de los diez días hábiles siguientes ante el Procurador General.",
+   "B": "en cualquier momento antes de la prueba escrita.",
+   "C": "mediante tutela directamente.",
+   "D": "dentro de los dos días hábiles siguientes a la publicación de la lista, ante el jefe de la Oficina de Selección y Carrera."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 202 del Decreto Ley 262 de 2000 fija dos días hábiles desde la publicación de la lista para reclamar ante el jefe de la Oficina de Selección y Carrera; contra su decisión procede apelación ante la Comisión de Carrera. La convocatoria de 2026 puede fijar reglas particulares dentro de ese marco.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0044",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 215",
+  "enunciado": "Un concurso de la Procuraduría debe declararse desierto cuando",
+  "opciones": {
+   "A": "la lista de elegibles tiene menos de diez personas.",
+   "B": "se presentan más de cien aspirantes.",
+   "C": "ningún concursante supera la prueba eliminatoria.",
+   "D": "el jefe de la dependencia no está de acuerdo con el ganador."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 215 del Decreto Ley 262 de 2000 ordena declarar desierto el concurso, entre otros casos, cuando los aspirantes que acrediten requisitos sean menos de cinco (salvo necesidades del servicio) o cuando ningún concursante haya superado la prueba eliminatoria.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0045",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 230",
+  "enunciado": "Los servidores de carrera de la Procuraduría son calificados por períodos anuales comprendidos entre",
+  "opciones": {
+   "A": "el 1 de enero y el 31 de diciembre.",
+   "B": "el 1 de mayo y el 30 de abril del año siguiente.",
+   "C": "el 1 de febrero y el 31 de enero del año siguiente.",
+   "D": "la fecha de posesión y su aniversario."
+  },
+  "correcta": "B",
+  "explicacion": "El parágrafo del artículo 230 del Decreto Ley 262 de 2000 establece que el período anual de evaluación va del 1 de mayo al 30 de abril del año siguiente; el Procurador puede ordenar calificaciones extraordinarias ante información soportada de desempeño deficiente.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0046",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 239",
+  "enunciado": "La Comisión de Carrera de la Procuraduría está integrada, entre otros, por",
+  "opciones": {
+   "A": "el Procurador General o su delegado, el Director del Instituto de Estudios del Ministerio Público, un representante de los procuradores delegados y dos representantes de los empleados de carrera.",
+   "B": "el Presidente de la CNSC y dos ministros.",
+   "C": "los procuradores regionales y un representante del Senado.",
+   "D": "el Viceprocurador y los jefes de todas las divisiones."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 239 del Decreto Ley 262 de 2000 integra la Comisión de Carrera con el Procurador General o su delegado, el Director del Instituto de Estudios del Ministerio Público, un representante de los procuradores delegados y dos representantes de los empleados inscritos en carrera, entre otros.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0047",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 193",
+  "enunciado": "Para participar en un concurso de ascenso en la Procuraduría, el empleado de carrera debe acreditar, entre otros requisitos,",
+  "opciones": {
+   "A": "que su última calificación de servicios anual en firme sea igual o superior al setenta por ciento de la escala y que no haya sido sancionado disciplinariamente en el año anterior a la convocatoria.",
+   "B": "diez años de antigüedad en la entidad.",
+   "C": "un título de doctorado.",
+   "D": "la recomendación escrita de un procurador delegado."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 193 del Decreto Ley 262 de 2000 exige calificación igual o superior al setenta por ciento, no haber sido sancionado disciplinariamente en el año anterior a la convocatoria y un puntaje mínimo del setenta por ciento en los cursos de reinducción.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0048",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 194",
+  "enunciado": "Según el Decreto Ley 262 de 2000, el proceso de selección en la Procuraduría comprende, en su orden,",
+  "opciones": {
+   "A": "inscripción, sorteo y posesión.",
+   "B": "pruebas, convocatoria y nombramiento provisional.",
+   "C": "convocatoria, reclutamiento, aplicación de pruebas, conformación de la lista de elegibles, período de prueba y su calificación.",
+   "D": "entrevista, nombramiento y período de prueba."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 194 del Decreto Ley 262 de 2000 enumera las etapas: convocatoria, reclutamiento (inscripción y lista de admitidos), aplicación de pruebas (eliminatoria y clasificatoria), lista de elegibles, período de prueba y calificación del período de prueba.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0049",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 195",
+  "enunciado": "Una vez iniciada la inscripción de aspirantes a un concurso de la Procuraduría, las bases de la convocatoria",
+  "opciones": {
+   "A": "pueden cambiarse si lo piden la mayoría de inscritos.",
+   "B": "se ajustan automáticamente cada mes.",
+   "C": "pueden cambiarse libremente por el Procurador General.",
+   "D": "no pueden cambiarse, salvo en los aspectos y condiciones que la norma permite."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 195 del Decreto Ley 262 de 2000 dispone que la convocatoria es la norma reguladora del concurso, obliga a la administración y a los participantes, y no pueden cambiarse sus bases una vez iniciada la inscripción, salvo las modificaciones permitidas.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0050",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 219",
+  "enunciado": "Un servidor en período de prueba en la Procuraduría tiene derecho a permanecer en el empleo durante ese período, salvo que",
+  "opciones": {
+   "A": "su jefe decida retirarlo discrecionalmente.",
+   "B": "sea sancionado con destitución por delito o falta disciplinaria, o le sobrevenga una inhabilidad no subsanable.",
+   "C": "llegue un aspirante con mejor puntaje.",
+   "D": "solicite vacaciones."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 219 del Decreto Ley 262 de 2000 reconoce estabilidad relativa al servidor en período de prueba, salvo destitución por delito o falta disciplinaria o inhabilidad sobreviniente no subsanable; además prohíbe asignarle funciones distintas a las de la convocatoria.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0051",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 99",
+  "enunciado": "Para otorgar una comisión de estudio a un servidor de la Procuraduría se requiere, entre otros requisitos, que haya prestado servicios a la entidad por un tiempo no inferior a",
+  "opciones": {
+   "A": "seis meses.",
+   "B": "tres años.",
+   "C": "diez años.",
+   "D": "un año."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 1 del artículo 99 del Decreto Ley 262 de 2000 exige haber prestado servicios a la Procuraduría por tiempo no inferior a tres años, además de calificación satisfactoria en el año anterior si es de carrera, entre otros requisitos.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0052",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1821 de 2016, art. 1; Decreto Ley 262 de 2000, art. 171",
+  "enunciado": "La edad máxima de retiro forzoso de quienes desempeñan funciones públicas, aplicable hoy a los servidores de la Procuraduría, es",
+  "opciones": {
+   "A": "setenta años, según la Ley 1821 de 2016.",
+   "B": "no existe edad de retiro forzoso.",
+   "C": "sesenta y cinco años, sin excepción.",
+   "D": "sesenta y dos años."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 171 del Decreto Ley 262 de 2000 fijaba los 65 años, pero la Ley 1821 de 2016, posterior y de alcance general, elevó a setenta años la edad máxima de retiro de las personas que desempeñan funciones públicas.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0053",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 7, num. 21",
+  "enunciado": "En los procesos disciplinarios, la práctica de pruebas complejas como interceptación de comunicaciones o allanamientos debe ser autorizada por",
+  "opciones": {
+   "A": "el juez de control de garantías.",
+   "B": "el funcionario instructor por sí solo.",
+   "C": "la Fiscalía General.",
+   "D": "el Procurador General de la Nación."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 21 del artículo 7 del Decreto Ley 262 de 2000 asigna al Procurador General autorizar la práctica de pruebas complejas decretadas en los procesos disciplinarios, como interceptación de comunicaciones, registros y allanamientos, vigilancia de personas y recuperación de información.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0054",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 7, num. 4; Constitución Política, art. 277, num. 8",
+  "enunciado": "El Procurador General de la Nación debe rendir anualmente informe de su gestión a",
+  "opciones": {
+   "A": "el Consejo de Estado.",
+   "B": "el Presidente de la República.",
+   "C": "el Congreso de la República.",
+   "D": "la Corte Suprema de Justicia."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 8 del artículo 277 de la Constitución y el numeral 4 del artículo 7 del Decreto Ley 262 de 2000 establecen que el Procurador rinde anualmente informe de su gestión al Congreso de la República.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0055",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Decreto Ley 262 de 2000, art. 86",
+  "enunciado": "Según el Decreto Ley 262 de 2000, los empleos de la Procuraduría General son incompatibles con:\n\n1. El desempeño de otro empleo público o privado.\n2. La docencia universitaria en cualquier horario.\n3. La condición de miembro activo de la fuerza pública.\n4. La afiliación a una caja de compensación.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 86 del Decreto Ley 262 de 2000 incluye como incompatibilidades el desempeño de otro empleo público o privado y la condición de miembro activo de la fuerza pública, entre otras. La afiliación a una caja de compensación no es incompatibilidad, y la docencia tiene un tratamiento especial en la ley.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0056",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Decreto Ley 262 de 2000, arts. 190 y 216",
+  "enunciado": "TESIS: La provisión definitiva de los empleos de carrera de la Procuraduría se hace según un orden de prioridad, en el que la lista de elegibles vigente ocupa el último lugar.\n\nPOSTULADO I: Un servidor de carrera desplazado por la violencia que deba ser trasladado tiene prioridad sobre quien ocupa el primer puesto de la lista de elegibles.\nPOSTULADO II: Integran la lista de elegibles quienes obtengan al menos el setenta por ciento del puntaje máximo del concurso.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "Si la lista de elegibles ocupa el último lugar de prioridad, cualquier supuesto anterior, como el traslado del servidor desplazado, prevalece sobre ella (postulado I). El postulado II es cierto (art. 216), pero no se deduce de la tesis, que no se refiere a cómo se integra la lista.",
+  "dificultad": 3
+ }
+]
