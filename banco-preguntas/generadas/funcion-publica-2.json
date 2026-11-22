@@ -1,0 +1,480 @@
+[
+ {
+  "id": "fp-0029",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38, num. 13",
+  "enunciado": "Un profesional decide resolver primero las peticiones de personas conocidas, aunque llegaron después que otras sin prelación legal ni urgencia. Esta conducta desconoce el deber de",
+  "opciones": {
+   "A": "resolver los asuntos en el orden en que hayan ingresado al despacho, salvo prelación legal o urgencia manifiesta.",
+   "B": "capacitarse y actualizarse en el área de su función.",
+   "C": "registrar su domicilio en la oficina de talento humano.",
+   "D": "calificar a los funcionarios a su cargo."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 13 del artículo 38 de la Ley 1952 de 2019 impone resolver los asuntos en el orden de ingreso al despacho, salvo prelación legal o urgencia manifiesta; alterarlo por favoritismo también desconoce la imparcialidad.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0030",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38, num. 18",
+  "enunciado": "Un servidor trasladado deja su puesto el mismo día, sin que haya llegado quien lo reemplaza y sin autorización. Desconoce el deber de",
+  "opciones": {
+   "A": "adoptar el sistema de control interno.",
+   "B": "motivar las decisiones que lo requieran.",
+   "C": "permanecer en el desempeño de sus labores mientras no se haya hecho cargo de ellas quien deba reemplazarlo, salvo autorización.",
+   "D": "denunciar los delitos de los que tenga conocimiento."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 18 del artículo 38 de la Ley 1952 de 2019 obliga a permanecer en las labores mientras no se haya hecho cargo de ellas quien deba reemplazar al servidor, salvo autorización legal, reglamentaria o de quien deba proveer el cargo.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0031",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38, num. 6",
+  "enunciado": "Un servidor deja expedientes con información reservada sobre su escritorio, al alcance de visitantes, durante varios días. Incumple el deber de",
+  "opciones": {
+   "A": "resolver los asuntos en orden de llegada.",
+   "B": "custodiar y cuidar la documentación e información que por razón de su empleo conserve bajo su cuidado e impedir su uso indebido.",
+   "C": "capacitarse en su área.",
+   "D": "publicar los informes de gestión en la página web."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 6 del artículo 38 de la Ley 1952 de 2019 impone custodiar y cuidar la documentación e información bajo su cuidado e impedir o evitar su sustracción, destrucción, ocultamiento o utilización indebida.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0032",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38, num. 8",
+  "enunciado": "Según el Código General Disciplinario, el servidor debe cumplir las disposiciones de sus superiores jerárquicos",
+  "opciones": {
+   "A": "siempre que no sean contrarias a la Constitución y a las leyes.",
+   "B": "únicamente cuando coinciden con su criterio personal.",
+   "C": "en todos los casos, sin excepción.",
+   "D": "solo si constan por escrito y están firmadas por el nominador."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 8 del artículo 38 de la Ley 1952 de 2019 impone cumplir las disposiciones de los superiores en ejercicio de sus atribuciones, siempre que no sean contrarias a la Constitución y a las leyes vigentes.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0033",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38, num. 24",
+  "enunciado": "El nominador le pide a un servidor explicar un aumento patrimonial que no corresponde a sus ingresos. Según el Código General Disciplinario, el servidor",
+  "opciones": {
+   "A": "solo debe responder ante un juez penal.",
+   "B": "puede responder dentro de un año.",
+   "C": "debe explicar inmediata y satisfactoriamente la procedencia del incremento patrimonial.",
+   "D": "puede negarse porque su patrimonio es privado."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 24 del artículo 38 de la Ley 1952 de 2019 obliga a explicar inmediata y satisfactoriamente al nominador, a la Procuraduría o a la Personería, cuando lo requieran, la procedencia del incremento patrimonial obtenido durante el ejercicio del cargo.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0034",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 2",
+  "enunciado": "Un jefe ordena a una profesional de su dependencia que le haga diligencias personales en horario laboral. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "ejerce legítimamente su poder de dirección.",
+   "B": "actúa válidamente si la profesional acepta.",
+   "C": "solo incurre en falta si la diligencia es fuera de la ciudad.",
+   "D": "incurre en la prohibición de imponer a otro servidor trabajos ajenos a sus funciones."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 2 del artículo 39 de la Ley 1952 de 2019 prohíbe imponer a otro servidor público trabajos ajenos a sus funciones o impedirle el cumplimiento de sus deberes.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0035",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 8",
+  "enunciado": "Un servidor retiene sin justificación una petición respetuosa de un ciudadano durante dos meses. Incurre en la prohibición de",
+  "opciones": {
+   "A": "ejercer la docencia en horario laboral.",
+   "B": "adquirir bienes que se vendan por su gestión.",
+   "C": "ocupar indebidamente oficinas públicas.",
+   "D": "omitir, retardar o no suministrar debida y oportuna respuesta a las peticiones respetuosas de los particulares."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 8 del artículo 39 de la Ley 1952 de 2019 prohíbe omitir, retardar o no dar respuesta oportuna a las peticiones respetuosas de los particulares o a solicitudes de las autoridades, así como retenerlas o enviarlas a quien no corresponda.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0036",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 10",
+  "enunciado": "Un profesional que tramita licencias recibe un préstamo personal de un solicitante cuyo trámite está a su cargo. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "actúa válidamente si el préstamo tiene intereses de mercado.",
+   "B": "solo incurre en falta si el trámite se aprueba.",
+   "C": "incurre en la prohibición de constituirse en acreedor o deudor de una persona interesada en los asuntos a su cargo.",
+   "D": "actúa válidamente si lo informa después."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 10 del artículo 39 de la Ley 1952 de 2019 prohíbe constituirse en acreedor o deudor de alguna persona interesada directa o indirectamente en los asuntos a cargo del servidor, de sus representantes, apoderados o parientes.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0037",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 23",
+  "enunciado": "Un profesional de una entidad quiere dictar clases en una universidad dentro de su jornada laboral. Según el Código General Disciplinario, está prohibido ejercer la docencia dentro de la jornada laboral por un número superior a",
+  "opciones": {
+   "A": "veinte horas mensuales.",
+   "B": "cinco horas semanales, salvo lo previsto en la Ley Estatutaria de la Administración de Justicia.",
+   "C": "diez horas semanales.",
+   "D": "dos horas diarias."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 23 del artículo 39 de la Ley 1952 de 2019 prohíbe ejercer la docencia por más de cinco horas semanales dentro de la jornada laboral, salvo lo previsto en la Ley Estatutaria de la Administración de Justicia.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0038",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 27",
+  "enunciado": "Un directivo tiene trabajando en forma estable en su despacho a dos personas ajenas a la entidad, sin vinculación ni contrato. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "incurre en la prohibición de tener a su servicio, en forma estable para las labores de su despacho, personas ajenas a la entidad.",
+   "B": "actúa válidamente si no les paga con recursos públicos.",
+   "C": "actúa válidamente si son practicantes no inscritos.",
+   "D": "solo incurre en falta si las personas son familiares."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 27 del artículo 39 de la Ley 1952 de 2019 prohíbe tener a su servicio, en forma estable para las labores propias de su despacho, personas ajenas a la entidad.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0039",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 16",
+  "enunciado": "Un alcalde expide un decreto con el mismo contenido de otro que el tribunal administrativo suspendió provisionalmente. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "incurre en la prohibición de reproducir actos administrativos suspendidos o anulados por la jurisdicción contencioso administrativa.",
+   "B": "solo incurre en falta si el decreto se ejecuta.",
+   "C": "actúa válidamente si cambia la fecha.",
+   "D": "actúa válidamente porque es un acto nuevo."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 16 del artículo 39 de la Ley 1952 de 2019 prohíbe reproducir actos administrativos suspendidos o anulados por la jurisdicción contencioso administrativa; el artículo 237 del CPACA también lo prohíbe.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0040",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 4",
+  "enunciado": "Un servidor acepta un premio en dinero otorgado por un gobierno extranjero, sin permiso de la autoridad correspondiente. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "solo debe declararlo en la renta.",
+   "B": "no incurre en falta si el premio es académico.",
+   "C": "incurre en la prohibición de aceptar, sin permiso, cargos, honores o recompensas de organismos internacionales o gobiernos extranjeros.",
+   "D": "actúa válidamente porque es un reconocimiento personal."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 4 del artículo 39 de la Ley 1952 de 2019 prohíbe aceptar, sin permiso de la autoridad correspondiente, cargos, honores o recompensas provenientes de organismos internacionales o gobiernos extranjeros; la Constitución (art. 129) contiene una regla similar.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0041",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 11",
+  "enunciado": "Es función de la Comisión Nacional del Servicio Civil según la Ley 909 de 2004",
+  "opciones": {
+   "A": "fijar los salarios de los empleados públicos.",
+   "B": "nombrar a los empleados de libre nombramiento.",
+   "C": "juzgar disciplinariamente a los empleados de carrera.",
+   "D": "elaborar las convocatorias a concurso para el desempeño de empleos públicos de carrera."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 11 de la Ley 909 de 2004 asigna a la CNSC, entre otras, establecer los lineamientos de los procesos de selección, elaborar las convocatorias y conformar las listas de elegibles. Los nombramientos los hacen los nominadores y el régimen salarial lo fija el Gobierno conforme a la ley.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0042",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 16",
+  "enunciado": "En todas las entidades regidas por la Ley 909 de 2004 debe existir una instancia de colaboración entre empleados y administración, conformada por representantes de ambos, denominada",
+  "opciones": {
+   "A": "Comité de Convivencia Laboral exclusivamente.",
+   "B": "Comisión de Personal.",
+   "C": "Junta de Carrera.",
+   "D": "Sala de Instrucción."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 16 de la Ley 909 de 2004 dispone que en todas las entidades debe existir una Comisión de Personal, integrada por dos representantes de la entidad y dos de los empleados, con funciones de vigilancia de los procesos de selección y evaluación, entre otras.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0043",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 26",
+  "enunciado": "Un empleado de carrera es nombrado en un empleo de libre nombramiento y remoción en otra entidad, con desempeño sobresaliente. Para no perder sus derechos de carrera puede obtener",
+  "opciones": {
+   "A": "una licencia ordinaria indefinida.",
+   "B": "una comisión para desempeñar empleos de libre nombramiento y remoción o de período, hasta por tres años prorrogables una vez.",
+   "C": "un encargo por tiempo indefinido.",
+   "D": "un traslado definitivo."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 26 de la Ley 909 de 2004 permite a los empleados de carrera con evaluación sobresaliente obtener comisión para desempeñar empleos de libre nombramiento y remoción o de período, hasta por tres años, prorrogables por una vez, conservando sus derechos de carrera.",
+  "dificultad": 3
+ },
+ {
+  "id": "fp-0044",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Decreto 1083 de 2015, art. 2.2.5.5.5",
+  "enunciado": "En el régimen general de los empleados públicos, la licencia ordinaria no remunerada se concede",
+  "opciones": {
+   "A": "solo por calamidad doméstica.",
+   "B": "hasta por cinco días al mes.",
+   "C": "hasta por sesenta días hábiles al año, continuos o discontinuos, prorrogables hasta por treinta días más si hay justa causa.",
+   "D": "hasta por un año continuo."
+  },
+  "correcta": "C",
+  "explicacion": "El Decreto 1083 de 2015 regula la licencia ordinaria no remunerada hasta por sesenta días hábiles al año, continuos o discontinuos, prorrogable hasta por treinta días más si concurre justa causa a juicio de la autoridad competente. En la Procuraduría rige su régimen especial (tres meses).",
+  "dificultad": 3
+ },
+ {
+  "id": "fp-0045",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 27",
+  "enunciado": "Según la Ley 909 de 2004, la carrera administrativa es",
+  "opciones": {
+   "A": "un sistema de contratación de prestación de servicios.",
+   "B": "un régimen de estabilidad absoluta sin evaluación.",
+   "C": "un mecanismo de selección por afinidad política.",
+   "D": "un sistema técnico de administración de personal que tiene por objeto garantizar la eficiencia y ofrecer igualdad de oportunidades para el acceso y ascenso con base en el mérito."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 27 de la Ley 909 de 2004 define la carrera como sistema técnico de administración de personal que busca la eficiencia, igualdad de oportunidades para el acceso y ascenso, con base exclusiva en el mérito, sin discriminaciones por motivos políticos u otros.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0046",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 28",
+  "enunciado": "Es un principio que orienta el ingreso y ascenso a los empleos de carrera según la Ley 909 de 2004",
+  "opciones": {
+   "A": "la libre concurrencia e igualdad en el ingreso, con publicidad de las convocatorias.",
+   "B": "la preferencia por los recomendados de los directivos.",
+   "C": "la reserva de las convocatorias.",
+   "D": "la antigüedad como único criterio."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 28 de la Ley 909 de 2004 enumera principios como mérito, libre concurrencia e igualdad, publicidad, transparencia, especialización de los órganos técnicos, garantía de imparcialidad, confiabilidad y validez de los instrumentos, eficacia y eficiencia.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0047",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 31, num. 3",
+  "enunciado": "Según la Ley 909 de 2004, las pruebas o instrumentos de selección tienen como finalidad",
+  "opciones": {
+   "A": "reemplazar la verificación de requisitos mínimos.",
+   "B": "confirmar la recomendación previa del nominador.",
+   "C": "verificar la afiliación política de los aspirantes.",
+   "D": "apreciar la capacidad, idoneidad y adecuación de los aspirantes a los empleos y establecer una clasificación de los candidatos."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 3 del artículo 31 de la Ley 909 de 2004 dispone que las pruebas tienen como finalidad apreciar la capacidad, idoneidad y adecuación de los aspirantes a los empleos y establecer una clasificación de los candidatos respecto de las calidades requeridas.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0048",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 41, parágrafo 2",
+  "enunciado": "El retiro de un empleado de libre nombramiento y remoción por decisión del nominador",
+  "opciones": {
+   "A": "es discrecional y no requiere motivación, salvo las excepciones legales o jurisprudenciales.",
+   "B": "requiere concepto de la CNSC.",
+   "C": "solo procede por evaluación insatisfactoria.",
+   "D": "exige siempre proceso disciplinario."
+  },
+  "correcta": "A",
+  "explicacion": "El parágrafo 2 del artículo 41 de la Ley 909 de 2004 dispone que la remoción en empleos de libre nombramiento y remoción es discrecional y se efectúa mediante acto no motivado; el retiro de los empleados de carrera, en cambio, requiere motivación.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0049",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 129",
+  "enunciado": "Según el artículo 129 de la Constitución, los servidores públicos no pueden aceptar cargos, honores o recompensas de gobiernos extranjeros u organismos internacionales, ni celebrar contratos con ellos,",
+  "opciones": {
+   "A": "en ningún caso.",
+   "B": "sin autorización del Congreso en cada caso.",
+   "C": "sin previa autorización del Gobierno.",
+   "D": "salvo que sean de carrera administrativa."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 129 de la Constitución dispone que los servidores públicos no podrán aceptar cargos, honores o recompensas de gobiernos extranjeros u organismos internacionales, ni celebrar contratos con ellos, sin previa autorización del Gobierno.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0050",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1010 de 2006, art. 9",
+  "enunciado": "Según la Ley 1010 de 2006, los reglamentos de trabajo y las entidades públicas deben prever mecanismos de prevención del acoso laboral y un procedimiento",
+  "opciones": {
+   "A": "a cargo de la Fiscalía.",
+   "B": "interno, confidencial, conciliatorio y efectivo para superar las conductas que ocurran en el lugar de trabajo.",
+   "C": "público y sancionatorio a cargo del jefe inmediato.",
+   "D": "exclusivamente judicial."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 9 de la Ley 1010 de 2006 exige prever mecanismos de prevención y un procedimiento interno, confidencial, conciliatorio y efectivo para superar las conductas de acoso; en las entidades públicas opera, entre otros, el comité de convivencia laboral.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0051",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1010 de 2006, art. 2",
+  "enunciado": "Un superior asigna a una profesional cargas de trabajo desproporcionadas y la excluye injustificadamente de reuniones, con el fin de que renuncie. Según la Ley 1010 de 2006, esta conducta puede constituir",
+  "opciones": {
+   "A": "persecución laboral, como modalidad de acoso laboral.",
+   "B": "un ejercicio normal de la potestad de dirección.",
+   "C": "una falta leve sin relevancia.",
+   "D": "un conflicto que solo resuelve la CNSC."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 2 de la Ley 1010 de 2006 define la persecución laboral como toda conducta reiterada y arbitraria que permita inferir el propósito de inducir la renuncia del empleado, mediante descalificación, carga excesiva de trabajo y cambios permanentes de horario que puedan producir desmotivación.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0052",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38, num. 42",
+  "enunciado": "Según el Código General Disciplinario, capacitarse y actualizarse en el área donde se desempeña la función es",
+  "opciones": {
+   "A": "una obligación solo de los directivos.",
+   "B": "una prohibición durante la jornada laboral.",
+   "C": "una actividad voluntaria sin relevancia disciplinaria.",
+   "D": "un deber del servidor público."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 42 del artículo 38 de la Ley 1952 de 2019 consagra como deber de todo servidor capacitarse y actualizarse en el área donde desempeña su función; el artículo 37 reconoce además el derecho a recibir capacitación.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0053",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 28",
+  "enunciado": "Según el Código General Disciplinario, está prohibido propiciar, organizar o participar en huelgas, paros o suspensión de actividades",
+  "opciones": {
+   "A": "solo si el paro dura más de un mes.",
+   "B": "únicamente para los empleados de libre nombramiento.",
+   "C": "cuando se trate de servicios públicos esenciales definidos por el legislador.",
+   "D": "en cualquier caso, aunque el servicio no sea esencial."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 28 del artículo 39 de la Ley 1952 de 2019 prohíbe propiciar, organizar o participar en huelgas, paros o suspensión de actividades o disminución del ritmo de trabajo cuando se trate de servicios públicos esenciales definidos por el legislador.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0054",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39, num. 22",
+  "enunciado": "Un funcionario excluye a un ciudadano de un programa social por su origen étnico. Además de otras consecuencias, incurre en la prohibición de",
+  "opciones": {
+   "A": "ocupar indebidamente oficinas públicas.",
+   "B": "distinguir, excluir, restringir o preferir con base en motivos de raza, color, linaje u origen nacional o étnico.",
+   "C": "prescindir del reparto.",
+   "D": "ejercer la docencia en horario laboral."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 22 del artículo 39 de la Ley 1952 de 2019 prohíbe distinguir, excluir, restringir o preferir con base en motivos de raza, color, linaje u origen nacional o étnico, con el objeto o resultado de anular o menoscabar el ejercicio de derechos.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0055",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1952 de 2019, arts. 38 y 39",
+  "enunciado": "Según el Código General Disciplinario, son deberes del servidor público:\n\n1. Motivar las decisiones que lo requieran, de conformidad con la ley.\n2. Constituirse en acreedor de los interesados en sus asuntos.\n3. Denunciar los delitos y faltas disciplinarias de que tenga conocimiento, salvo las excepciones legales.\n4. Desempeñar simultáneamente más de un empleo público.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "Motivar las decisiones (art. 38, num. 14) y denunciar delitos y faltas (art. 38, num. 25) son deberes. Constituirse en acreedor de interesados y desempeñar simultáneamente más de un empleo público son prohibiciones (art. 39, nums. 10 y 13).",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0056",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Constitución Política, art. 125; Ley 909 de 2004, art. 41",
+  "enunciado": "TESIS: El ingreso a los cargos de carrera y el ascenso en los mismos se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes.\n\nPOSTULADO I: La filiación política no puede determinar el nombramiento en un empleo de carrera.\nPOSTULADO II: Un empleado de carrera puede ser retirado discrecionalmente por el nominador.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "Si el ingreso depende de méritos y calidades fijados por la ley, la filiación política no puede determinarlo (postulado I, que el art. 125 también consagra expresamente). El postulado II es falso: el retiro de carrera solo procede por causales legales, como la evaluación insatisfactoria o la sanción disciplinaria.",
+  "dificultad": 2
+ }
+]
