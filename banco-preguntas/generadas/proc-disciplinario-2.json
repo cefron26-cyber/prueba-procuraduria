@@ -1,0 +1,480 @@
+[
+ {
+  "id": "proc-0029",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 86",
+  "enunciado": "Llega a la Procuraduría un escrito anónimo que denuncia irregularidades en un contrato, con datos concretos y medios de prueba que permiten verificar los hechos. La autoridad",
+  "opciones": {
+   "A": "puede iniciar la acción, porque los anónimos son admisibles cuando cumplen los requisitos mínimos de los artículos 38 de la Ley 190 de 1995 y 27 de la Ley 24 de 1992.",
+   "B": "debe publicar un edicto para que el autor se identifique.",
+   "C": "solo puede remitirlo a la Fiscalía.",
+   "D": "debe archivarlo de plano porque no se admiten anónimos en ningún caso."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 86 de la Ley 1952 de 2019 dispone que la acción no procede por anónimos, salvo cuando cumplan los requisitos mínimos de las Leyes 190 de 1995 y 24 de 1992, es decir, cuando aporten datos o pruebas que permitan adelantar la actuación de oficio.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0030",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 87",
+  "enunciado": "Un servidor que no tiene competencia disciplinaria conoce un hecho que podría ser falta disciplinaria de un compañero. Debe",
+  "opciones": {
+   "A": "guardar silencio para no afectar el clima laboral.",
+   "B": "esperar a que otro funcionario lo denuncie.",
+   "C": "ponerlo en conocimiento de la autoridad competente, adjuntando las pruebas que tenga.",
+   "D": "iniciar él mismo la investigación."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 87 de la Ley 1952 de 2019 obliga al servidor que conozca un hecho constitutivo de posible falta a iniciar la acción si es competente o, si no lo es, a ponerlo en conocimiento de la autoridad competente con las pruebas que tenga.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0031",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 88",
+  "enunciado": "Un servidor conoce una posible falta disciplinaria cometida por su hermano, también servidor público. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "está obligado a denunciarlo so pena de falta gravísima.",
+   "B": "no está obligado a formular queja contra él, por el parentesco dentro del segundo grado de consanguinidad.",
+   "C": "debe denunciarlo solo si la falta es leve.",
+   "D": "debe pedir autorización al jefe para no denunciarlo."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 88 de la Ley 1952 de 2019 exonera al servidor del deber de formular queja contra sí mismo, su cónyuge, compañero permanente o pariente dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil, o por hechos amparados por secreto profesional.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0032",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 90",
+  "enunciado": "Durante la investigación aparece plenamente demostrado que el hecho atribuido no existió. El funcionario debe",
+  "opciones": {
+   "A": "formular cargos para que el investigado se defienda.",
+   "B": "continuar hasta el fallo para absolver formalmente.",
+   "C": "declarar la terminación del proceso mediante decisión motivada y ordenar el archivo definitivo, comunicándolo al quejoso.",
+   "D": "suspender el proceso indefinidamente."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 90 de la Ley 1952 de 2019 ordena declarar la terminación y el archivo definitivo, en cualquier etapa, cuando aparezca plenamente demostrado que el hecho no existió, no es falta, el disciplinado no lo cometió, existe causal de exclusión o la actuación no podía iniciarse o proseguirse.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0033",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 224",
+  "enunciado": "La decisión de archivo definitivo de una investigación disciplinaria por las causales del artículo 90, cuando se identificó al autor,",
+  "opciones": {
+   "A": "requiere confirmación del Procurador General.",
+   "B": "puede revisarse libremente en cualquier tiempo.",
+   "C": "solo produce cosa juzgada formal.",
+   "D": "hace tránsito a cosa juzgada."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 224 de la Ley 1952 de 2019 dispone que el archivo definitivo en los casos del artículo 90 y del 213 hace tránsito a cosa juzgada; cuando no fue posible identificar al presunto autor, solo hace tránsito a cosa juzgada formal.",
+  "dificultad": 3
+ },
+ {
+  "id": "proc-0034",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 111",
+  "enunciado": "Según el Código General Disciplinario, la calidad de disciplinado se adquiere",
+  "opciones": {
+   "A": "a partir del auto de apertura de investigación o de la orden de vinculación.",
+   "B": "con la notificación del pliego de cargos.",
+   "C": "desde la apertura de la indagación previa.",
+   "D": "desde la presentación de la queja."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 111 de la Ley 1952 de 2019 dispone que la calidad de disciplinado se adquiere a partir del auto de apertura de investigación o de la orden de vinculación.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0035",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 127 (modif. Ley 2094 de 2021, art. 23)",
+  "enunciado": "El pliego de cargos no pudo notificarse personalmente al disciplinable pese a la citación. Según el Código General Disciplinario modificado, ciertas decisiones que no pueden notificarse personalmente, como la apertura de investigación o los fallos, se notifican",
+  "opciones": {
+   "A": "por edicto.",
+   "B": "por estado electrónico.",
+   "C": "por conducta concluyente obligatoria.",
+   "D": "mediante publicación en un diario de amplia circulación."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 127 modificado por la Ley 2094 de 2021 dispone que los autos de apertura, vinculación, pliego de cargos y su variación, y los fallos que no puedan notificarse personalmente se notifican por edicto. Para el pliego rige además la designación de defensor de oficio (art. 225).",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0036",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 128",
+  "enunciado": "No se notificó personalmente una decisión, pero el disciplinado presentó un escrito refiriéndose expresamente a ella. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "la decisión es nula por falta de notificación.",
+   "B": "se entiende notificado por conducta concluyente.",
+   "C": "debe repetirse la notificación personal en todo caso.",
+   "D": "el escrito debe rechazarse."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 128 de la Ley 1952 de 2019 regula la notificación por conducta concluyente: cuando no se hizo la notificación personal o ficta, o fue irregular, se entiende surtida si el sujeto procesal se refiere a la decisión o interpone recursos contra ella.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0037",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 138",
+  "enunciado": "Una decisión disciplinaria contra la que procedían recursos se notificó por escrito y no fue impugnada. Queda en firme",
+  "opciones": {
+   "A": "el mismo día de su expedición.",
+   "B": "diez días después de su notificación.",
+   "C": "cinco días después de la última notificación.",
+   "D": "un mes después de su notificación."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 138 de la Ley 1952 de 2019 dispone que las decisiones contra las que proceden recursos quedan en firme cinco días después de la última notificación; las dictadas en audiencia, al finalizar esta si no fueron impugnadas.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0038",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 138",
+  "enunciado": "Las decisiones que resuelven los recursos de apelación y queja quedan en firme",
+  "opciones": {
+   "A": "cuando el disciplinado firme el acta.",
+   "B": "tres días después de expedidas.",
+   "C": "cinco días después de notificadas.",
+   "D": "el día en que sean notificadas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 138 de la Ley 1952 de 2019 dispone que las decisiones que resuelven los recursos de apelación y queja, la consulta y aquellas contra las que no procede recurso quedan en firme el día en que se notifican.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0039",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 234",
+  "enunciado": "Al resolver la apelación contra un fallo sancionatorio, el funcionario de segunda instancia",
+  "opciones": {
+   "A": "revisa todo el proceso de manera integral sin límite.",
+   "B": "solo puede confirmar el fallo.",
+   "C": "revisa únicamente los aspectos impugnados y los que resulten inescindiblemente vinculados a ellos.",
+   "D": "debe practicar de nuevo todas las pruebas."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 234 de la Ley 1952 de 2019 limita la competencia del superior a los aspectos impugnados y a los inescindiblemente vinculados; además, debe decidir por escrito dentro de los cuarenta y cinco días siguientes al recibo del proceso.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0040",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 235 (modif. Ley 2094 de 2021, art. 52)",
+  "enunciado": "En segunda instancia o en doble conformidad, las pruebas de oficio",
+  "opciones": {
+   "A": "pueden decretarse excepcionalmente, y deben decretarse las que puedan modificar sustancial y favorablemente la situación del disciplinado.",
+   "B": "están prohibidas.",
+   "C": "solo pueden pedirse por el quejoso.",
+   "D": "se decretan siempre que lo pida cualquier sujeto procesal."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 235 modificado dispone que en segunda instancia o doble conformidad excepcionalmente se pueden decretar pruebas de oficio, y que deben decretarse las que puedan modificar sustancial y favorablemente la situación jurídica del disciplinado.",
+  "dificultad": 3
+ },
+ {
+  "id": "proc-0041",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 144",
+  "enunciado": "Un sancionado no interpuso recursos contra el fallo y ahora solicita su revocatoria directa. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "no puede, porque la revocatoria solo procede de oficio.",
+   "B": "puede solicitarla por una única vez, porque no interpuso los recursos ordinarios.",
+   "C": "puede solicitarla cuantas veces quiera.",
+   "D": "debe acudir primero a la jurisdicción contencioso administrativa."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 144 de la Ley 1952 de 2019 permite al sancionado solicitar, por una única vez, la revocación total o parcial del fallo sancionatorio, siempre que no haya interpuesto los recursos ordinarios.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0042",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 143",
+  "enunciado": "Los fallos sancionatorios, los autos de archivo y los fallos absolutorios son revocables cuando",
+  "opciones": {
+   "A": "haya transcurrido un año desde su ejecutoria.",
+   "B": "el disciplinado cambie de cargo.",
+   "C": "el superior no esté de acuerdo con la valoración de las pruebas.",
+   "D": "infrinjan manifiestamente las normas constitucionales, legales o reglamentarias en que deban fundarse, o vulneren o amenacen manifiestamente los derechos fundamentales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 143 de la Ley 1952 de 2019 establece como causal de revocación la infracción manifiesta de las normas en que deban fundarse las decisiones o la vulneración o amenaza manifiesta de los derechos fundamentales.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0043",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 150",
+  "enunciado": "En el proceso disciplinario, la falta y la responsabilidad del investigado pueden demostrarse",
+  "opciones": {
+   "A": "únicamente con la confesión.",
+   "B": "solo con prueba testimonial de al menos dos personas.",
+   "C": "solo con prueba documental.",
+   "D": "con cualquiera de los medios de prueba legalmente reconocidos."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 150 de la Ley 1952 de 2019 consagra la libertad probatoria: la falta y la responsabilidad pueden demostrarse con cualquier medio de prueba legalmente reconocido.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0044",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 154",
+  "enunciado": "En un proceso penal se practicaron válidamente declaraciones sobre los mismos hechos que se investigan disciplinariamente. La autoridad disciplinaria puede",
+  "opciones": {
+   "A": "trasladarlas mediante copias autorizadas y apreciarlas conforme a las reglas del Código.",
+   "B": "usarlas solo si las repite en su totalidad.",
+   "C": "no puede usarlas por ser de otra jurisdicción.",
+   "D": "usarlas sin copias, con la sola manifestación del fiscal."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 154 de la Ley 1952 de 2019 permite trasladar las pruebas practicadas válidamente en otra actuación judicial o administrativa mediante copias autorizadas, apreciándolas conforme a las reglas del Código.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0045",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 165",
+  "enunciado": "Un testigo citado en una investigación disciplinaria no comparece y no justifica su ausencia. Puede imponérsele",
+  "opciones": {
+   "A": "ninguna consecuencia, porque declarar es voluntario.",
+   "B": "arresto de cinco días.",
+   "C": "multa hasta de cincuenta salarios mínimos diarios, mediante decisión motivada, y seguirá obligado a declarar.",
+   "D": "sanción disciplinaria de suspensión aunque sea particular."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 165 de la Ley 1952 de 2019 permite multar al testigo renuente hasta con cincuenta salarios mínimos diarios, salvo justificación dentro de los tres días siguientes; contra la decisión procede reposición y el testigo sigue obligado a declarar.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0046",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 214",
+  "enunciado": "En una falta cometida por varios servidores, solo se ha identificado a uno de ellos. El funcionario puede",
+  "opciones": {
+   "A": "formular cargos contra el identificado por la conducta de todos.",
+   "B": "romper la unidad procesal, sin perjuicio de unificar luego las actuaciones.",
+   "C": "suspender la investigación.",
+   "D": "archivar todo hasta identificar a los demás."
+  },
+  "correcta": "B",
+  "explicacion": "El literal a del artículo 214 de la Ley 1952 de 2019 permite romper la unidad procesal cuando intervinieron varios servidores y solo se identifican uno o algunos, sin perjuicio de unificar después las actuaciones.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0047",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 104",
+  "enunciado": "El funcionario que adelanta una investigación tiene interés directo en la actuación porque el quejoso es su cónyuge. Debe",
+  "opciones": {
+   "A": "continuar, pero sin firmar el fallo.",
+   "B": "pedir al quejoso que desista.",
+   "C": "continuar, porque el cónyuge no es sujeto procesal.",
+   "D": "declararse impedido; si no lo hace, puede ser recusado."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 104 de la Ley 1952 de 2019 establece como causal de impedimento y recusación tener interés directo en la actuación, o tenerlo el cónyuge, compañero permanente o parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0048",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225H (adic. Ley 2094 de 2021, art. 47)",
+  "enunciado": "En el juicio verbal, la audiencia de descargos y pruebas debe realizarse",
+  "opciones": {
+   "A": "dentro de los tres días siguientes al pliego.",
+   "B": "dentro de los noventa días siguientes.",
+   "C": "en un término no menor de diez ni mayor de veinte días contados desde la fecha del auto de citación.",
+   "D": "el mismo día en que se recibe el expediente."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 225H, adicionado por la Ley 2094 de 2021, dispone que la audiencia de descargos y pruebas del juicio verbal se realizará en un término no menor de diez ni mayor de veinte días contados desde la fecha del auto de citación, contra el cual no procede recurso.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0049",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 230 (modif. Ley 2094 de 2021, art. 51)",
+  "enunciado": "En el juicio verbal, cuando no hay pruebas por practicar, la audiencia se suspende para que los sujetos preparen los alegatos previos al fallo por",
+  "opciones": {
+   "A": "diez días; luego intervienen en orden el Ministerio Público, la víctima, el disciplinable y el defensor.",
+   "B": "treinta días; luego intervienen el quejoso y el defensor.",
+   "C": "cinco días; luego interviene solo el defensor.",
+   "D": "quince días; luego el funcionario dicta fallo sin alegatos."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 230 modificado dispone la suspensión por diez días para preparar alegatos y fija el orden de intervención: Ministerio Público, víctima cuando sea el caso, disciplinable y defensor; luego se cita dentro de los quince días siguientes para dar a conocer la decisión.",
+  "dificultad": 3
+ },
+ {
+  "id": "proc-0050",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225E (adic. Ley 2094 de 2021, art. 44)",
+  "enunciado": "En el juicio ordinario, practicadas las pruebas, el funcionario ordena traslado común para alegatos de conclusión por",
+  "opciones": {
+   "A": "tres días.",
+   "B": "diez días.",
+   "C": "veinte días.",
+   "D": "un mes."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 225E, adicionado por la Ley 2094 de 2021, ordena el traslado común por diez días para que los sujetos procesales presenten alegatos de conclusión en el juicio ordinario.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0051",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225F (adic. Ley 2094 de 2021, art. 45)",
+  "enunciado": "En el juicio ordinario, el fallo debe proferirse dentro de los",
+  "opciones": {
+   "A": "treinta días hábiles siguientes al vencimiento del traslado para alegatos de conclusión.",
+   "B": "seis meses siguientes a la apertura del juicio.",
+   "C": "cinco días siguientes a los descargos.",
+   "D": "noventa días siguientes al pliego."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 225F, adicionado por la Ley 2094 de 2021, dispone que el fallo se profiere dentro de los treinta días hábiles siguientes al vencimiento del traslado para alegatos de conclusión, y fija su contenido mínimo.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0052",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 228 (modif. Ley 2094 de 2021, art. 49)",
+  "enunciado": "En el juicio verbal, ni el disciplinable ni su defensor se presentan a la audiencia sin justificación. El funcionario",
+  "opciones": {
+   "A": "dicta fallo sancionatorio por rebeldía.",
+   "B": "suspende el proceso hasta que el disciplinable comparezca.",
+   "C": "designa inmediatamente un defensor de oficio, que puede ser defensor público o estudiante de consultorio jurídico, y continúa la actuación.",
+   "D": "declara desierto el proceso."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 228 dispone que si ninguno se presenta sin justificación se designa inmediatamente defensor de oficio, defensor público o estudiante de consultorio jurídico, y se continúa; el disciplinable puede presentarse luego y asumir el proceso en el estado en que se encuentre.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0053",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 210 (modif. Ley 2094 de 2021, art. 35)",
+  "enunciado": "Durante el proceso se advierte que la queja fue temeraria. La autoridad disciplinaria puede imponer al quejoso, previo trámite con garantía de defensa,",
+  "opciones": {
+   "A": "arresto de hasta seis meses.",
+   "B": "inhabilidad para ejercer cargos públicos.",
+   "C": "suspensión de sus derechos políticos.",
+   "D": "multa hasta de 180 salarios diarios mínimos legales vigentes."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 210 modificado permite imponer al quejoso temerario multa hasta de 180 salarios diarios mínimos, tras citarlo para oír sus explicaciones; además, las quejas falsas o temerarias generan responsabilidad patrimonial exigible ante los jueces.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0054",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 200 (modif. Ley 2094 de 2021, art. 31)",
+  "enunciado": "Tras la Ley 2094 de 2021, las atribuciones de policía judicial en el proceso disciplinario",
+  "opciones": {
+   "A": "fueron eliminadas del proceso disciplinario.",
+   "B": "solo puede ejercerlas el Procurador General, de oficio o a solicitud motivada de la autoridad disciplinaria.",
+   "C": "pueden ejercerlas todos los funcionarios de instrucción.",
+   "D": "corresponden a las oficinas de control interno."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 200 modificado dispone que solo el Procurador General podrá, de oficio o a solicitud motivada de la autoridad disciplinaria, ejercer las atribuciones de policía judicial, en los términos del artículo 277 de la Constitución.",
+  "dificultad": 3
+ },
+ {
+  "id": "proc-0055",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1952 de 2019, art. 121 (modif. Ley 2094 de 2021, art. 20)",
+  "enunciado": "Según el Código General Disciplinario modificado, deben notificarse personalmente:\n\n1. El auto de apertura de investigación disciplinaria.\n2. El auto que fija fecha para un testimonio.\n3. El pliego de cargos.\n4. La decisión que incorpora un documento al expediente.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 121 modificado dispone que se notifican personalmente los autos de apertura de investigación, de vinculación, el pliego de cargos y su variación, y los fallos de instancia. Las decisiones de sustanciación se comunican (art. 129).",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0056",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Ley 1952 de 2019, art. 12 (modif. Ley 2094 de 2021, art. 3)",
+  "enunciado": "TESIS: En el proceso disciplinario debe garantizarse que el funcionario instructor no sea el mismo que adelante el juzgamiento.\n\nPOSTULADO I: El funcionario que formula el pliego de cargos no debe dictar el fallo de primera instancia.\nPOSTULADO II: El disciplinado puede elegir libremente al funcionario que lo juzgará.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "Si instrucción y juzgamiento deben estar a cargo de funcionarios distintos, quien formula cargos (instructor) no puede fallar (postulado I). La separación de funciones no implica que el disciplinado escoja a su juzgador; la competencia la fija la ley.",
+  "dificultad": 2
+ }
+]
