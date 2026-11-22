@@ -1,0 +1,478 @@
+[
+ {
+  "id": "pgn-0001",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 1",
+  "enunciado": "Según el Decreto Ley 262 de 2000, la Procuraduría General de la Nación",
+  "opciones": {
+   "A": "es un órgano adscrito al Ministerio de Justicia con autonomía técnica.",
+   "B": "es el máximo organismo del Ministerio Público y tiene autonomía administrativa, financiera y presupuestal.",
+   "C": "es parte de la Rama Judicial y está sujeta al Consejo Superior de la Judicatura.",
+   "D": "es un organismo de control fiscal con autonomía presupuestal."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 1 del Decreto Ley 262 de 2000 define a la PGN como el máximo organismo del Ministerio Público, con autonomía administrativa, financiera y presupuestal, bajo la suprema dirección del Procurador General. Es un órgano de control autónomo, no adscrito al Ejecutivo ni a la Rama Judicial, y no ejerce control fiscal.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0002",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 276; Decreto Ley 262 de 2000, art. 3",
+  "enunciado": "El Procurador General de la Nación es elegido por",
+  "opciones": {
+   "A": "el Senado de la República, de terna integrada por candidatos del Presidente, la Corte Suprema de Justicia y el Consejo de Estado.",
+   "B": "la Cámara de Representantes, de terna enviada por el Presidente de la República.",
+   "C": "el Congreso en pleno, de lista de elegibles conformada por concurso.",
+   "D": "la Corte Constitucional, de terna enviada por el Senado."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 276 de la Constitución y el artículo 3 del Decreto Ley 262 de 2000 disponen que el Senado elige al Procurador para un período de cuatro años, de terna del Presidente, la Corte Suprema de Justicia y el Consejo de Estado. La Cámara elige al Defensor del Pueblo, de terna del Presidente.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0003",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 3",
+  "enunciado": "El Procurador General de la Nación toma posesión ante",
+  "opciones": {
+   "A": "el Presidente del Senado.",
+   "B": "el Presidente de la Corte Suprema de Justicia.",
+   "C": "el Presidente de la República o quien haga sus veces.",
+   "D": "el Consejo de Estado en pleno."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 3 del Decreto Ley 262 de 2000 establece que el Procurador General tomará posesión ante el Presidente de la República o ante quien haga sus veces, aunque su elección corresponda al Senado.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0004",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 6",
+  "enunciado": "Mientras se realiza la elección y posesión de un nuevo Procurador General por falta absoluta del titular, ejerce como Procurador General",
+  "opciones": {
+   "A": "el Defensor del Pueblo.",
+   "B": "el Secretario General.",
+   "C": "el Procurador Delegado más antiguo.",
+   "D": "el Viceprocurador General."
+  },
+  "correcta": "D",
+  "explicacion": "El Decreto Ley 262 de 2000 dispone que, en caso de falta absoluta, mientras se realiza la elección y posesión, el Viceprocurador ejercerá como Procurador General de la Nación.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0005",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 118",
+  "enunciado": "Según la Constitución Política, el Ministerio Público es ejercido por",
+  "opciones": {
+   "A": "el Procurador General de la Nación, el Defensor del Pueblo, los procuradores delegados, los agentes del Ministerio Público ante las autoridades jurisdiccionales, los personeros municipales y los demás funcionarios que determine la ley.",
+   "B": "el Procurador General de la Nación, el Contralor General y el Fiscal General.",
+   "C": "la Procuraduría y la Fiscalía General de la Nación.",
+   "D": "exclusivamente la Procuraduría General de la Nación y sus dependencias."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 118 de la Constitución enumera quienes ejercen el Ministerio Público: Procurador General, Defensor del Pueblo, procuradores delegados, agentes ante las autoridades jurisdiccionales, personeros municipales y demás funcionarios que determine la ley. La Contraloría y la Fiscalía no hacen parte del Ministerio Público.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0006",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 278, num. 1",
+  "enunciado": "El Procurador General debe ejercer directamente, sin delegar, la función de",
+  "opciones": {
+   "A": "intervenir en los procesos civiles de familia.",
+   "B": "desvincular del cargo, previa audiencia y mediante decisión motivada, al funcionario que infrinja de manera manifiesta la Constitución o la ley.",
+   "C": "realizar visitas preventivas a las alcaldías.",
+   "D": "vigilar el cumplimiento de las decisiones judiciales."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 278 de la Constitución enumera funciones que el Procurador ejerce directamente, entre ellas desvincular del cargo, previa audiencia y decisión motivada, al funcionario que infrinja de manera manifiesta la Constitución o la ley. Las otras corresponden al artículo 277 y pueden asignarse a sus agentes.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0007",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 278, num. 5",
+  "enunciado": "En los procesos de control de constitucionalidad que se tramitan ante la Corte Constitucional, el Procurador General",
+  "opciones": {
+   "A": "interviene solo si la norma demandada es disciplinaria.",
+   "B": "actúa como demandante obligatorio.",
+   "C": "rinde concepto, función que ejerce directamente.",
+   "D": "decide la admisión de la demanda."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 5 del artículo 278 asigna al Procurador, como función directa, rendir concepto en los procesos de control de constitucionalidad. No decide la admisión, que corresponde al magistrado sustanciador, y su concepto no se limita a normas disciplinarias.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0008",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 277, parágrafo",
+  "enunciado": "Para el cumplimiento de sus funciones, la Constitución otorga a la Procuraduría",
+  "opciones": {
+   "A": "la facultad de dictar sentencias en procesos penales contra servidores públicos.",
+   "B": "la función de juzgar a los congresistas.",
+   "C": "la potestad de expedir leyes en materia disciplinaria.",
+   "D": "atribuciones de policía judicial y la facultad de interponer las acciones que considere necesarias."
+  },
+  "correcta": "D",
+  "explicacion": "El parágrafo del artículo 277 dispone que la Procuraduría tendrá atribuciones de policía judicial y podrá interponer las acciones que considere necesarias. No dicta sentencias penales ni juzga a los congresistas, y no tiene potestad legislativa, aunque puede presentar proyectos de ley (art. 278).",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0009",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 277, num. 4",
+  "enunciado": "Entre las funciones del Procurador General, por sí o por medio de sus delegados y agentes, la Constitución incluye",
+  "opciones": {
+   "A": "defender los intereses colectivos, en especial el ambiente.",
+   "B": "expedir los actos de nombramiento de los personeros.",
+   "C": "ejercer el control fiscal posterior y selectivo.",
+   "D": "dirigir la acción penal contra los servidores públicos."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 4 del artículo 277 atribuye al Procurador defender los intereses colectivos, en especial el ambiente. El control fiscal es de la Contraloría, la acción penal de la Fiscalía y los personeros son elegidos por los concejos.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0010",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 280",
+  "enunciado": "Los agentes del Ministerio Público que actúan ante magistrados y jueces tienen",
+  "opciones": {
+   "A": "categoría inferior a la del juez, pero igual remuneración.",
+   "B": "las calidades de los fiscales delegados ante la misma instancia.",
+   "C": "un régimen salarial fijado libremente por el Procurador General.",
+   "D": "las mismas calidades, categoría, remuneración, derechos y prestaciones de los magistrados y jueces ante quienes ejercen el cargo."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 280 de la Constitución dispone que los agentes del Ministerio Público tendrán las mismas calidades, categoría, remuneración, derechos y prestaciones de los magistrados y jueces de mayor jerarquía ante quienes ejerzan el cargo.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0011",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 281",
+  "enunciado": "El Defensor del Pueblo",
+  "opciones": {
+   "A": "es independiente del Ministerio Público y lo elige el Senado.",
+   "B": "forma parte del Ministerio Público, ejerce sus funciones bajo la suprema dirección del Procurador General y es elegido por la Cámara de Representantes.",
+   "C": "depende del Ministerio del Interior y lo nombra el Presidente.",
+   "D": "es elegido por el Procurador General de terna de la Cámara."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 281 de la Constitución establece que el Defensor del Pueblo forma parte del Ministerio Público, ejerce sus funciones bajo la suprema dirección del Procurador General y es elegido por la Cámara de Representantes para un período de cuatro años, de terna del Presidente.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0012",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 7, num. 3",
+  "enunciado": "En ejercicio de la suprema dirección del Ministerio Público, el Procurador General puede",
+  "opciones": {
+   "A": "designar a los personeros municipales.",
+   "B": "remover libremente al Defensor del Pueblo.",
+   "C": "expedir actos y directrices que señalen políticas y criterios orientadores de actuación de la Defensoría del Pueblo en derechos humanos.",
+   "D": "revocar las sentencias de tutela proferidas por los jueces."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 3 del artículo 7 del Decreto Ley 262 de 2000 faculta al Procurador para expedir actos, órdenes y directrices que señalen políticas generales y criterios orientadores de la actuación de la Defensoría del Pueblo en derechos humanos. No puede remover al Defensor, revocar tutelas ni designar personeros.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0013",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 7, num. 12",
+  "enunciado": "En defensa del orden jurídico, el patrimonio público o los derechos fundamentales, el Procurador General puede solicitar a la Corte Constitucional",
+  "opciones": {
+   "A": "la suspensión de leyes en trámite.",
+   "B": "la revisión de fallos de tutela.",
+   "C": "la nulidad de actos administrativos de carácter general.",
+   "D": "la pérdida de investidura de congresistas."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 12 del artículo 7 faculta al Procurador para solicitar ante la Corte Constitucional la revisión de fallos de tutela. La nulidad de actos generales y la pérdida de investidura se tramitan ante el Consejo de Estado, y la Corte no suspende leyes en trámite.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0014",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 7, num. 18",
+  "enunciado": "Por razones de orden público, trascendencia social o imparcialidad, el Procurador General puede crear comisiones disciplinarias especiales. En ese caso, el fallo será proferido por quien presida la comisión, que debe ser",
+  "opciones": {
+   "A": "el mismo funcionario desplazado.",
+   "B": "un particular designado como conjuez.",
+   "C": "necesariamente un procurador delegado.",
+   "D": "de igual o superior jerarquía que el funcionario desplazado."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 18 del artículo 7 dispone que el fallo será proferido por quien presida la comisión o por el funcionario designado, quien deberá ser de igual o superior jerarquía que el funcionario desplazado.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0015",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 101 (modif. Ley 2094 de 2021, art. 16)",
+  "enunciado": "Tras la reforma de la Ley 2094 de 2021, la Procuraduría cuenta con salas disciplinarias encargadas de la instrucción y el juzgamiento de altos servidores. El número de salas es",
+  "opciones": {
+   "A": "una por cada procuraduría delegada.",
+   "B": "dos.",
+   "C": "tres.",
+   "D": "cinco."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 101 de la Ley 1952 de 2019, modificado por el artículo 16 de la Ley 2094 de 2021, establece que la Procuraduría contará con tres salas disciplinarias: de instrucción, ordinaria de juzgamiento y de juzgamiento de servidores de elección popular.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0016",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 102 (modif. Ley 2094 de 2021, art. 18)",
+  "enunciado": "El Procurador General puede desplazar a quien conoce de un proceso disciplinario por razones de orden público o imparcialidad, pero no puede hacerlo en los procesos contra",
+  "opciones": {
+   "A": "servidores públicos de elección popular.",
+   "B": "servidores de la propia Procuraduría.",
+   "C": "servidores del nivel directivo.",
+   "D": "particulares que ejercen funciones públicas."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 102 modificado permite al Procurador asignar o desplazar el conocimiento de un asunto, pero precisa que en ningún caso podrá hacerlo en procesos contra servidores públicos de elección popular.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0017",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 41",
+  "enunciado": "Los procuradores judiciales",
+  "opciones": {
+   "A": "dependen de la Fiscalía cuando intervienen en procesos penales.",
+   "B": "solo intervienen en segunda instancia.",
+   "C": "tienen la condición de agentes del Ministerio Público, intervienen ante las autoridades judiciales y en los trámites de conciliación.",
+   "D": "son jueces especializados en asuntos disciplinarios."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 41 del Decreto Ley 262 de 2000 dispone que los procuradores judiciales tienen la condición de agentes del Ministerio Público, intervienen ante las autoridades judiciales y en los trámites de conciliación. No son jueces y no dependen de la Fiscalía.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0018",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 37",
+  "enunciado": "Además de la intervención judicial, los procuradores judiciales pueden ejercer, cuando lo determine el Procurador General, funciones",
+  "opciones": {
+   "A": "de control fiscal sobre los recursos públicos.",
+   "B": "de reglamentación de las leyes procesales.",
+   "C": "de juzgamiento penal en primera instancia.",
+   "D": "preventivas y de control de gestión, disciplinarias y de protección de derechos humanos."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 37 del Decreto Ley 262 de 2000 señala que los procuradores judiciales ejercen funciones preventivas y de control de gestión, disciplinarias, de protección de derechos humanos y de intervención, cuando lo determine el Procurador General.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0019",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 182",
+  "enunciado": "Respecto de la clasificación de los empleos de la Procuraduría General de la Nación, la regla general es que",
+  "opciones": {
+   "A": "son de carrera, con excepción de los de libre nombramiento y remoción señalados en la norma.",
+   "B": "son provisionales hasta que la CNSC convoque concurso.",
+   "C": "son de libre nombramiento y remoción, salvo los del nivel asistencial.",
+   "D": "son de período fijo de cuatro años."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 182 del Decreto Ley 262 de 2000 dispone que los empleos de la Procuraduría son de carrera, con excepción de los de libre nombramiento y remoción que el mismo artículo enumera. La carrera de la PGN es especial y la administra la propia entidad, no la CNSC.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0020",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 190",
+  "enunciado": "Para proveer de forma definitiva un empleo de carrera de la Procuraduría, el primer orden de prioridad corresponde a",
+  "opciones": {
+   "A": "el empleado provisional que lleve más tiempo en el cargo.",
+   "B": "la persona inscrita en carrera que deba ser trasladada por su condición de desplazada por la violencia o riesgo inminente para su seguridad.",
+   "C": "el servidor de carrera con mejor calificación de servicios.",
+   "D": "quien ocupe el primer puesto en la lista de elegibles vigente."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 190 fija el orden: primero, el servidor de carrera desplazado o en riesgo; segundo, el reintegrado por orden judicial; tercero, el de carrera con cargo suprimido que optó por la incorporación; y cuarto, el primero de la lista de elegibles vigente.",
+  "dificultad": 3
+ },
+ {
+  "id": "pgn-0021",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 188",
+  "enunciado": "El encargo y el nombramiento provisional en vacancia definitiva de un cargo de carrera de la Procuraduría pueden hacerse hasta por",
+  "opciones": {
+   "A": "seis meses, prorrogables por un período igual.",
+   "B": "un año, sin prórroga.",
+   "C": "tres meses, prorrogables una vez.",
+   "D": "cuatro años, término del período del Procurador."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 188 del Decreto Ley 262 de 2000 dispone que el encargo y la provisionalidad podrán hacerse hasta por seis meses, prorrogables por un período igual; si no ha culminado el proceso de selección, pueden extenderse hasta que culmine.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0022",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 192",
+  "enunciado": "El concurso de la Procuraduría debe convocarse como de ascenso cuando existan en la entidad, por lo menos,",
+  "opciones": {
+   "A": "tres empleados de carrera con calificación sobresaliente.",
+   "B": "diez empleados provisionales en el mismo nivel.",
+   "C": "dos empleados de carrera por cada vacante.",
+   "D": "cinco empleados inscritos en carrera que cumplan los requisitos para ascender."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 192 dispone que el concurso debe convocarse de ascenso cuando existan por lo menos cinco empleados inscritos en carrera que cumplan los requisitos para ascender, según certificación de la División de Gestión Humana.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0023",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 203",
+  "enunciado": "En los procesos de selección de la Procuraduría, la prueba que siempre es obligatoria es",
+  "opciones": {
+   "A": "la prueba de ejecución.",
+   "B": "la entrevista.",
+   "C": "el análisis de antecedentes.",
+   "D": "la prueba psicotécnica."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 203 establece que la prueba de análisis de antecedentes es obligatoria y que se aplicarán como mínimo dos pruebas más, de las cuales al menos una será eliminatoria y una deberá ser escrita.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0024",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 204",
+  "enunciado": "Cuando en un concurso de la Procuraduría se programa entrevista, esta",
+  "opciones": {
+   "A": "es eliminatoria y vale el treinta por ciento.",
+   "B": "no puede valer más del veinte por ciento de la calificación definitiva y nunca es eliminatoria.",
+   "C": "reemplaza la prueba de conocimientos.",
+   "D": "la califica un solo evaluador designado por el jefe del área."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 204 dispone que la entrevista no podrá tener un valor superior al veinte por ciento de la calificación definitiva y nunca será eliminatoria; el jurado lo integran mínimo tres personas.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0025",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 208",
+  "enunciado": "Las pruebas aplicadas o por utilizar en los procesos de selección de la Procuraduría",
+  "opciones": {
+   "A": "pueden ser solicitadas por cualquier ciudadano mediante derecho de petición.",
+   "B": "tienen carácter reservado y solo las conocen los responsables de su elaboración y aplicación, los concursantes al momento de presentarlas y la Comisión de Carrera cuando investigue.",
+   "C": "se entregan a los aspirantes una semana antes para su estudio.",
+   "D": "son públicas una vez aplicadas y deben publicarse en la página web."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 208 del Decreto Ley 262 de 2000 dispone que las pruebas tienen carácter reservado. Por eso casi no existen preguntas oficiales públicas de concursos anteriores de la PGN.",
+  "dificultad": 1
+ },
+ {
+  "id": "pgn-0026",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 216; Resolución 076 de 2026",
+  "enunciado": "Para integrar la lista de elegibles en un concurso de la Procuraduría, el concursante debe obtener un puntaje total",
+  "opciones": {
+   "A": "igual o superior al ochenta por ciento del máximo posible.",
+   "B": "igual o superior a sesenta y cinco puntos en la prueba de conocimientos, sin importar el total.",
+   "C": "igual o superior al setenta por ciento del máximo posible.",
+   "D": "superior al promedio de los concursantes."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 216 del Decreto Ley 262 de 2000 exige un puntaje total igual o superior al setenta por ciento del máximo posible para integrar la lista de elegibles. Los 65 puntos son el mínimo para aprobar la prueba de conocimientos, que es solo una etapa eliminatoria.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0027",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 218",
+  "enunciado": "La persona seleccionada por concurso abierto, no inscrita en carrera, será nombrada en período de prueba por un término de",
+  "opciones": {
+   "A": "seis meses.",
+   "B": "un año.",
+   "C": "dos meses.",
+   "D": "cuatro meses."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 218 del Decreto Ley 262 de 2000 establece un período de prueba de cuatro meses, al cabo del cual se evalúa el desempeño laboral. El régimen general de la Ley 909 de 2004 prevé seis meses, pero la PGN tiene régimen especial.",
+  "dificultad": 2
+ },
+ {
+  "id": "pgn-0028",
+  "eje": "pgn",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Decreto Ley 262 de 2000, art. 217",
+  "enunciado": "Publicada la lista de elegibles, el nombramiento en período de prueba o en propiedad debe producirse dentro de los",
+  "opciones": {
+   "A": "veinte días hábiles siguientes, salvo lo previsto sobre el orden de prioridad.",
+   "B": "seis meses siguientes.",
+   "C": "treinta días hábiles siguientes a la firmeza de la lista.",
+   "D": "diez días calendario siguientes."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 217 del Decreto Ley 262 de 2000 dispone que dentro de los veinte días hábiles siguientes a la publicación de la lista de elegibles deberá producirse el nombramiento, salvo lo previsto en el artículo 190.",
+  "dificultad": 3
+ }
+]

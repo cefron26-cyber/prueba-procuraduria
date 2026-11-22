@@ -1,0 +1,478 @@
+[
+ {
+  "id": "proc-0001",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 208 (modif. Ley 2094 de 2021, art. 34)",
+  "enunciado": "Llega a una oficina de control interno disciplinario un informe sobre pérdida de documentos, pero no se sabe qué servidor los tenía a cargo. La actuación que procede es",
+  "opciones": {
+   "A": "la indagación previa, para identificar o individualizar al posible autor.",
+   "B": "la citación a audiencia y formulación de cargos.",
+   "C": "la apertura de investigación disciplinaria contra el jefe de la dependencia.",
+   "D": "el archivo inmediato por falta de autor conocido."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 208 dispone que en caso de duda sobre la identificación o individualización del posible autor se adelantará indagación previa. No puede abrirse investigación contra alguien sin elementos que lo identifiquen, ni archivarse sin agotar la indagación, y los cargos son muy posteriores.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0002",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 208 (modif. Ley 2094 de 2021, art. 34)",
+  "enunciado": "La indagación previa en el proceso disciplinario tiene una duración de",
+  "opciones": {
+   "A": "doce meses en todos los casos.",
+   "B": "seis meses, prorrogables hasta en dieciocho meses más para faltas gravísimas.",
+   "C": "tres meses, prorrogables por una sola vez.",
+   "D": "seis meses, extensible a otros seis cuando se investigan violaciones a derechos humanos o al DIH."
+  },
+  "correcta": "D",
+  "explicacion": "Según el artículo 208 modificado, la indagación previa dura seis meses y culmina con archivo o apertura de investigación; en investigaciones por violación de derechos humanos o DIH puede extenderse otros seis meses.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0003",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 213 (modif. Ley 2094 de 2021, art. 36)",
+  "enunciado": "Se abrió investigación disciplinaria contra tres servidores de una gobernación por varias faltas. El término de la investigación es",
+  "opciones": {
+   "A": "dieciocho meses, por la pluralidad de investigados.",
+   "B": "doce meses improrrogables.",
+   "C": "seis meses, prorrogable hasta en otro tanto por tratarse de varios investigados y faltas.",
+   "D": "tres meses, prorrogables por tres más."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 213 fija seis meses desde la apertura, prorrogables hasta en otro tanto cuando se investigan varias faltas o a dos o más servidores. Los dieciocho meses son el máximo para infracciones a derechos humanos o DIH.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0004",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 213 (modif. Ley 2094 de 2021, art. 36)",
+  "enunciado": "Cuando se investiga una infracción al Derecho Internacional de los Derechos Humanos, el término de la investigación disciplinaria no podrá exceder de",
+  "opciones": {
+   "A": "seis meses.",
+   "B": "dieciocho meses.",
+   "C": "doce meses.",
+   "D": "veinticuatro meses."
+  },
+  "correcta": "B",
+  "explicacion": "El inciso segundo del artículo 213, modificado por la Ley 2094 de 2021, establece que en investigaciones por infracción al Derecho Internacional de los Derechos Humanos o al DIH el término no podrá exceder de dieciocho meses.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0005",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 220",
+  "enunciado": "Recaudadas las pruebas de la investigación, el funcionario declara cerrada la investigación. A continuación debe",
+  "opciones": {
+   "A": "formular de inmediato el pliego de cargos.",
+   "B": "remitir el expediente al funcionario de juzgamiento.",
+   "C": "correr traslado por diez días para alegatos precalificatorios.",
+   "D": "citar a audiencia de descargos."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 220 ordena que, cerrada la investigación, se corra traslado por diez días para que los sujetos procesales presenten alegatos previos a la evaluación. Solo después se decide si se formulan cargos o se archiva (art. 221).",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0006",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 221 (modif. Ley 2094 de 2021, art. 38)",
+  "enunciado": "En la decisión de evaluación de la investigación disciplinaria, el funcionario de conocimiento",
+  "opciones": {
+   "A": "resuelve el recurso de apelación contra el auto de apertura.",
+   "B": "impone la sanción si encuentra probada la falta.",
+   "C": "decide si el juicio será verbal u ordinario.",
+   "D": "formula pliego de cargos o termina la actuación y ordena el archivo."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 221 establece que, mediante decisión motivada, el funcionario evalúa las pruebas y formula pliego de cargos o termina la actuación y archiva. La sanción solo se impone en el fallo, y la elección del juicio la hace el funcionario de juzgamiento (art. 225A).",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0007",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 12 (modif. Ley 2094 de 2021, art. 3)",
+  "enunciado": "Una de las garantías incorporadas por la Ley 2094 de 2021 al debido proceso disciplinario es que",
+  "opciones": {
+   "A": "el funcionario instructor no sea el mismo que adelante el juzgamiento.",
+   "B": "todas las decisiones sean consultadas al superior.",
+   "C": "la investigación la adelante siempre la Procuraduría.",
+   "D": "el disciplinable sea juzgado por un jurado de conciencia."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 12 modificado dispone que el disciplinable será investigado y luego juzgado por funcionario diferente, y que debe garantizarse que el instructor no sea el mismo que adelante el juzgamiento. Las demás alternativas no están previstas en la norma.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0008",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, arts. 12 y 102 (modif. Ley 2094 de 2021)",
+  "enunciado": "Si el primer fallo sancionatorio en un proceso disciplinario lo profiere el Procurador General de la Nación, la doble conformidad se resuelve por",
+  "opciones": {
+   "A": "el Viceprocurador General de la Nación.",
+   "B": "una sala de tres personas que cumplan los requisitos del artículo 232 de la Constitución, sorteadas de una lista de doce nombres.",
+   "C": "la Sala de Consulta y Servicio Civil del Consejo de Estado.",
+   "D": "la Comisión Nacional de Disciplina Judicial."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 102 modificado prevé que la doble conformidad de las decisiones sancionatorias del Procurador General se resuelva por una sala de tres personas con los requisitos del artículo 232 de la Constitución, sorteadas de una lista de doce nombres.",
+  "dificultad": 3
+ },
+ {
+  "id": "proc-0009",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 121 (modif. Ley 2094 de 2021, art. 20)",
+  "enunciado": "Según el Código General Disciplinario, debe notificarse personalmente",
+  "opciones": {
+   "A": "la decisión que ordena incorporar un documento.",
+   "B": "el auto que reconoce personería a un defensor.",
+   "C": "el pliego de cargos.",
+   "D": "el auto que fija fecha para una diligencia de testimonio."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 121 dispone que se notifican personalmente los autos de apertura de investigación, de vinculación, el pliego de cargos y su variación, y los fallos de instancia. Las demás son decisiones de sustanciación que se comunican (art. 129).",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0010",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 131 (modif. Ley 2094 de 2021, art. 25)",
+  "enunciado": "Un fallo de primera instancia en procedimiento ordinario se notificó personalmente el lunes. Para recursos distintos a la apelación del fallo, la regla general del Código es que la reposición y la apelación se interponen",
+  "opciones": {
+   "A": "desde la expedición de la decisión hasta el vencimiento de los cinco días siguientes a la notificación.",
+   "B": "dentro de los diez días siguientes a la expedición de la decisión.",
+   "C": "únicamente en la audiencia en que se profirió la decisión.",
+   "D": "dentro de los tres días siguientes a la ejecutoria."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 131 fija como regla general que la reposición y la apelación se interponen desde la expedición hasta cinco días después de la notificación. Solo si la notificación es en estrados deben interponerse en la audiencia.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0011",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225G (adic. Ley 2094 de 2021, art. 46)",
+  "enunciado": "En el juicio ordinario disciplinario, el recurso de apelación contra el fallo de primera instancia debe interponerse y sustentarse",
+  "opciones": {
+   "A": "verbalmente en la misma audiencia de lectura del fallo.",
+   "B": "dentro de los cinco días siguientes a la ejecutoria.",
+   "C": "dentro de los treinta días hábiles siguientes al fallo.",
+   "D": "por escrito dentro de los diez días siguientes a su notificación."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 225G, adicionado por la Ley 2094 de 2021, dispone que en el juicio ordinario la apelación contra el fallo se interpone y sustenta por escrito dentro de los diez días siguientes a la notificación. La interposición en la misma diligencia corresponde al juicio verbal (art. 233).",
+  "dificultad": 3
+ },
+ {
+  "id": "proc-0012",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 135",
+  "enunciado": "El disciplinado, único apelante, recurre un fallo que le impuso suspensión de seis meses. Al resolver, el superior considera que la falta merecía destitución. El superior",
+  "opciones": {
+   "A": "puede imponer la destitución si lo motiva adecuadamente.",
+   "B": "no puede agravar la sanción, por la prohibición de la reformatio in pejus.",
+   "C": "debe anular el fallo y devolver para nueva calificación.",
+   "D": "puede aumentar la suspensión hasta dieciocho meses."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 135 prohíbe al superior agravar la sanción cuando el investigado es apelante único. Cualquier aumento, sea destitución o mayor suspensión, desconoce esa garantía.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0013",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 136",
+  "enunciado": "El funcionario de primera instancia rechazó el recurso de apelación interpuesto por el defensor. Contra esa decisión procede",
+  "opciones": {
+   "A": "la revocatoria directa.",
+   "B": "el recurso de queja.",
+   "C": "la consulta.",
+   "D": "el recurso de reposición."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 136 señala que el recurso de queja procede contra la decisión que rechaza el recurso de apelación; se interpone dentro del término de ejecutoria de esa decisión (art. 137).",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0014",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 133 (modif. Ley 2094 de 2021, art. 27)",
+  "enunciado": "Durante la etapa de investigación, el funcionario niega las pruebas solicitadas por el disciplinable. Contra esa decisión procede",
+  "opciones": {
+   "A": "el recurso de reposición.",
+   "B": "ningún recurso, por ser decisión de trámite.",
+   "C": "el recurso de apelación en el efecto suspensivo.",
+   "D": "el recurso de queja."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 133 modificado incluye entre las decisiones susceptibles de reposición la que niega las pruebas en la etapa de investigación. La apelación procede contra la que niega pruebas en la etapa de juicio (art. 134).",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0015",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 134",
+  "enunciado": "El recurso de apelación procede únicamente contra",
+  "opciones": {
+   "A": "todas las decisiones interlocutorias y los fallos.",
+   "B": "los fallos sancionatorios, pero no los absolutorios.",
+   "C": "la decisión que niega pruebas en juicio, la de archivo, la que finaliza el trámite del testigo renuente o el quejoso temerario y el fallo de primera instancia.",
+   "D": "el auto de apertura de investigación y el pliego de cargos."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 134 enumera taxativamente las decisiones apelables: la que niega pruebas en juicio, la decisión de archivo, la que finaliza el procedimiento para el testigo renuente y el quejoso temerario, y el fallo de primera instancia. Contra el pliego de cargos no procede recurso (art. 222).",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0016",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225A (adic. Ley 2094 de 2021, art. 40)",
+  "enunciado": "Un servidor es sorprendido por su jefe en el momento en que sustrae dinero de la caja menor. Recibido el expediente con el pliego de cargos, el funcionario de juzgamiento debe adelantar, por regla general,",
+  "opciones": {
+   "A": "el juicio ordinario.",
+   "B": "el procedimiento abreviado de la Ley 1437 de 2011.",
+   "C": "la indagación previa.",
+   "D": "el juicio verbal."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 225A dispone que el juicio verbal se adelanta cuando el disciplinable es sorprendido en el momento de la comisión de la falta o con elementos provenientes de ella. Solo por complejidad u otras razones motivadas puede optarse por el ordinario.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0017",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225A (adic. Ley 2094 de 2021, art. 40)",
+  "enunciado": "Contra el auto de sustanciación que decide si el juzgamiento se adelanta por juicio ordinario o verbal",
+  "opciones": {
+   "A": "procede apelación en el efecto devolutivo.",
+   "B": "no procede recurso alguno.",
+   "C": "procede queja.",
+   "D": "procede reposición."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 225A, adicionado por la Ley 2094 de 2021, establece expresamente que contra la decisión que fija el juzgamiento a seguir no procede recurso alguno.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0018",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225B (adic. Ley 2094 de 2021, art. 41)",
+  "enunciado": "En el juicio ordinario, el auto que dispone aplicar ese procedimiento deja el expediente a disposición de los sujetos procesales para presentar descargos y solicitar pruebas por",
+  "opciones": {
+   "A": "cinco días.",
+   "B": "diez días.",
+   "C": "quince días.",
+   "D": "treinta días."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 225B dispone que el expediente quedará en secretaría por quince días para que los sujetos procesales presenten descargos y aporten o soliciten pruebas; la renuencia a presentarlos no interrumpe el trámite.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0019",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 225C (adic. Ley 2094 de 2021, art. 42)",
+  "enunciado": "En el juicio ordinario, las pruebas decretadas deben practicarse en un término no mayor de",
+  "opciones": {
+   "A": "noventa días.",
+   "B": "treinta días hábiles.",
+   "C": "seis meses.",
+   "D": "veinte días prorrogables por otros veinte."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 225C fija un término no mayor de noventa días para practicar las pruebas en el juicio ordinario. El término de veinte días prorrogables corresponde al juicio verbal (art. 227).",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0020",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 227 (modif. Ley 2094 de 2021, art. 48)",
+  "enunciado": "En el juicio verbal, la práctica de pruebas se adelantará hasta por",
+  "opciones": {
+   "A": "dos meses prorrogables.",
+   "B": "noventa días improrrogables.",
+   "C": "diez días, sin prórroga.",
+   "D": "veinte días, prorrogables por una sola vez hasta por el mismo lapso."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 227 modificado señala que en el juicio verbal las pruebas se practican hasta por veinte días, prorrogables una sola vez por el mismo lapso mediante decisión motivada. Los noventa días son propios del juicio ordinario.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0021",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 162 (modif. Ley 2094 de 2021, art. 30)",
+  "enunciado": "Un disciplinable acepta los cargos durante la etapa de investigación por una falta grave. Como beneficio, la sanción de suspensión",
+  "opciones": {
+   "A": "se convertirá en amonestación escrita.",
+   "B": "se disminuirá hasta la mitad.",
+   "C": "no tiene reducción, porque solo procede en juzgamiento.",
+   "D": "se reducirá en una tercera parte."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 162 dispone que si la confesión o aceptación de cargos se produce en la investigación, las sanciones de inhabilidad, suspensión o multa se disminuirán hasta la mitad; si es en juzgamiento, se reducen en una tercera parte.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0022",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 162 (modif. Ley 2094 de 2021, art. 30)",
+  "enunciado": "El beneficio de reducción de la sanción por confesión o aceptación de cargos no se aplica cuando se trate de",
+  "opciones": {
+   "A": "faltas cometidas por particulares.",
+   "B": "faltas cometidas por servidores del nivel directivo.",
+   "C": "las faltas gravísimas del artículo 52, relacionadas con derechos humanos y DIH.",
+   "D": "faltas graves dolosas."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 162 excluye expresamente el beneficio cuando se trate de las faltas gravísimas del artículo 52, que corresponden a infracciones al Derecho Internacional de los Derechos Humanos y al DIH.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0023",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 161 (modif. Ley 2094 de 2021, art. 29)",
+  "enunciado": "Para que la aceptación de cargos sea válida, el Código General Disciplinario exige, entre otros requisitos, que",
+  "opciones": {
+   "A": "la persona esté asistida por defensor.",
+   "B": "el quejoso manifieste su conformidad.",
+   "C": "se haga después de notificado el fallo.",
+   "D": "se presente por escrito ante el nominador."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 161 exige que la confesión o aceptación se haga ante la autoridad competente, con asistencia de defensor, informando al disciplinable sus garantías y verificando que sea voluntaria, consciente, libre, espontánea e informada.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0024",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 217",
+  "enunciado": "Durante una investigación por falta gravísima hay serios elementos de juicio de que el investigado, desde su cargo, está alterando los archivos que son prueba del proceso. El funcionario puede",
+  "opciones": {
+   "A": "trasladarlo de sede sin decisión motivada.",
+   "B": "suspenderlo provisionalmente con remuneración por un año.",
+   "C": "destituirlo de inmediato, por la gravedad de la falta.",
+   "D": "ordenar motivadamente la suspensión provisional del servidor, sin remuneración, por tres meses prorrogables."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 217 permite la suspensión provisional, sin remuneración, cuando la permanencia en el cargo posibilite interferir en la investigación o continuar la falta. Dura tres meses, prorrogables hasta en otro tanto, y es objeto de consulta. La destitución solo procede en el fallo.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0025",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 218",
+  "enunciado": "Un servidor suspendido provisionalmente es absuelto en el fallo. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "solo tendrá derecho al pago de la mitad de los salarios.",
+   "B": "será reintegrado, pero sin pago de salarios.",
+   "C": "será reintegrado y se le pagará la remuneración dejada de percibir durante la suspensión.",
+   "D": "deberá demandar ante lo contencioso para obtener el reintegro."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 218 dispone que el suspendido provisionalmente será reintegrado y tendrá derecho al pago de la remuneración dejada de percibir cuando la investigación termine con fallo absolutorio, archivo o terminación del proceso.",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0026",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 202",
+  "enunciado": "Es causal de nulidad en el proceso disciplinario",
+  "opciones": {
+   "A": "la violación del derecho de defensa del investigado.",
+   "B": "el desistimiento del quejoso.",
+   "C": "la falta de firma del quejoso en la queja.",
+   "D": "el error en el nombre de la entidad en el fallo."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 202 señala como causales de nulidad la falta de competencia para proferir el fallo, la violación del derecho de defensa y las irregularidades sustanciales que afecten el debido proceso. El error en el nombre de la entidad se corrige (art. 140).",
+  "dificultad": 1
+ },
+ {
+  "id": "proc-0027",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 206 (modif. Ley 2094 de 2021, art. 32)",
+  "enunciado": "La solicitud de nulidad en el proceso disciplinario puede formularse",
+  "opciones": {
+   "A": "únicamente dentro de la etapa de investigación.",
+   "B": "hasta antes de dar traslado para alegatos de conclusión.",
+   "C": "solo dentro de los cinco días siguientes a la notificación del pliego.",
+   "D": "en cualquier momento, incluso después del fallo de segunda instancia."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 206 modificado permite formular la solicitud de nulidad hasta antes de dar traslado para alegatos de conclusión, indicando la causal y sus fundamentos de hecho y de derecho.",
+  "dificultad": 2
+ },
+ {
+  "id": "proc-0028",
+  "eje": "proc-disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 141 (modif. Ley 2094 de 2021, art. 28)",
+  "enunciado": "La Procuraduría puede revocar, de oficio o a petición del quejoso o de las víctimas, un fallo absolutorio o el archivo de la actuación cuando",
+  "opciones": {
+   "A": "el quejoso no esté conforme con la decisión, en cualquier tipo de falta.",
+   "B": "lo solicite el superior jerárquico del disciplinado.",
+   "C": "hayan transcurrido más de cinco años desde el archivo.",
+   "D": "se trate de faltas que constituyan infracciones al Derecho Internacional de los Derechos Humanos o al DIH."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 141 modificado permite revocar el fallo absolutorio o el archivo solo cuando se trate de infracciones al Derecho Internacional de los Derechos Humanos y al DIH; quejoso y víctimas pueden pedirlo dentro de los cuatro meses siguientes a conocer la decisión.",
+  "dificultad": 3
+ }
+]

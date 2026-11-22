@@ -1,0 +1,478 @@
+[
+ {
+  "id": "adm-0001",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 14 (sustituido por Ley 1755 de 2015)",
+  "enunciado": "Un ciudadano radica una petición de interés particular ante una gobernación, sin pedir documentos ni formular consulta. Salvo norma especial, la entidad debe resolverla dentro de los",
+  "opciones": {
+   "A": "quince días siguientes a su recepción.",
+   "B": "diez días siguientes a su recepción.",
+   "C": "treinta días siguientes a su recepción.",
+   "D": "tres meses siguientes a su recepción."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 14 del CPACA, sustituido por la Ley 1755 de 2015, fija quince días como término general. Diez días aplican a peticiones de documentos e información y treinta días a consultas; los tres meses corresponden al silencio negativo (art. 83).",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0002",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 14, num. 1 (sustituido por Ley 1755 de 2015)",
+  "enunciado": "Una persona pide copia de un contrato a una alcaldía y no recibe respuesta en diez días. La consecuencia legal es que",
+  "opciones": {
+   "A": "se entiende negada y puede acudir a la jurisdicción.",
+   "B": "se entiende aceptada la solicitud y las copias deben entregarse dentro de los tres días siguientes.",
+   "C": "debe presentar una nueva petición.",
+   "D": "la entidad cuenta con diez días adicionales sin consecuencia alguna."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 1 del artículo 14 dispone que, si una petición de documentos no se responde en diez días, se entiende aceptada; la administración ya no puede negar la entrega y debe entregar las copias dentro de los tres días siguientes.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0003",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 14, parágrafo (sustituido por Ley 1755 de 2015)",
+  "enunciado": "Una entidad no puede resolver una consulta dentro del plazo legal por su complejidad. Debe",
+  "opciones": {
+   "A": "responder cuando pueda, sin informar, pues las consultas no son vinculantes.",
+   "B": "remitirla a la Procuraduría para que la resuelva.",
+   "C": "archivar la consulta y pedir que se presente de nuevo.",
+   "D": "informarlo al interesado antes del vencimiento, explicar los motivos y señalar un plazo razonable que no exceda el doble del inicial."
+  },
+  "correcta": "D",
+  "explicacion": "El parágrafo del artículo 14 obliga a informar al interesado, antes del vencimiento, los motivos de la demora y el plazo razonable de respuesta, que no podrá exceder del doble del inicialmente previsto.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0004",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 83",
+  "enunciado": "Transcurridos tres meses desde la presentación de una petición sin que se notifique decisión, se entiende que la respuesta es",
+  "opciones": {
+   "A": "inexistente, por lo que no hay recurso alguno.",
+   "B": "positiva en todos los casos.",
+   "C": "negativa, sin que la autoridad quede eximida de responsabilidad ni del deber de decidir.",
+   "D": "negativa, y la autoridad pierde competencia para decidir."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 83 establece el silencio administrativo negativo a los tres meses. Su ocurrencia no exime de responsabilidad a las autoridades ni del deber de decidir, salvo que el interesado haya interpuesto recursos o se haya notificado el auto admisorio de una demanda. El silencio positivo solo existe cuando la ley lo prevé (art. 84).",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0005",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 86",
+  "enunciado": "Si transcurren dos meses desde la interposición de un recurso de reposición o apelación sin que se notifique decisión expresa, salvo lo dispuesto para el procedimiento sancionatorio",
+  "opciones": {
+   "A": "se entiende que el recurso prosperó.",
+   "B": "el acto recurrido pierde ejecutoriedad.",
+   "C": "el recurso se entiende desistido.",
+   "D": "se entiende que la decisión es negativa."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 86 dispone que, salvo lo previsto en el artículo 52, transcurridos dos meses sin decisión expresa sobre los recursos se entiende que la decisión es negativa. En el sancionatorio, si no se deciden en un año, se entienden fallados a favor del recurrente.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0006",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 52",
+  "enunciado": "Una superintendencia sanciona a una empresa por un hecho ocurrido hace cuatro años y no existe ley especial sobre caducidad. La facultad sancionatoria",
+  "opciones": {
+   "A": "está vigente, porque caduca a los cinco años.",
+   "B": "está vigente, porque el término se cuenta desde que la entidad conoció el hecho.",
+   "C": "caducó, porque caduca a los tres años de ocurrido el hecho, término en el cual el acto debe expedirse y notificarse.",
+   "D": "no caduca en materia administrativa."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 52 del CPACA dispone que, salvo leyes especiales, la facultad sancionatoria caduca a los tres años de ocurrido el hecho, término en el que el acto sancionatorio debe expedirse y notificarse. Los cinco años corresponden a la prescripción de la sanción ya impuesta.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0007",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 52",
+  "enunciado": "En un procedimiento administrativo sancionatorio, si los recursos contra el acto sancionatorio no se deciden dentro de un año desde su interposición",
+  "opciones": {
+   "A": "el expediente pasa a la Procuraduría.",
+   "B": "se entienden fallados a favor del recurrente y la autoridad pierde competencia.",
+   "C": "opera el silencio negativo y queda en firme la sanción.",
+   "D": "la sanción se reduce a la mitad."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 52 ordena decidir los recursos, so pena de pérdida de competencia, en un año desde su interposición; de lo contrario se entienden fallados a favor del recurrente, sin perjuicio de la responsabilidad del funcionario.",
+  "dificultad": 3
+ },
+ {
+  "id": "adm-0008",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 47",
+  "enunciado": "En el procedimiento administrativo sancionatorio general del CPACA, el investigado puede presentar descargos y solicitar pruebas dentro de los",
+  "opciones": {
+   "A": "quince días siguientes a la notificación de la formulación de cargos.",
+   "B": "diez días siguientes a la apertura de la averiguación preliminar.",
+   "C": "cinco días siguientes a la formulación de cargos, en todos los casos.",
+   "D": "treinta días siguientes a la notificación del acto sancionatorio."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 47 otorga quince días desde la notificación del pliego de cargos para presentar descargos y solicitar o aportar pruebas. El término de cinco días aplica solo a los procedimientos sancionatorios fiscales (parágrafo 2).",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0009",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 76",
+  "enunciado": "Un acto administrativo particular se notificó personalmente. Los recursos de reposición y apelación deben interponerse",
+  "opciones": {
+   "A": "en cualquier tiempo mientras el acto no se ejecute.",
+   "B": "por escrito en la diligencia de notificación o dentro de los diez días siguientes.",
+   "C": "dentro del mes siguiente a la notificación.",
+   "D": "dentro de los cinco días siguientes a la ejecutoria."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 76 dispone que la reposición y la apelación se interponen por escrito en la diligencia de notificación personal o dentro de los diez días siguientes a ella o a la notificación por aviso. Solo contra los actos presuntos pueden interponerse en cualquier tiempo.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0010",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 76",
+  "enunciado": "Respecto de los recursos en la actuación administrativa, es obligatorio para acceder a la jurisdicción, cuando proceda,",
+  "opciones": {
+   "A": "el recurso de apelación.",
+   "B": "la solicitud de revocatoria directa.",
+   "C": "el recurso de reposición.",
+   "D": "el recurso de queja."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 76 establece que la apelación, cuando proceda, es obligatoria para acceder a la jurisdicción, mientras que la reposición y la queja no son obligatorias. La revocatoria directa no es un recurso ni requisito de procedibilidad.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0011",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 75",
+  "enunciado": "Una persona interpone recurso de reposición contra un decreto municipal que regula los horarios de funcionamiento de los establecimientos de comercio. El recurso",
+  "opciones": {
+   "A": "es procedente dentro de los diez días siguientes a la publicación.",
+   "B": "es procedente solo si lo interpone un comerciante afectado.",
+   "C": "es improcedente, porque no hay recursos contra los actos de carácter general.",
+   "D": "debe tramitarse como derecho de petición en interés general."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 75 dispone que no hay recurso contra los actos de carácter general, ni contra los de trámite, preparatorios o de ejecución, salvo norma expresa. El acto general puede demandarse en nulidad ante la jurisdicción.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0012",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 76",
+  "enunciado": "El funcionario que dictó una decisión se niega a recibir el recurso de reposición que presenta el interesado. El interesado puede",
+  "opciones": {
+   "A": "presentarlo ante el juez administrativo.",
+   "B": "acudir directamente a la acción de cumplimiento.",
+   "C": "darlo por interpuesto sin necesidad de radicación.",
+   "D": "presentarlo ante el procurador regional o el personero municipal, para que ordenen recibirlo y tramitarlo."
+  },
+  "correcta": "D",
+  "explicacion": "El inciso segundo del artículo 76 prevé que, si el competente no quisiere recibir los recursos, podrán presentarse ante el procurador regional o el personero municipal para que ordene recibirlos, tramitarlos e imponga las sanciones del caso.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0013",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 87",
+  "enunciado": "Contra un acto administrativo procedían recursos, pero el interesado no los interpuso. El acto queda en firme",
+  "opciones": {
+   "A": "desde el día de su expedición.",
+   "B": "desde el día siguiente al vencimiento del término para interponerlos.",
+   "C": "un mes después de la notificación.",
+   "D": "cuando la entidad lo ejecute materialmente."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 3 del artículo 87 dispone que los actos quedan en firme desde el día siguiente al vencimiento del término para interponer recursos, si no fueron interpuestos o se renunció expresamente a ellos.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0014",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 91",
+  "enunciado": "Una entidad expidió un acto de demolición que quedó en firme hace seis años, pero nunca hizo nada para ejecutarlo. Hoy pretende ejecutarlo. Según el CPACA",
+  "opciones": {
+   "A": "el acto perdió ejecutoriedad, porque pasaron más de cinco años en firme sin actos de ejecución.",
+   "B": "necesita autorización del juez para ejecutarlo.",
+   "C": "puede ejecutarlo, porque los actos en firme son obligatorios indefinidamente.",
+   "D": "debe revocarlo y expedir uno nuevo con el mismo contenido."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 3 del artículo 91 establece que los actos pierden obligatoriedad cuando, al cabo de cinco años de estar en firme, la autoridad no ha realizado los actos que le corresponden para ejecutarlos.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0015",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 91",
+  "enunciado": "La ley que servía de fundamento a un acto administrativo fue declarada inexequible. El acto, que no ha sido anulado",
+  "opciones": {
+   "A": "se convierte en acto de carácter general.",
+   "B": "debe ser ratificado por el superior jerárquico.",
+   "C": "pierde fuerza ejecutoria por desaparición de sus fundamentos de derecho.",
+   "D": "conserva plena obligatoriedad hasta que sea anulado."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 2 del artículo 91 dispone que el acto pierde obligatoriedad y no puede ejecutarse cuando desaparecen sus fundamentos de hecho o de derecho, como ocurre con la inexequibilidad de la ley en que se fundaba.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0016",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 93",
+  "enunciado": "Es causal de revocación directa de los actos administrativos",
+  "opciones": {
+   "A": "que el acto tenga más de un año de expedido.",
+   "B": "que haya cambiado el titular de la entidad.",
+   "C": "que el interesado no haya interpuesto recursos.",
+   "D": "que con ellos se cause agravio injustificado a una persona."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 93 prevé tres causales de revocación: manifiesta oposición a la Constitución o a la ley, inconformidad con el interés público o social, y agravio injustificado a una persona. El cambio de titular o el paso del tiempo no son causales.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0017",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 97",
+  "enunciado": "Una entidad advierte que un acto particular que reconoció una pensión es contrario a la ley, pero el titular no consiente su revocación. Si no hubo medios ilegales o fraudulentos, la entidad debe",
+  "opciones": {
+   "A": "revocarlo unilateralmente mediante resolución motivada.",
+   "B": "suspender el pago hasta que el titular consienta.",
+   "C": "solicitar a la Procuraduría que lo revoque.",
+   "D": "demandar el acto ante la Jurisdicción de lo Contencioso Administrativo."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 97 dispone que un acto que creó una situación particular no puede revocarse sin consentimiento previo, expreso y escrito del titular; si este lo niega y la autoridad considera el acto ilegal, debe demandarlo ante la jurisdicción.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0018",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 95",
+  "enunciado": "La revocación directa de un acto administrativo puede hacerse aun cuando se haya acudido a la jurisdicción, siempre que",
+  "opciones": {
+   "A": "no se haya dictado sentencia de primera instancia.",
+   "B": "el juez lo autorice expresamente.",
+   "C": "no se haya notificado el auto admisorio de la demanda.",
+   "D": "el acto no haya sido ejecutado."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 95 permite la revocación directa aunque se haya acudido a la jurisdicción, siempre que no se haya notificado el auto admisorio de la demanda; la solicitud debe resolverse en dos meses.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0019",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, arts. 68 y 69",
+  "enunciado": "Se envió citación para notificación personal a un interesado y este no compareció en cinco días. La entidad debe",
+  "opciones": {
+   "A": "declarar desierta la actuación.",
+   "B": "notificar por aviso, remitiéndolo con copia íntegra del acto.",
+   "C": "notificar por edicto durante diez días.",
+   "D": "notificar por estado en la secretaría."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 69 dispone que si no puede hacerse la notificación personal al cabo de cinco días del envío de la citación, se hará por aviso, con copia íntegra del acto. El edicto no es la forma prevista en el CPACA para este evento.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0020",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 137",
+  "enunciado": "Un ciudadano sin interés particular quiere atacar un decreto departamental de carácter general expedido sin competencia. El medio de control procedente es",
+  "opciones": {
+   "A": "la nulidad.",
+   "B": "la acción de tutela.",
+   "C": "la nulidad y restablecimiento del derecho.",
+   "D": "la reparación directa."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 137 permite a toda persona solicitar la nulidad de actos de carácter general por infracción de normas, falta de competencia, expedición irregular, desconocimiento del derecho de audiencia, falsa motivación o desviación de poder. La nulidad y restablecimiento procede cuando hay lesión de un derecho subjetivo.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0021",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 164, num. 2, lit. d",
+  "enunciado": "Un servidor fue declarado insubsistente mediante acto que considera ilegal y quiere ser reintegrado. Debe presentar la demanda de nulidad y restablecimiento del derecho, por regla general, dentro de los",
+  "opciones": {
+   "A": "cuatro meses contados a partir del día siguiente a la comunicación, notificación, ejecución o publicación del acto.",
+   "B": "cinco años contados desde la ejecutoria.",
+   "C": "dos años contados desde el retiro.",
+   "D": "treinta días hábiles desde la notificación."
+  },
+  "correcta": "A",
+  "explicacion": "El literal d del numeral 2 del artículo 164 fija cuatro meses para la nulidad y restablecimiento del derecho, contados desde el día siguiente a la comunicación, notificación, ejecución o publicación del acto. Los dos años corresponden a la reparación directa.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0022",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, arts. 140 y 164, num. 2, lit. i",
+  "enunciado": "Una persona resultó lesionada por la caída de un muro en una obra pública. Para pedir la indemnización del daño debe presentar la demanda de reparación directa dentro de",
+  "opciones": {
+   "A": "cinco años, contados desde el hecho.",
+   "B": "dos años, contados a partir del día siguiente a la ocurrencia del hecho o de cuando tuvo o debió tener conocimiento de él.",
+   "C": "un año, contado desde la terminación de la obra.",
+   "D": "cuatro meses, contados desde el hecho."
+  },
+  "correcta": "B",
+  "explicacion": "El literal i del numeral 2 del artículo 164 dispone que la reparación directa debe presentarse dentro de dos años contados desde el día siguiente a la acción u omisión causante del daño, o desde cuando el demandante tuvo o debió tener conocimiento de él.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0023",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 161, num. 1",
+  "enunciado": "Antes de presentar una demanda de reparación directa por un asunto conciliable, el demandante debe",
+  "opciones": {
+   "A": "presentar derecho de petición de reconocimiento.",
+   "B": "obtener concepto previo del Consejo de Estado.",
+   "C": "interponer recurso de apelación ante la entidad.",
+   "D": "agotar la conciliación extrajudicial como requisito de procedibilidad."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 1 del artículo 161 establece que, cuando los asuntos sean conciliables, la conciliación extrajudicial es requisito de procedibilidad de las demandas de nulidad y restablecimiento, reparación directa y controversias contractuales. Esta conciliación se adelanta ante los agentes del Ministerio Público.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0024",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 141",
+  "enunciado": "Un contratista quiere que se declare el incumplimiento de la entidad contratante y se le indemnicen los perjuicios. El medio de control es",
+  "opciones": {
+   "A": "acción de cumplimiento.",
+   "B": "nulidad simple.",
+   "C": "controversias contractuales.",
+   "D": "reparación directa."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 141 permite a cualquiera de las partes de un contrato estatal pedir que se declare su existencia, nulidad, revisión, incumplimiento, la nulidad de actos contractuales y la indemnización de perjuicios. La reparación directa procede por hechos u omisiones extracontractuales.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0025",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 137",
+  "enunciado": "Se demanda la nulidad de un acto alegando que el funcionario lo expidió con un fin distinto del interés público para el que se le confirió la competencia. La causal invocada es",
+  "opciones": {
+   "A": "desviación de las atribuciones propias de quien lo profirió.",
+   "B": "falta de competencia.",
+   "C": "falsa motivación.",
+   "D": "expedición irregular."
+  },
+  "correcta": "A",
+  "explicacion": "La desviación de poder, prevista en el artículo 137 como desviación de las atribuciones propias de quien profirió el acto, se configura cuando la competencia se usa para un fin distinto al previsto. La falsa motivación se refiere a motivos inexistentes o erróneos.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0026",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 40",
+  "enunciado": "En una actuación administrativa, el interesado solicita una prueba y la autoridad la niega mediante un acto. Contra ese acto",
+  "opciones": {
+   "A": "procede la acción de tutela de manera directa.",
+   "B": "procede reposición y apelación.",
+   "C": "procede únicamente el recurso de queja.",
+   "D": "no proceden recursos, aunque el interesado puede controvertir las pruebas antes de la decisión de fondo."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 40 dispone que contra el acto que decide la solicitud de pruebas no proceden recursos, y que el interesado tendrá oportunidad de controvertir las pruebas antes de la decisión de fondo.",
+  "dificultad": 3
+ },
+ {
+  "id": "adm-0027",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 303",
+  "enunciado": "Ante la Jurisdicción de lo Contencioso Administrativo, el Ministerio Público",
+  "opciones": {
+   "A": "interviene únicamente cuando el juez lo solicita.",
+   "B": "solo puede intervenir en los procesos de nulidad electoral.",
+   "C": "puede actuar como demandante o como sujeto procesal especial e intervenir en todos los procesos en defensa del orden jurídico, el patrimonio público y los derechos fundamentales.",
+   "D": "actúa exclusivamente como apoderado de las entidades públicas demandadas."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 303 faculta al Ministerio Público para actuar como demandante o como sujeto procesal especial en todos los procesos e incidentes de esa jurisdicción, en defensa del orden jurídico, del patrimonio público y de los derechos y garantías fundamentales. No es apoderado de las entidades.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0028",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 84",
+  "enunciado": "El silencio administrativo positivo",
+  "opciones": {
+   "A": "opera cuando el peticionario lo invoca en su solicitud.",
+   "B": "solo opera en los casos expresamente previstos en disposiciones legales especiales.",
+   "C": "es la regla general cuando la entidad no responde en quince días.",
+   "D": "opera siempre que la petición sea de documentos."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 84 dispone que solamente en los casos expresamente previstos en disposiciones legales especiales el silencio de la administración equivale a decisión positiva. La regla general es el silencio negativo (art. 83).",
+  "dificultad": 2
+ }
+]

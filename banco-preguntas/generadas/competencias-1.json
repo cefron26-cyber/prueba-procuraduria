@@ -1,0 +1,716 @@
+[
+ {
+  "id": "comp-0001",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Responsabilidad con la organización; Diccionario de competencias PGN",
+  "enunciado": "Faltando una hora para terminar la jornada, su jefe le informa que un informe para la Procuraduría Delegada debe entregarse mañana a primera hora y aún falta revisar los anexos. Usted",
+  "opciones": {
+   "A": "informa que su horario terminó y que lo revisará en la semana.",
+   "B": "organiza los anexos pendientes, los revisa con prioridad y avisa a su jefe si necesita apoyo para cumplir el plazo.",
+   "C": "pide a un compañero que lo revise por usted sin informar al jefe.",
+   "D": "entrega el informe sin anexos y explica que no hubo tiempo."
+  },
+  "correcta": "B",
+  "explicacion": "La responsabilidad con la organización implica asumir con compromiso los objetivos asignados. La conducta más alineada es priorizar la tarea, cumplir el plazo con calidad y comunicar oportunamente las necesidades de apoyo, sin trasladar la responsabilidad ni entregar trabajo incompleto.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0002",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Organización del trabajo",
+  "enunciado": "Recibe al mismo tiempo cinco expedientes con términos distintos de vencimiento. La forma de proceder más adecuada es",
+  "opciones": {
+   "A": "atenderlos en el orden en que llegaron, sin revisar términos.",
+   "B": "empezar por el más sencillo para avanzar rápido.",
+   "C": "esperar instrucciones del jefe para cada expediente.",
+   "D": "registrar los vencimientos, ordenar los expedientes por urgencia legal y fijar un cronograma de trabajo."
+  },
+  "correcta": "D",
+  "explicacion": "Organización del trabajo es la capacidad para realizar actividades siguiendo procesos, procedimientos y criterios establecidos. Identificar términos y planificar según la urgencia legal evita vencimientos, que en materia disciplinaria pueden causar prescripción.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0003",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Investigación",
+  "enunciado": "Debe proyectar un concepto sobre un tema que no conoce bien y en el que hay jurisprudencia reciente. Usted",
+  "opciones": {
+   "A": "consulta la norma vigente, la jurisprudencia reciente y los conceptos previos de la entidad, y contrasta las posiciones antes de redactar.",
+   "B": "redacta con base en lo que recuerda de la universidad.",
+   "C": "copia la posición que encuentre primero en internet.",
+   "D": "reutiliza un concepto antiguo de otro tema similar."
+  },
+  "correcta": "A",
+  "explicacion": "La competencia Investigación es la capacidad para buscar información relevante y pertinente y analizarla con dominio técnico. Consultar fuentes vigentes y contrastarlas es la conducta esperada en un profesional.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0004",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Pensamiento conceptual",
+  "enunciado": "Una queja describe muchos hechos mezclados sobre varios funcionarios y fechas. Para analizarla usted",
+  "opciones": {
+   "A": "abre investigación contra todos los mencionados para no omitir a nadie.",
+   "B": "pide al quejoso que la reescriba antes de cualquier análisis.",
+   "C": "separa los hechos por persona, fecha y conducta, e identifica cuáles tienen relevancia disciplinaria.",
+   "D": "la archiva porque está desordenada."
+  },
+  "correcta": "C",
+  "explicacion": "El pensamiento conceptual es la capacidad de entender una situación a partir de los elementos que la conforman. Descomponer la queja permite identificar autores, conductas y relevancia antes de decidir.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0005",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Orientación a resultados",
+  "enunciado": "Su dependencia tiene como meta reducir en un 20 % el tiempo de respuesta a las quejas este año. A mitad de año va en un 8 %. Usted",
+  "opciones": {
+   "A": "analiza dónde se concentran las demoras y propone acciones concretas a su jefe para alcanzar la meta.",
+   "B": "acelera las respuestas sin revisar su calidad.",
+   "C": "considera que la meta era muy alta y deja de medirla.",
+   "D": "espera al cierre del año para explicar por qué no se cumplió."
+  },
+  "correcta": "A",
+  "explicacion": "La orientación a resultados es la capacidad de lograr las metas alineadas con la misión. Implica hacer seguimiento, identificar causas y proponer mejoras sin sacrificar la calidad.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0006",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Cumplimiento de parámetros de trabajo",
+  "enunciado": "Un compañero le sugiere omitir la comunicación al quejoso de una decisión de archivo porque 'nadie la revisa'. Usted",
+  "opciones": {
+   "A": "la omite para ganar tiempo.",
+   "B": "la omite solo si el quejoso es anónimo.",
+   "C": "la hace verbalmente sin dejar constancia.",
+   "D": "realiza la comunicación conforme a la norma y le explica a su compañero por qué es obligatoria."
+  },
+  "correcta": "D",
+  "explicacion": "Cumplimiento de parámetros de trabajo es la capacidad para aplicar la normatividad interna y externa. La decisión de archivo debe comunicarse al quejoso (Ley 1952 de 2019, art. 90), y omitirlo afecta el debido proceso.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0007",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Creatividad e innovación (nivel Asesor)",
+  "enunciado": "Como asesor, nota que cada mes se pierden horas consolidando a mano los reportes de las procuradurías provinciales. Usted",
+  "opciones": {
+   "A": "delega la consolidación en un pasante.",
+   "B": "diseña una propuesta de formato único con consolidación automática, la prueba con dos provinciales y la presenta con resultados.",
+   "C": "sigue el procedimiento actual porque siempre ha funcionado.",
+   "D": "cambia el formato de inmediato para todas sin consultar."
+  },
+  "correcta": "B",
+  "explicacion": "La creatividad e innovación implica generar soluciones nuevas y útiles. Proponer, probar y mostrar resultados antes de generalizar combina innovación con responsabilidad institucional.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0008",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Adaptación al cambio",
+  "enunciado": "La entidad implanta un nuevo sistema de gestión documental electrónico que cambia la forma en que usted tramita expedientes. Usted",
+  "opciones": {
+   "A": "critica el sistema ante los usuarios.",
+   "B": "pide traslado a una dependencia donde no se use.",
+   "C": "asiste a la capacitación, aplica el sistema y reporta las fallas que encuentre para mejorarlo.",
+   "D": "sigue usando el método anterior hasta que se lo exijan."
+  },
+  "correcta": "C",
+  "explicacion": "La adaptación al cambio supone ajustarse a nuevas situaciones generadas por factores internos o externos. Aprender la herramienta y contribuir a su mejora es la conducta esperada.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0009",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Autocontrol",
+  "enunciado": "En una audiencia, el apoderado del investigado lo acusa en voz alta de parcialidad. Usted",
+  "opciones": {
+   "A": "le responde en el mismo tono.",
+   "B": "suspende la audiencia y se retira.",
+   "C": "mantiene la calma, deja constancia de la manifestación y continúa la diligencia conforme al procedimiento.",
+   "D": "ignora al apoderado durante el resto de la diligencia."
+  },
+  "correcta": "C",
+  "explicacion": "El autocontrol es la capacidad de dominar las propias emociones ante situaciones demandantes. Dejar constancia y seguir el trámite protege el proceso; si se formula recusación, se tramita por la vía legal.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0010",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Aprendizaje continuo",
+  "enunciado": "Se expide una reforma al procedimiento disciplinario que afecta los expedientes a su cargo. Usted",
+  "opciones": {
+   "A": "estudia la reforma, identifica qué expedientes afecta y ajusta su trámite.",
+   "B": "sigue aplicando la norma anterior porque conoce mejor su manejo.",
+   "C": "pregunta a un compañero y aplica su resumen sin leer la norma.",
+   "D": "espera a que la entidad programe una capacitación."
+  },
+  "correcta": "A",
+  "explicacion": "El aprendizaje continuo implica actualizar conocimientos por iniciativa propia. Estudiar directamente la norma y aplicarla a los casos evita errores de procedimiento.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0011",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Responsabilidad con la organización",
+  "enunciado": "Se da cuenta de que cometió un error en el cálculo de un término en un auto ya comunicado. Usted",
+  "opciones": {
+   "A": "atribuye el error al sistema de información.",
+   "B": "espera a ver si alguien lo nota.",
+   "C": "corrige el documento en el expediente sin dejar constancia.",
+   "D": "informa a su jefe de inmediato y propone la corrección por la vía procesal adecuada."
+  },
+  "correcta": "D",
+  "explicacion": "Asumir con compromiso los objetivos de la entidad incluye reconocer los errores propios y corregirlos por los medios legales. Ocultar o alterar documentos agrava el problema y puede constituir falta.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0012",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Trabajo en equipo",
+  "enunciado": "Un compañero nuevo tiene dificultades con el manejo del sistema de expedientes y retrasa el trabajo del grupo. Usted",
+  "opciones": {
+   "A": "asume las tareas del compañero sin decirle nada.",
+   "B": "le ofrece una explicación breve de los pasos clave y comparte la guía de uso.",
+   "C": "espera a que aprenda solo.",
+   "D": "informa al jefe que el compañero no sirve para el cargo."
+  },
+  "correcta": "B",
+  "explicacion": "El trabajo en equipo implica colaborar para cumplir los objetivos comunes. Apoyar el aprendizaje del compañero mejora el resultado del grupo sin desplazar sus responsabilidades.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0013",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Investigación",
+  "enunciado": "Durante una visita preventiva, un funcionario le entrega un informe que contradice los datos publicados por la entidad. Usted",
+  "opciones": {
+   "A": "no lo menciona para evitar conflictos.",
+   "B": "acepta el informe entregado porque es el más reciente.",
+   "C": "descarta el informe porque contradice la información oficial.",
+   "D": "solicita los soportes de ambas fuentes, los compara y deja constancia de la diferencia en el informe de visita."
+  },
+  "correcta": "D",
+  "explicacion": "La investigación exige buscar información pertinente y evaluarla con rigor técnico. Verificar soportes y documentar la diferencia permite una conclusión objetiva.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0014",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Orientación al usuario",
+  "enunciado": "Un ciudadano llega molesto porque su queja lleva meses sin respuesta. Usted",
+  "opciones": {
+   "A": "le pide que presente una nueva queja.",
+   "B": "lo escucha, consulta el estado real del trámite y le informa con claridad qué sigue y en qué plazo.",
+   "C": "le dice que no es su dependencia y lo envía a otra ventanilla.",
+   "D": "le promete una respuesta inmediata aunque no sabe si es posible."
+  },
+  "correcta": "B",
+  "explicacion": "La orientación al usuario es la capacidad de atender las necesidades de los usuarios conforme a las responsabilidades de la entidad. Dar información veraz y concreta es mejor que remitir sin orientar o prometer lo que no puede cumplirse.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0015",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Organización del trabajo",
+  "enunciado": "Su jefe le asigna una tarea urgente mientras usted adelanta otra con vencimiento próximo. Usted",
+  "opciones": {
+   "A": "le informa el estado de la tarea en curso y acuerda con él cuál debe priorizarse.",
+   "B": "rechaza la nueva tarea.",
+   "C": "intenta hacer ambas a la vez sin avisar del riesgo.",
+   "D": "deja la tarea en curso sin informar."
+  },
+  "correcta": "A",
+  "explicacion": "Organizar el trabajo implica gestionar prioridades con base en criterios claros. Informar y acordar la prioridad evita incumplimientos y alinea el trabajo con las necesidades de la dependencia.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0016",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Compromiso con la ética",
+  "enunciado": "Un conocido le pide que le adelante información sobre el estado de una investigación reservada contra un amigo suyo. Usted",
+  "opciones": {
+   "A": "le da información general sin documentos.",
+   "B": "le muestra el expediente pero sin copias.",
+   "C": "se niega, le explica que la actuación tiene reserva y que solo los sujetos procesales pueden acceder a ella.",
+   "D": "le sugiere hablar con otro funcionario."
+  },
+  "correcta": "C",
+  "explicacion": "La ética en el servicio público exige respetar la reserva de las actuaciones disciplinarias y no usar el cargo en beneficio de terceros. Revelar información reservada puede constituir falta y delito.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0017",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Pensamiento conceptual",
+  "enunciado": "Le piden explicar a un grupo de personeros los cambios de la Ley 2094 de 2021. Usted",
+  "opciones": {
+   "A": "presenta un esquema de las etapas antes y después de la reforma, con sus efectos prácticos y ejemplos.",
+   "B": "lee el texto completo de la ley.",
+   "C": "entrega una copia de la ley sin explicación.",
+   "D": "se limita a responder preguntas sueltas."
+  },
+  "correcta": "A",
+  "explicacion": "El pensamiento conceptual permite entender y explicar un tema a partir de sus elementos. Un esquema comparativo con efectos prácticos facilita la comprensión y la aplicación.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0018",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Cumplimiento de parámetros de trabajo",
+  "enunciado": "Un superior le ordena verbalmente archivar una actuación sin el análisis de pruebas que exige la ley. Usted",
+  "opciones": {
+   "A": "archiva sin análisis porque es una orden.",
+   "B": "ignora la orden sin decir nada.",
+   "C": "denuncia de inmediato al superior ante los medios.",
+   "D": "le manifiesta respetuosamente que la decisión requiere análisis motivado y le propone el proyecto ajustado a la norma."
+  },
+  "correcta": "D",
+  "explicacion": "Cumplir los parámetros de trabajo implica aplicar la normatividad. Una orden contraria a la ley no debe ejecutarse; lo adecuado es advertirlo por los canales institucionales y proponer la decisión conforme a derecho.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0019",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Autocrítica",
+  "enunciado": "En la evaluación de desempeño su jefe señala que sus proyectos tienen errores de redacción frecuentes. Usted",
+  "opciones": {
+   "A": "acepta el comentario pero no cambia su forma de trabajar.",
+   "B": "revisa los ejemplos señalados, identifica sus errores habituales y establece una lista de verificación antes de entregar.",
+   "C": "argumenta que la redacción no es importante si el contenido está bien.",
+   "D": "pide que otro jefe lo evalúe."
+  },
+  "correcta": "B",
+  "explicacion": "La autocrítica es la capacidad de evaluar el propio desempeño, detectar lo que debe mejorar y actuar en consecuencia. Convertir la observación en un plan concreto es la conducta esperada.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0020",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Orientación a resultados",
+  "enunciado": "Un procedimiento interno exige tres firmas para un trámite sencillo, lo que genera demoras. Usted",
+  "opciones": {
+   "A": "omite dos firmas para agilizar.",
+   "B": "se queja con los usuarios del procedimiento.",
+   "C": "documenta el impacto de la demora y propone a la instancia competente simplificar el trámite sin afectar los controles necesarios.",
+   "D": "no hace nada porque el procedimiento no es suyo."
+  },
+  "correcta": "C",
+  "explicacion": "Orientarse a resultados implica buscar eficiencia dentro de la legalidad. Proponer la mejora por el canal competente respeta los controles y apunta a la meta institucional.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0021",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Trabajo en equipo",
+  "enunciado": "En un grupo de trabajo hay desacuerdo sobre la calificación jurídica de una falta. Usted",
+  "opciones": {
+   "A": "se retira del grupo.",
+   "B": "acepta cualquier posición para evitar conflicto.",
+   "C": "impone su criterio porque tiene más experiencia.",
+   "D": "expone sus argumentos con sustento normativo, escucha los de los demás y apoya la decisión que se adopte por la instancia competente."
+  },
+  "correcta": "D",
+  "explicacion": "Trabajar en equipo supone aportar con argumentos, escuchar y respetar la decisión colectiva o de la autoridad competente. Imponer, retirarse o ceder sin criterio no aporta al resultado.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0022",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Responsabilidad con la organización",
+  "enunciado": "Observa que un compañero se lleva a casa expedientes originales con información reservada. Usted",
+  "opciones": {
+   "A": "publica la situación en el grupo de chat de la dependencia.",
+   "B": "le recuerda las reglas de custodia y, si persiste, informa al superior.",
+   "C": "no dice nada porque no es su asunto.",
+   "D": "le pide que también le lleve algunos de los suyos."
+  },
+  "correcta": "B",
+  "explicacion": "La responsabilidad con la organización incluye velar por la custodia de la información. Advertir al compañero y, si es necesario, informar al superior protege la reserva sin exponerlo indebidamente.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0023",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Adaptación al cambio",
+  "enunciado": "Lo trasladan a una dependencia con funciones distintas a las que conoce. Usted",
+  "opciones": {
+   "A": "solicita volver a su dependencia anterior de inmediato.",
+   "B": "trabaja solo en lo que ya conocía.",
+   "C": "identifica las funciones y normas del nuevo cargo, pide orientación inicial y se pone al día con los expedientes en curso.",
+   "D": "espera a que le asignen tareas concretas."
+  },
+  "correcta": "C",
+  "explicacion": "Adaptarse al cambio implica asumir de manera activa las nuevas responsabilidades, buscar la información necesaria y ponerse al día sin esperar a que todo se le indique.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0024",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Investigación",
+  "enunciado": "Debe recaudar pruebas sobre un presunto pago irregular en un municipio. Usted",
+  "opciones": {
+   "A": "define qué hechos debe probar, identifica los documentos y testigos conducentes y planifica su práctica.",
+   "B": "se basa solo en la versión del quejoso.",
+   "C": "espera a que el investigado aporte pruebas.",
+   "D": "pide todos los documentos de la alcaldía de los últimos diez años."
+  },
+  "correcta": "A",
+  "explicacion": "La investigación requiere buscar información pertinente con criterio técnico. Planificar las pruebas según los hechos a demostrar respeta la conducencia, pertinencia y utilidad, y evita recaudos desproporcionados.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0025",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Orientación al usuario",
+  "enunciado": "Una persona con discapacidad visual pide información sobre cómo presentar una queja. Usted",
+  "opciones": {
+   "A": "le pide que vuelva con un acompañante.",
+   "B": "le indica que use la página web.",
+   "C": "le entrega el formulario impreso.",
+   "D": "le explica verbalmente el trámite, le ofrece recibir la queja de forma verbal y la lee en voz alta antes de radicarla."
+  },
+  "correcta": "D",
+  "explicacion": "La orientación al usuario exige atención con enfoque diferencial. Ajustar el canal y verificar que la persona conozca el contenido garantiza su derecho de acceso.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0026",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Organización del trabajo",
+  "enunciado": "Va a salir a vacaciones y tiene expedientes con términos que vencen en ese período. Usted",
+  "opciones": {
+   "A": "deja un informe de estado de cada expediente con sus vencimientos y lo entrega a quien lo reemplaza, con copia al jefe.",
+   "B": "suspende los términos por su cuenta.",
+   "C": "se lleva los expedientes para revisarlos en vacaciones.",
+   "D": "confía en que el reemplazo revise el sistema."
+  },
+  "correcta": "A",
+  "explicacion": "Organizar el trabajo incluye asegurar la continuidad del servicio. Un empalme documentado evita vencimientos; los términos no pueden suspenderse a discreción ni sacarse expedientes de la sede.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0027",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Autocontrol",
+  "enunciado": "Recibe un correo de un compañero con críticas injustas a su trabajo, con copia a toda la dependencia. Usted",
+  "opciones": {
+   "A": "reenvía el correo a otras dependencias.",
+   "B": "responde de inmediato a todos con un tono fuerte.",
+   "C": "espera a estar tranquilo, conversa en privado con el compañero y, si es necesario, aclara los hechos con datos ante el jefe.",
+   "D": "deja de colaborar con ese compañero."
+  },
+  "correcta": "C",
+  "explicacion": "El autocontrol permite manejar las emociones ante situaciones que comprometen la convivencia. Tratar el asunto en privado y con datos evita escalar el conflicto.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0028",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Creatividad e innovación (nivel Asesor)",
+  "enunciado": "El despacho necesita llegar a más municipios con su labor preventiva, pero no hay presupuesto para más visitas. Como asesor usted",
+  "opciones": {
+   "A": "pide a los municipios que se autoevalúen sin seguimiento.",
+   "B": "propone combinar visitas presenciales priorizadas por riesgo con mesas virtuales y reportes en línea, y plantea indicadores para medir su efecto.",
+   "C": "concluye que sin presupuesto no se puede hacer nada.",
+   "D": "reduce las visitas a los municipios más cercanos."
+  },
+  "correcta": "B",
+  "explicacion": "La creatividad e innovación busca soluciones nuevas a restricciones reales. Priorizar por riesgo, usar canales virtuales y medir resultados amplía la cobertura con los mismos recursos.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0029",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Cumplimiento de parámetros de trabajo",
+  "enunciado": "El manual de procesos exige registrar cada actuación en el sistema el mismo día. En una semana de mucho trabajo, usted",
+  "opciones": {
+   "A": "reserva un tiempo diario para el registro y, si no alcanza, informa al jefe para reorganizar cargas.",
+   "B": "registra todo a fin de mes.",
+   "C": "deja de registrar las actuaciones menores.",
+   "D": "pide a un pasante que registre con su clave."
+  },
+  "correcta": "A",
+  "explicacion": "Cumplir los parámetros de trabajo exige aplicar la normatividad interna aun con presión. Planificar el registro y comunicar dificultades es lo adecuado; compartir claves vulnera la seguridad de la información.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0030",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Comunicación efectiva",
+  "enunciado": "Debe explicar a un ciudadano sin formación jurídica por qué su queja fue archivada. Usted",
+  "opciones": {
+   "A": "le explica los fundamentos con términos técnicos y citas jurisprudenciales.",
+   "B": "le dice que no puede hacer nada más.",
+   "C": "le entrega la decisión y le dice que la lea.",
+   "D": "le explica con lenguaje sencillo los motivos de la decisión, los recursos que proceden y el plazo para interponerlos."
+  },
+  "correcta": "D",
+  "explicacion": "Comunicar con efectividad implica adaptar el mensaje al interlocutor. El ciudadano debe entender la decisión y conocer los recursos, como la apelación contra el archivo (Ley 1952 de 2019, art. 134).",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0031",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Orientación a resultados",
+  "enunciado": "Le asignan un indicador de expedientes evacuados por mes. Nota que podría cumplirlo archivando casos sin el análisis suficiente. Usted",
+  "opciones": {
+   "A": "ignora el indicador.",
+   "B": "deja de recibir expedientes nuevos.",
+   "C": "busca cumplir la meta con decisiones de fondo bien sustentadas y alerta a su jefe si el indicador incentiva decisiones apresuradas.",
+   "D": "archiva casos rápidamente para cumplir el indicador."
+  },
+  "correcta": "C",
+  "explicacion": "La orientación a resultados se refiere a metas alineadas con la misión. Una meta numérica no justifica decisiones sin sustento; advertir el efecto del indicador ayuda a mejorar la gestión.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0032",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Autoconfianza",
+  "enunciado": "En una reunión con directivos de otra entidad, usted tiene una posición jurídica distinta a la de la mayoría, sustentada en una norma clara. Usted",
+  "opciones": {
+   "A": "guarda silencio para no contradecir a los directivos.",
+   "B": "expone su posición con respeto y con la norma que la sustenta.",
+   "C": "cambia su posición para coincidir con la mayoría.",
+   "D": "espera a que termine la reunión para criticar la decisión."
+  },
+  "correcta": "B",
+  "explicacion": "La autoconfianza implica reconocer las propias fortalezas y sostener opiniones fundadas ante superiores o terceros, con respeto. Callar o cambiar de opinión sin razones no aporta a la decisión.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0033",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Pensamiento conceptual",
+  "enunciado": "Nota que en varios municipios se repite el mismo tipo de queja sobre contratación directa. Usted",
+  "opciones": {
+   "A": "identifica el patrón común y propone a su jefe una acción preventiva general sobre esa modalidad.",
+   "B": "archiva las quejas porque son repetitivas.",
+   "C": "tramita cada queja por separado sin relacionarlas.",
+   "D": "concluye que todos los alcaldes actúan de mala fe."
+  },
+  "correcta": "A",
+  "explicacion": "El pensamiento conceptual permite reconocer patrones y relaciones entre situaciones. Identificar una tendencia y proponer una acción preventiva aporta más que tramitar casos aislados.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0034",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Trabajo en equipo",
+  "enunciado": "Su equipo debe entregar un informe conjunto y usted terminó su parte antes. Usted",
+  "opciones": {
+   "A": "reescribe las partes de los demás sin consultarles.",
+   "B": "ofrece apoyo a quienes van más atrasados para cumplir el plazo común.",
+   "C": "entrega su parte y se desentiende del resto.",
+   "D": "informa al jefe quiénes están atrasados."
+  },
+  "correcta": "B",
+  "explicacion": "El trabajo en equipo implica responsabilidad por el resultado común. Ofrecer apoyo coordinado es la conducta más alineada; reescribir sin consultar afecta la colaboración.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0035",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Responsabilidad con la organización",
+  "enunciado": "Un medio de comunicación lo contacta para que opine sobre una investigación de su dependencia. Usted",
+  "opciones": {
+   "A": "da una opinión personal sin revelar nombres.",
+   "B": "concede la entrevista para mostrar la gestión de la entidad.",
+   "C": "niega que exista la investigación.",
+   "D": "remite la solicitud a la oficina de prensa, porque no está autorizado para declarar sobre actuaciones en curso."
+  },
+  "correcta": "D",
+  "explicacion": "La responsabilidad con la organización implica respetar los canales institucionales y la reserva. La comunicación pública la maneja la dependencia autorizada.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0036",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Aprendizaje continuo",
+  "enunciado": "Comete el mismo tipo de error de notificación en dos expedientes. Usted",
+  "opciones": {
+   "A": "considera que fue mala suerte.",
+   "B": "espera a que el error genere una nulidad para aprender.",
+   "C": "revisa la norma de notificaciones, elabora una guía rápida para su trabajo y la comparte con el equipo.",
+   "D": "pide que otro funcionario haga las notificaciones."
+  },
+  "correcta": "C",
+  "explicacion": "El aprendizaje continuo convierte los errores en mejoras. Repasar la norma y crear una herramienta práctica evita repetir el error y beneficia al equipo.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0037",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Investigación",
+  "enunciado": "Un testigo clave da una versión que parece contradictoria con un documento del expediente. Usted",
+  "opciones": {
+   "A": "no menciona la contradicción para no influir al testigo.",
+   "B": "descarta el testimonio.",
+   "C": "le pone de presente el documento en la diligencia y le pide que explique la diferencia, dejando constancia.",
+   "D": "descarta el documento."
+  },
+  "correcta": "C",
+  "explicacion": "Investigar con rigor implica contrastar las pruebas y aclarar las contradicciones en la oportunidad procesal, dejando registro. Descartar una prueba sin análisis afecta la investigación integral.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0038",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Compromiso con la ética",
+  "enunciado": "Le asignan un expediente en el que el investigado es su antiguo socio de negocios. Usted",
+  "opciones": {
+   "A": "tramita el expediente sin decir nada porque ya no son socios.",
+   "B": "manifiesta su impedimento por escrito ante quien corresponda antes de actuar.",
+   "C": "pide a un compañero que firme las decisiones por usted.",
+   "D": "tramita el expediente con especial rigor."
+  },
+  "correcta": "B",
+  "explicacion": "La ética y la imparcialidad exigen apartarse cuando existe una causal de impedimento o un conflicto de intereses (Ley 1952 de 2019, arts. 44 y 104). El trámite de impedimento es la vía correcta.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0039",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Organización del trabajo",
+  "enunciado": "Recibe muchas consultas por correo que interrumpen constantemente su trabajo de análisis. Usted",
+  "opciones": {
+   "A": "define franjas del día para revisar y responder los correos, y atiende de inmediato solo los urgentes.",
+   "B": "pide que no le envíen más consultas.",
+   "C": "deja de leer los correos.",
+   "D": "responde cada correo apenas llega."
+  },
+  "correcta": "A",
+  "explicacion": "Organizar el trabajo implica administrar el tiempo según prioridades. Programar la atención del correo protege las tareas de análisis sin desatender lo urgente.",
+  "dificultad": 1
+ },
+ {
+  "id": "comp-0040",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Diccionario de competencias PGN, Orientación al usuario",
+  "enunciado": "Un alcalde pide orientación preventiva sobre cómo adelantar un proceso de contratación sin incurrir en faltas. Usted",
+  "opciones": {
+   "A": "le revisa y aprueba los pliegos antes de publicarlos.",
+   "B": "le recomienda un contratista confiable.",
+   "C": "le dice que la Procuraduría no asesora a entidades.",
+   "D": "le orienta sobre las normas aplicables y los riesgos frecuentes, sin coadministrar ni tomar decisiones por la entidad."
+  },
+  "correcta": "D",
+  "explicacion": "La función preventiva permite orientar y advertir, pero la Procuraduría no coadministra ni sustituye a la entidad en sus decisiones. Recomendar contratistas o aprobar pliegos excede la función.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0041",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Orientación a resultados",
+  "enunciado": "Al cierre del trimestre, su dependencia superó la meta de decisiones, pero muchas fueron revocadas en segunda instancia. Usted",
+  "opciones": {
+   "A": "destaca solo el cumplimiento de la meta en el informe.",
+   "B": "atribuye las revocatorias a criterios distintos de la segunda instancia.",
+   "C": "analiza las causas de las revocatorias y propone ajustes de calidad en los proyectos.",
+   "D": "propone bajar la meta para tener más tiempo."
+  },
+  "correcta": "C",
+  "explicacion": "Los resultados deben medirse por su aporte a la misión. Analizar las revocatorias y mejorar la calidad es más coherente con la orientación a resultados que reportar solo cantidades.",
+  "dificultad": 2
+ },
+ {
+  "id": "comp-0042",
+  "eje": "competencias",
+  "nucleo": "competencias",
+  "origen": "estilo",
+  "fuente": "Cartilla PGN 2015, competencia Cumplimiento de parámetros de trabajo",
+  "enunciado": "Un usuario le ofrece pagar las copias de un expediente directamente en efectivo a usted para agilizar la entrega. Usted",
+  "opciones": {
+   "A": "recibe el dinero y lo consigna después.",
+   "B": "le indica el procedimiento oficial de pago y entrega, y no recibe dinero.",
+   "C": "le entrega las copias gratis para evitar el trámite.",
+   "D": "le pide que pague a un tercero de confianza."
+  },
+  "correcta": "B",
+  "explicacion": "Aplicar la normatividad interna implica seguir el procedimiento oficial. Recibir dinero directamente puede constituir falta disciplinaria o delito, aun si se consigna después.",
+  "dificultad": 1
+ }
+]

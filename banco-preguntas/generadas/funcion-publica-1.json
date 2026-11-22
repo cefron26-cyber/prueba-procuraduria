@@ -1,0 +1,478 @@
+[
+ {
+  "id": "fp-0001",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 5",
+  "enunciado": "Según la Ley 909 de 2004, los empleos de los organismos y entidades regulados por ella son",
+  "opciones": {
+   "A": "provisionales mientras no exista lista de elegibles.",
+   "B": "de libre nombramiento y remoción, salvo los del nivel técnico y asistencial.",
+   "C": "de período fijo de cuatro años coincidente con el del nominador.",
+   "D": "de carrera administrativa, con excepción de los de elección popular, período fijo, trabajadores oficiales, libre nombramiento y remoción y los temporales, entre otros."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 5 de la Ley 909 de 2004 desarrolla el artículo 125 de la Constitución: los empleos son de carrera, salvo las excepciones que la misma ley enumera, como elección popular, período fijo, trabajadores oficiales, libre nombramiento y remoción y temporales.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0002",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 130; Ley 909 de 2004, art. 7",
+  "enunciado": "La administración y vigilancia de las carreras de los servidores públicos, excepción hecha de las que tengan carácter especial, corresponde a",
+  "opciones": {
+   "A": "la Procuraduría General de la Nación.",
+   "B": "el Ministerio del Trabajo.",
+   "C": "la Comisión Nacional del Servicio Civil.",
+   "D": "el Departamento Administrativo de la Función Pública."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 130 de la Constitución crea la Comisión Nacional del Servicio Civil, responsable de la administración y vigilancia de las carreras, salvo las especiales. La carrera de la Procuraduría es especial y la administra la propia entidad (Decreto Ley 262 de 2000).",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0003",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 31 (modif. Ley 1960 de 2019, art. 6)",
+  "enunciado": "En el régimen general de carrera, la lista de elegibles resultante de un concurso tiene una vigencia de",
+  "opciones": {
+   "A": "dos años.",
+   "B": "un año.",
+   "C": "tres años.",
+   "D": "cuatro años."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 4 del artículo 31 de la Ley 909 de 2004, modificado por la Ley 1960 de 2019, establece que la lista de elegibles tendrá una vigencia de dos años.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0004",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 31, num. 5",
+  "enunciado": "En el régimen general de la Ley 909 de 2004, la persona seleccionada por concurso es nombrada en período de prueba por",
+  "opciones": {
+   "A": "tres meses.",
+   "B": "seis meses.",
+   "C": "cuatro meses.",
+   "D": "un año."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 5 del artículo 31 de la Ley 909 de 2004 fija el período de prueba en seis meses, al final de los cuales se evalúa el desempeño. En la Procuraduría, por su régimen especial, es de cuatro meses (Decreto Ley 262 de 2000, art. 218).",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0005",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 31",
+  "enunciado": "Según la Ley 909 de 2004, la convocatoria de un concurso",
+  "opciones": {
+   "A": "es norma reguladora de todo concurso y obliga tanto a la administración como a los participantes.",
+   "B": "solo obliga a los aspirantes, no a la entidad.",
+   "C": "puede modificarse en cualquier momento por el nominador.",
+   "D": "es una simple guía que la entidad puede variar libremente."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 1 del artículo 31 dispone que la convocatoria es norma reguladora del concurso y obliga a la administración, a las entidades contratadas para realizarlo y a los participantes. Solo puede modificarse en los casos y momentos que la ley permite.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0006",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 24 (modif. Ley 1960 de 2019, art. 1)",
+  "enunciado": "Mientras se surte el proceso de selección para un empleo de carrera vacante, los empleados de carrera",
+  "opciones": {
+   "A": "no tienen ninguna preferencia frente a personas externas.",
+   "B": "pueden ser nombrados en propiedad sin concurso.",
+   "C": "tienen derecho preferencial a ser encargados si cumplen los requisitos y tienen las aptitudes y la evaluación de desempeño exigidas.",
+   "D": "solo pueden ser encargados en empleos de libre nombramiento."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 24 de la Ley 909 de 2004, modificado por la Ley 1960 de 2019, otorga a los empleados de carrera derecho preferencial a ser encargados en empleos de carrera vacantes cuando cumplan los requisitos y las condiciones de desempeño exigidas.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0007",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 41",
+  "enunciado": "Es causal de retiro del servicio de los empleados de carrera según la Ley 909 de 2004",
+  "opciones": {
+   "A": "el cambio del jefe de la entidad.",
+   "B": "la reestructuración de procesos sin supresión de cargos.",
+   "C": "la decisión discrecional del nominador sin motivación.",
+   "D": "la declaratoria de insubsistencia del nombramiento como consecuencia del resultado no satisfactorio en la evaluación del desempeño."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 41 de la Ley 909 de 2004 enumera causales como la insubsistencia por evaluación no satisfactoria, la renuncia regularmente aceptada, la destitución por proceso disciplinario y la supresión del empleo, entre otras. La remoción discrecional aplica a empleos de libre nombramiento.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0008",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 1",
+  "enunciado": "Según la Ley 909 de 2004, integran la función pública los siguientes empleos públicos",
+  "opciones": {
+   "A": "de elección popular únicamente.",
+   "B": "de carrera, de libre nombramiento y remoción, de período fijo y temporales.",
+   "C": "de trabajadores particulares que contratan con el Estado.",
+   "D": "de contrato de prestación de servicios y de carrera."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 1 de la Ley 909 de 2004 señala que hacen parte de la función pública los empleos de carrera, de libre nombramiento y remoción, de período fijo y temporales. Los contratistas de prestación de servicios no son empleados públicos.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0009",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Decreto 785 de 2005, art. 3; Decreto 1083 de 2015",
+  "enunciado": "Los niveles jerárquicos de los empleos en las entidades territoriales son",
+  "opciones": {
+   "A": "directivo, ejecutivo, profesional y operativo.",
+   "B": "superior, medio y bajo.",
+   "C": "directivo, asesor, profesional, técnico y asistencial.",
+   "D": "gerencial, administrativo y de apoyo."
+  },
+  "correcta": "C",
+  "explicacion": "El Decreto 785 de 2005 clasifica los empleos territoriales en los niveles directivo, asesor, profesional, técnico y asistencial; el Decreto 1083 de 2015 prevé los mismos niveles para el orden nacional. La Procuraduría tiene además el nivel ejecutivo en su régimen especial.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0010",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Decreto 1083 de 2015, art. 2.2.5.5.1 y ss.",
+  "enunciado": "Un empleado sale temporalmente del ejercicio de su cargo para cumplir una misión propia de su empleo en otra ciudad, por instrucción de su jefe. Esta situación administrativa es",
+  "opciones": {
+   "A": "una comisión de servicios.",
+   "B": "un permiso remunerado.",
+   "C": "una licencia ordinaria.",
+   "D": "un encargo."
+  },
+  "correcta": "A",
+  "explicacion": "La comisión de servicios permite ejercer temporalmente las funciones propias del empleo en un lugar diferente a la sede habitual o atender actividades oficiales distintas a las inherentes al cargo, según el Decreto 1083 de 2015. La licencia separa del cargo y el encargo asigna otro empleo.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0011",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Decreto 1045 de 1978, art. 8; Decreto 1083 de 2015",
+  "enunciado": "Los empleados públicos tienen derecho, por cada año de servicio, a vacaciones remuneradas de",
+  "opciones": {
+   "A": "diez días hábiles.",
+   "B": "quince días hábiles.",
+   "C": "quince días calendario.",
+   "D": "treinta días hábiles."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 8 del Decreto 1045 de 1978 reconoce a los empleados públicos quince días hábiles de vacaciones por cada año de servicio, salvo regímenes especiales.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0012",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 38",
+  "enunciado": "Según la Ley 909 de 2004, el desempeño laboral de los empleados de carrera debe ser evaluado y calificado con base en",
+  "opciones": {
+   "A": "la percepción personal del jefe inmediato sin criterios previos.",
+   "B": "la antigüedad del empleado en la entidad.",
+   "C": "las quejas de los usuarios exclusivamente.",
+   "D": "parámetros previamente establecidos a partir de los planes anuales de gestión del área respectiva y las metas institucionales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 38 de la Ley 909 de 2004 exige que la evaluación del desempeño se base en parámetros previamente establecidos, derivados de los planes de gestión y las metas institucionales; su resultado no satisfactorio puede conducir al retiro.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0013",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 44",
+  "enunciado": "Se suprime el cargo de un empleado de carrera administrativa por una reestructuración. Según la Ley 909 de 2004, el empleado",
+  "opciones": {
+   "A": "conserva el cargo hasta que se pensione.",
+   "B": "pierde todos sus derechos sin compensación.",
+   "C": "debe ser trasladado a cualquier cargo aunque sea de inferior nivel.",
+   "D": "tiene derecho preferencial a ser incorporado en un empleo equivalente o, si no es posible, a ser indemnizado."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 44 de la Ley 909 de 2004 dispone que los empleados de carrera cuyo cargo sea suprimido tienen derecho preferencial a ser incorporados en un empleo igual o equivalente o, de no ser posible, a recibir una indemnización.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0014",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1010 de 2006, art. 2",
+  "enunciado": "Un jefe insulta de manera reiterada y pública a una profesional a su cargo y la expone a burlas sobre su origen regional. Según la Ley 1010 de 2006, esta conducta corresponde a",
+  "opciones": {
+   "A": "un ejercicio legítimo del poder de subordinación.",
+   "B": "maltrato laboral, como modalidad de acoso laboral.",
+   "C": "una falta leve que solo admite llamado de atención verbal.",
+   "D": "inequidad laboral únicamente."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 2 de la Ley 1010 de 2006 define el maltrato laboral como todo acto de violencia contra la integridad física o moral, la libertad o los bienes de quien se desempeña como empleado, incluidas expresiones verbales injuriosas o ultrajantes. Las conductas descritas encajan en esa modalidad.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0015",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1010 de 2006, art. 12",
+  "enunciado": "Cuando la víctima de acoso laboral es un servidor público, la competencia para conocer de la falta disciplinaria corresponde a",
+  "opciones": {
+   "A": "el Ministerio Público o las salas disciplinarias competentes, conforme a las normas de competencia.",
+   "B": "el comité de convivencia, que impone la sanción.",
+   "C": "la Comisión Nacional del Servicio Civil.",
+   "D": "el juez laboral exclusivamente."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 12 de la Ley 1010 de 2006 atribuye la competencia, cuando las víctimas son servidores públicos, al Ministerio Público o a las autoridades disciplinarias competentes; si son trabajadores particulares, a los jueces laborales. El comité de convivencia es instancia preventiva y no sancionadora.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0016",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 2",
+  "enunciado": "Según la Ley 909 de 2004, la función pública se desarrolla teniendo en cuenta principios como",
+  "opciones": {
+   "A": "confianza política, lealtad partidista y libre remoción.",
+   "B": "oralidad, inmediación y concentración.",
+   "C": "igualdad, mérito, moralidad, eficacia, economía, imparcialidad, transparencia, celeridad y publicidad.",
+   "D": "autonomía de la voluntad y libre competencia."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 2 de la Ley 909 de 2004 retoma los principios del artículo 209 de la Constitución y agrega el mérito y la transparencia como criterios para el acceso y permanencia en los empleos.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0017",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 21",
+  "enunciado": "Una entidad necesita cubrir funciones que no realiza el personal de planta por no formar parte de sus actividades permanentes, por un plazo determinado. Según la Ley 909 de 2004 puede crear",
+  "opciones": {
+   "A": "contratos de prestación de servicios con subordinación.",
+   "B": "cargos de período fijo.",
+   "C": "empleos de libre nombramiento y remoción permanentes.",
+   "D": "empleos de carácter temporal."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 21 de la Ley 909 de 2004 permite crear empleos temporales para cumplir funciones que no realiza el personal de planta por no ser permanentes, desarrollar programas de duración determinada o suplir necesidades por sobrecarga de trabajo, entre otros. Contratar con subordinación configura un contrato realidad.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0018",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38",
+  "enunciado": "Es un deber de todo servidor público según el Código General Disciplinario",
+  "opciones": {
+   "A": "delegar en particulares sus funciones cuando lo considere útil.",
+   "B": "participar en las actividades de los partidos políticos.",
+   "C": "cumplir y hacer que se cumplan los deberes contenidos en la Constitución, los tratados de derechos humanos y DIH, las leyes, decretos y demás normas.",
+   "D": "aceptar dádivas de los usuarios como reconocimiento a su labor."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 1 del artículo 38 de la Ley 1952 de 2019 consagra como deber cumplir y hacer cumplir la Constitución, los tratados de derechos humanos y DIH, las leyes y demás normas. Participar en política, recibir dádivas o delegar funciones en particulares sin habilitación legal son conductas prohibidas.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0019",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 39",
+  "enunciado": "Un profesional universitario acepta un viaje pagado por un contratista cuyo contrato supervisa. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "solo incurre en falta si el viaje supera un salario mínimo.",
+   "B": "incurre en la prohibición de solicitar o aceptar dádivas, agasajos, regalos o cualquier otra clase de beneficios.",
+   "C": "no incurre en falta porque el contratista es un particular.",
+   "D": "actúa válidamente si el viaje se hace en vacaciones."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 39 de la Ley 1952 de 2019 prohíbe solicitar, directa o indirectamente, dádivas, agasajos, regalos, favores o cualquier otra clase de beneficios. No hay cuantía mínima y el momento del viaje no elimina la prohibición.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0020",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 122; Ley 190 de 1995",
+  "enunciado": "Antes de posesionarse en un empleo público, la persona debe declarar bajo juramento",
+  "opciones": {
+   "A": "el monto de sus bienes y rentas.",
+   "B": "su filiación política.",
+   "C": "su orientación religiosa.",
+   "D": "sus calificaciones académicas de pregrado."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 122 de la Constitución y la Ley 190 de 1995 exigen que, antes de tomar posesión, el servidor declare bajo juramento el monto de sus bienes y rentas, y la actualice cuando la ley lo ordene. La filiación política y la religión no pueden ser exigidas.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0021",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 47",
+  "enunciado": "Según la Ley 909 de 2004, son empleos de gerencia pública",
+  "opciones": {
+   "A": "los empleos de carrera del nivel profesional.",
+   "B": "los cargos de elección popular del nivel territorial.",
+   "C": "los contratos de prestación de servicios de alto valor.",
+   "D": "los cargos de libre nombramiento y remoción que conllevan ejercicio de responsabilidad directiva en la administración pública."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 47 de la Ley 909 de 2004 define los empleos de naturaleza gerencial como los de libre nombramiento y remoción que conllevan ejercicio de responsabilidad directiva, sujetos a acuerdos de gestión.",
+  "dificultad": 3
+ },
+ {
+  "id": "fp-0022",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 25",
+  "enunciado": "El titular de un empleo de carrera sale a disfrutar una licencia de maternidad. Mientras dura la situación, el empleo puede proveerse",
+  "opciones": {
+   "A": "con nombramiento en propiedad de otra persona.",
+   "B": "en forma provisional, solo por el tiempo que dure la vacancia temporal, cuando no sea posible el encargo con servidores de carrera.",
+   "C": "mediante contrato de prestación de servicios con funciones permanentes.",
+   "D": "únicamente con la lista de elegibles vigente, en período de prueba."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 25 de la Ley 909 de 2004 dispone que los empleos de carrera cuyos titulares estén en situaciones administrativas que impliquen separación temporal se proveen en forma provisional solo por el tiempo de la vacancia, cuando no sea posible proveerlos mediante encargo con servidores de carrera.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0023",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 123",
+  "enunciado": "Según el artículo 123 de la Constitución, son servidores públicos",
+  "opciones": {
+   "A": "los particulares que prestan servicios públicos domiciliarios.",
+   "B": "todas las personas que contratan con el Estado.",
+   "C": "los miembros de las corporaciones públicas, los empleados y trabajadores del Estado y de sus entidades descentralizadas territorialmente y por servicios.",
+   "D": "solo los empleados de carrera administrativa."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 123 define como servidores públicos a los miembros de corporaciones públicas, los empleados y los trabajadores del Estado y de sus entidades descentralizadas. Los particulares pueden ejercer funciones públicas temporalmente, pero no por ello son servidores públicos.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0024",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 37",
+  "enunciado": "Es un derecho de todo servidor público según el Código General Disciplinario",
+  "opciones": {
+   "A": "recibir capacitación para el mejor desempeño de sus funciones.",
+   "B": "participar en controversias políticas en horario laboral.",
+   "C": "ser ascendido sin concurso al cumplir cinco años de servicio.",
+   "D": "negarse a cumplir órdenes legítimas que considere inconvenientes."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 37 de la Ley 1952 de 2019 reconoce derechos como percibir puntualmente la remuneración, recibir capacitación, participar en programas de bienestar y disfrutar de estímulos. El ascenso se obtiene por mérito y las demás conductas contrarían deberes y prohibiciones.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0025",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 42",
+  "enunciado": "Una persona que fue condenada por un delito contra el patrimonio del Estado aspira a un cargo público. Según el Código General Disciplinario y la Constitución",
+  "opciones": {
+   "A": "está inhabilitada para desempeñar cargos públicos.",
+   "B": "puede posesionarse después de cinco años de la condena.",
+   "C": "solo está inhabilitada para cargos de elección popular.",
+   "D": "puede posesionarse si paga la condena."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 122 de la Constitución, modificado por el Acto Legislativo 01 de 2009, y el artículo 42 de la Ley 1952 de 2019 establecen inhabilidad para quienes hayan sido condenados por delitos que afecten el patrimonio del Estado. Es una inhabilidad que no se supera con el pago.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0026",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 126",
+  "enunciado": "El secretario de una entidad pretende nombrar como su asistente a su sobrino. Según el artículo 126 de la Constitución",
+  "opciones": {
+   "A": "puede hacerlo con autorización del jefe de talento humano.",
+   "B": "puede hacerlo si el sobrino cumple los requisitos del cargo.",
+   "C": "los servidores públicos no pueden nombrar como empleados a personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil.",
+   "D": "solo está prohibido nombrar a hijos y cónyuges."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 126 de la Constitución prohíbe nombrar como empleados a personas con las que se tenga parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil. Un sobrino es pariente en tercer grado de consanguinidad, salvo normas sobre ingreso o ascenso por méritos.",
+  "dificultad": 2
+ },
+ {
+  "id": "fp-0027",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 38, num. 12",
+  "enunciado": "Un servidor de carrera se ausenta de su sitio de trabajo varias horas para atender asuntos personales sin permiso. Esta conducta",
+  "opciones": {
+   "A": "es válida si recupera el tiempo otro día sin informar.",
+   "B": "desconoce el deber de dedicar la totalidad del tiempo reglamentario de trabajo al desempeño de las funciones encomendadas.",
+   "C": "no tiene relevancia disciplinaria para empleados de carrera.",
+   "D": "solo puede ser objeto de descuento salarial."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 38 de la Ley 1952 de 2019 consagra el deber de dedicar la totalidad del tiempo reglamentario de trabajo al desempeño de las funciones. Su incumplimiento puede constituir falta disciplinaria, además de las consecuencias salariales.",
+  "dificultad": 1
+ },
+ {
+  "id": "fp-0028",
+  "eje": "funcion-publica",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 909 de 2004, art. 23",
+  "enunciado": "Los empleos de libre nombramiento y remoción se proveen",
+  "opciones": {
+   "A": "por elección del concejo o la asamblea.",
+   "B": "mediante sorteo público.",
+   "C": "mediante concurso abierto de méritos con lista de elegibles.",
+   "D": "por nombramiento ordinario, previo cumplimiento de los requisitos exigidos para el desempeño del empleo."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 23 de la Ley 909 de 2004 dispone que los empleos de libre nombramiento y remoción se proveen por nombramiento ordinario, previo cumplimiento de los requisitos del cargo. Los de carrera se proveen por concurso y período de prueba.",
+  "dificultad": 2
+ }
+]

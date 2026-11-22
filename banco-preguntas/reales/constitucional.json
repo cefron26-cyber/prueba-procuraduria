@@ -1,0 +1,37 @@
+[
+ {
+  "id": "real-0001",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "real",
+  "fuente": "Guía PGN convocatoria 2006-2007, ejemplo 2 (Drive: base_Cartilla_Procuraduria.md). C.P. arts. 30 y 152; Ley 1095 de 2006",
+  "enunciado": "La acción de habeas corpus debe ser regulada por el Congreso de la República mediante una ley estatutaria, porque",
+  "opciones": {
+   "A": "el habeas corpus está consagrado expresamente en el artículo 30 de la Constitución Política.",
+   "B": "es un trámite propio del proceso penal y ya fue expedido el Código de Procedimiento Penal.",
+   "C": "es un mecanismo de protección del derecho fundamental a la libertad personal.",
+   "D": "su resultado lesiona el derecho fundamental a la libertad personal."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 152 de la Constitución reserva a la ley estatutaria la regulación de los derechos fundamentales y de los procedimientos y recursos para su protección. El habeas corpus protege la libertad personal; por eso se reguló mediante ley estatutaria (Ley 1095 de 2006). Estar en el artículo 30 no basta por sí solo, no es un simple trámite del proceso penal y su resultado protege la libertad, no la lesiona.",
+  "dificultad": 2
+ },
+ {
+  "id": "real-0003",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "real",
+  "tipo": "postulados",
+  "fuente": "Cartilla de pruebas escritas PGN 2015, Universidad de Antioquia, ejemplo de análisis de postulados (Drive: act_298581349-Cartilla-Procuraduria-concurso.md). Corte Constitucional, T-422 de 1992",
+  "enunciado": "TESIS: El concepto de proporcionalidad sirve como punto de apoyo a la ponderación entre principios constitucionales, cuando en la solución de un caso particular dos o más derechos entran en colisión.\n\nPOSTULADO I: La aplicación plena de uno de los derechos conduce a la reducción significativa del campo de aplicación del otro u otros.\nPOSTULADO II: El juez constitucional debe determinar si la reducción de un derecho o de otro se justifica a la luz de la importancia del derecho afectado para el ordenamiento jurídico.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "A",
+  "explicacion": "La ponderación existe porque la aplicación plena de un derecho reduce el campo del otro (postulado I), y corresponde al juez constitucional establecer hasta dónde esa reducción se justifica según la importancia del derecho afectado (postulado II). Ambos se deducen de la tesis.",
+  "dificultad": 3
+ }
+]

@@ -1,0 +1,478 @@
+[
+ {
+  "id": "tra-0001",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 2",
+  "enunciado": "Según el principio de máxima publicidad de la Ley 1712 de 2014, toda información en posesión, bajo control o custodia de un sujeto obligado",
+  "opciones": {
+   "A": "es reservada mientras el jefe de la entidad no autorice su divulgación.",
+   "B": "es pública y solo puede ser reservada o limitada por disposición constitucional o legal.",
+   "C": "es pública únicamente para quien acredite interés directo.",
+   "D": "es pública solo después de cinco años de producida."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 2 de la Ley 1712 de 2014 consagra el principio de máxima publicidad para titular universal: la información es pública y solo puede reservarse o limitarse por disposición constitucional o legal. No se exige acreditar interés ni autorización del jefe de la entidad.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0002",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 5",
+  "enunciado": "Una empresa privada que presta el servicio de acueducto recibe una solicitud de información sobre la calidad del agua que suministra. Respecto de la Ley 1712 de 2014, la empresa",
+  "opciones": {
+   "A": "es sujeto obligado respecto de la información directamente relacionada con la prestación del servicio público.",
+   "B": "es sujeto obligado respecto de toda su información, incluida la comercial reservada.",
+   "C": "solo debe responder si la solicitud la presenta la Superintendencia.",
+   "D": "no es sujeto obligado, por ser persona jurídica privada."
+  },
+  "correcta": "A",
+  "explicacion": "El literal c del artículo 5 incluye como sujetos obligados a las personas privadas que presten servicios públicos, respecto de la información directamente relacionada con la prestación del servicio. No cubre toda su información, y la solicitud puede hacerla cualquier persona.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0003",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 6, lits. c y d",
+  "enunciado": "La información que, estando en poder de un sujeto obligado, pertenece al ámbito propio, particular y privado o semiprivado de una persona natural o jurídica, se denomina",
+  "opciones": {
+   "A": "información pública reservada.",
+   "B": "dato abierto.",
+   "C": "información pública de divulgación proactiva.",
+   "D": "información pública clasificada."
+  },
+  "correcta": "D",
+  "explicacion": "El literal c del artículo 6 define la información pública clasificada como la que pertenece al ámbito propio, particular, privado o semiprivado de una persona. La reservada es la exceptuada por daño a intereses públicos (art. 19).",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0004",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 22",
+  "enunciado": "La reserva de la información exceptuada por daño a los intereses públicos, como la defensa y seguridad nacional, no puede extenderse por un período mayor a",
+  "opciones": {
+   "A": "treinta años.",
+   "B": "cinco años.",
+   "C": "quince años.",
+   "D": "diez años."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 22 de la Ley 1712 de 2014 dispone que la reserva de las informaciones amparadas por el artículo 19 no deberá extenderse por un período mayor a quince años.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0005",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 21",
+  "enunciado": "Un documento contiene en su mayoría información pública y en una parte datos protegidos por reserva legal. El sujeto obligado debe",
+  "opciones": {
+   "A": "exigir al solicitante que justifique su interés.",
+   "B": "elaborar una versión pública que mantenga la reserva solo de la parte indispensable.",
+   "C": "negar la totalidad del documento.",
+   "D": "entregar el documento completo, porque prevalece la publicidad."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 21 ordena que, cuando no toda la información de un documento esté protegida, se haga una versión pública que mantenga la reserva únicamente de la parte indispensable y se entregue lo demás.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0006",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 21",
+  "enunciado": "Una entidad niega información sobre presuntas ejecuciones extrajudiciales invocando reserva legal. Según la Ley 1712 de 2014",
+  "opciones": {
+   "A": "las excepciones de acceso no aplican en casos de violación de derechos humanos o delitos de lesa humanidad.",
+   "B": "la información solo puede entregarse por orden de la Fiscalía.",
+   "C": "la reserva se levanta automáticamente a los cinco años.",
+   "D": "la reserva prevalece siempre sobre el interés de las víctimas."
+  },
+  "correcta": "A",
+  "explicacion": "El inciso tercero del artículo 21 dispone que las excepciones de acceso no aplican en casos de violación de derechos humanos o delitos de lesa humanidad, y que deben protegerse los derechos de las víctimas.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0007",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 25, parágrafo",
+  "enunciado": "Una solicitud de acceso a la información está redactada de forma confusa y no explica para qué se quiere la información. La entidad",
+  "opciones": {
+   "A": "debe responder solo si el solicitante acredita interés legítimo.",
+   "B": "debe rechazarla de plano por falta de motivación.",
+   "C": "puede exigir que se presente nuevamente por medio de abogado.",
+   "D": "no puede rechazarla por fundamentación inadecuada o incompleta."
+  },
+  "correcta": "D",
+  "explicacion": "El parágrafo del artículo 25 dispone que en ningún caso podrá rechazarse la petición por motivos de fundamentación inadecuada o incompleta. La solicitud puede ser oral o escrita, incluso por vía electrónica.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0008",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 26",
+  "enunciado": "Respecto del costo de la respuesta a una solicitud de acceso a información pública, la Ley 1712 de 2014 establece que",
+  "opciones": {
+   "A": "es gratuita solo para personas de estratos 1 y 2.",
+   "B": "la entidad puede cobrar una tarifa por el tiempo de búsqueda.",
+   "C": "será gratuita o sujeta a un costo que no supere el valor de la reproducción y envío.",
+   "D": "siempre tiene un costo fijado anualmente por el Ministerio de Hacienda."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 26 dispone que la respuesta será gratuita o sujeta a un costo que no supere el valor de la reproducción y envío, y que se preferirá la respuesta electrónica con consentimiento del solicitante.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0009",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 28",
+  "enunciado": "En una controversia sobre si cierta información debe permanecer reservada, la carga de probar que la reserva procede corresponde a",
+  "opciones": {
+   "A": "el sujeto obligado.",
+   "B": "el juez de tutela, de oficio.",
+   "C": "el solicitante.",
+   "D": "el Ministerio Público."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 28 asigna al sujeto obligado la carga de aportar las razones y pruebas que fundamenten que la información debe permanecer reservada o confidencial y su relación con un objetivo legítimo.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0010",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 23",
+  "enunciado": "La entidad encargada de velar por el adecuado cumplimiento de las obligaciones de la Ley 1712 de 2014 es",
+  "opciones": {
+   "A": "el Archivo General de la Nación, exclusivamente.",
+   "B": "la Superintendencia de Industria y Comercio.",
+   "C": "la Contraloría General de la República.",
+   "D": "el Ministerio Público."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 23 asigna al Ministerio Público velar por el cumplimiento de la ley, con base en la metodología que defina la Procuraduría. El Archivo General participa en estándares documentales, pero no tiene esa función de vigilancia.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0011",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 4, parágrafo",
+  "enunciado": "Una ciudadana teme represalias si pide información sobre contratos de su municipio. Según la Ley 1712 de 2014, puede",
+  "opciones": {
+   "A": "pedir a la Fiscalía que formule la solicitud en su nombre.",
+   "B": "solicitar ante el Ministerio Público el procedimiento especial de solicitud con identificación reservada.",
+   "C": "presentar la solicitud por medio de un concejal.",
+   "D": "pedir la información sin identificarse, y la entidad debe responder en el diario oficial."
+  },
+  "correcta": "B",
+  "explicacion": "El parágrafo del artículo 4 permite que, cuando el usuario considere que la solicitud pone en riesgo su integridad o la de su familia, solicite ante el Ministerio Público el procedimiento especial de solicitud con identificación reservada.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0012",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 27",
+  "enunciado": "Cuando la respuesta a una solicitud invoca la reserva de seguridad y defensa nacional o relaciones internacionales, el solicitante puede interponer recurso de reposición",
+  "opciones": {
+   "A": "únicamente de forma verbal ante el personero.",
+   "B": "dentro de los diez días siguientes, como en el CPACA.",
+   "C": "por escrito y sustentado en la diligencia de notificación o dentro de los tres días siguientes.",
+   "D": "dentro del mes siguiente a la respuesta."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 27 fija un término especial: el recurso de reposición se interpone por escrito y sustentado en la diligencia de notificación o dentro de los tres días siguientes; si se mantiene la reserva, el asunto se remite al juez para que decida.",
+  "dificultad": 3
+ },
+ {
+  "id": "tra-0013",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 29",
+  "enunciado": "Un funcionario destruye deliberadamente un informe después de que un ciudadano lo solicitó. Según la Ley 1712 de 2014, esa conducta",
+  "opciones": {
+   "A": "será sancionada en los términos del artículo 292 del Código Penal.",
+   "B": "se sanciona únicamente con multa administrativa.",
+   "C": "solo genera una amonestación escrita.",
+   "D": "no tiene consecuencias si el informe no era reservado."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 29 dispone que todo acto de ocultamiento, destrucción o alteración deliberada de información pública, una vez solicitada, será sancionado conforme al artículo 292 del Código Penal, además de las consecuencias disciplinarias.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0014",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 9",
+  "enunciado": "Es información mínima que todo sujeto obligado debe publicar de manera proactiva respecto de su estructura",
+  "opciones": {
+   "A": "las actas de las reuniones de defensa nacional.",
+   "B": "las estrategias de defensa judicial en procesos en curso.",
+   "C": "la descripción de su estructura orgánica, funciones, deberes y la ubicación de sus sedes y horarios de atención.",
+   "D": "las hojas de vida completas con datos de salud de sus servidores."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 9 obliga a publicar la estructura orgánica, funciones y deberes, sedes y horarios, entre otros. Los datos de salud son información clasificada y las estrategias de defensa judicial o de defensa nacional pueden ser reservadas.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0015",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 3",
+  "enunciado": "El principio de la Ley 1712 de 2014 según el cual la información debe publicarse de manera rutinaria y proactiva, sin esperar una solicitud, es el de",
+  "opciones": {
+   "A": "celeridad.",
+   "B": "gratuidad.",
+   "C": "no discriminación.",
+   "D": "divulgación proactiva de la información."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 3 consagra, entre otros, el principio de divulgación proactiva, que obliga a publicar información de interés público sin que medie solicitud. La gratuidad se refiere al costo y la no discriminación al trato igual a los solicitantes.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0016",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 3",
+  "enunciado": "Un exsecretario de Hacienda departamental, dos meses después de retirarse, quiere asesorar a una empresa privada en un asunto tributario que él mismo conoció en el cargo. Según el Estatuto Anticorrupción",
+  "opciones": {
+   "A": "puede hacerlo si informa a la entidad.",
+   "B": "le está prohibido, porque los exservidores no pueden gestionar intereses privados en asuntos relacionados con sus funciones durante los dos años siguientes al retiro.",
+   "C": "solo está prohibido si la empresa es contratista de la entidad.",
+   "D": "puede hacerlo libremente, porque ya no es servidor público."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 3 de la Ley 1474 de 2011 prohíbe a los exservidores, durante los dos años siguientes a la dejación del cargo, prestar servicios de asistencia, representación o asesoría en asuntos relacionados con las funciones propias del cargo o respecto de la entidad a la que prestaron servicios.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0017",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 73",
+  "enunciado": "Cada entidad del orden nacional, departamental y municipal debe elaborar anualmente una estrategia de lucha contra la corrupción y de atención al ciudadano, que incluye, entre otros,",
+  "opciones": {
+   "A": "el plan de compras de bienes de consumo.",
+   "B": "la lista de proveedores preferidos de la entidad.",
+   "C": "el plan de vacaciones de los servidores.",
+   "D": "el mapa de riesgos de corrupción y las medidas para mitigarlos."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 73 de la Ley 1474 de 2011 obliga a elaborar anualmente el plan anticorrupción y de atención al ciudadano, que contempla el mapa de riesgos de corrupción, las medidas para mitigarlos, las estrategias antitrámites y los mecanismos para mejorar la atención al ciudadano.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0018",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 76",
+  "enunciado": "Según el Estatuto Anticorrupción, en toda entidad pública debe existir por lo menos una dependencia encargada de",
+  "opciones": {
+   "A": "recibir, tramitar y resolver las quejas, sugerencias y reclamos de los ciudadanos relacionados con el cumplimiento de la misión de la entidad.",
+   "B": "realizar el control fiscal interno de la entidad.",
+   "C": "seleccionar al personal de carrera.",
+   "D": "adelantar los procesos penales contra servidores de la entidad."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 76 de la Ley 1474 de 2011 ordena que en toda entidad exista al menos una dependencia encargada de recibir, tramitar y resolver las quejas, sugerencias y reclamos de los ciudadanos. Los procesos penales son de la Fiscalía y el control fiscal, de las contralorías.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0019",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Código de Integridad del Servicio Público (DAFP, 2017); Decreto 1499 de 2017 (MIPG)",
+  "enunciado": "Son los valores del Código de Integridad del Servicio Público adoptado en el Modelo Integrado de Planeación y Gestión",
+  "opciones": {
+   "A": "austeridad, solidaridad, libertad, eficacia y celeridad.",
+   "B": "honestidad, respeto, compromiso, diligencia y justicia.",
+   "C": "lealtad, obediencia, disciplina, eficiencia y rentabilidad.",
+   "D": "legalidad, tipicidad, antijuridicidad, culpabilidad y punibilidad."
+  },
+  "correcta": "B",
+  "explicacion": "El Código de Integridad del Servicio Público, adoptado por el Departamento Administrativo de la Función Pública en el marco del MIPG, contempla cinco valores: honestidad, respeto, compromiso, diligencia y justicia; cada entidad puede agregar hasta dos valores propios.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0020",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 9",
+  "enunciado": "En las entidades de la Rama Ejecutiva del orden territorial, el jefe de la oficina de control interno es designado por",
+  "opciones": {
+   "A": "el concejo o la asamblea, para un período de dos años.",
+   "B": "la Contraloría territorial, por concurso.",
+   "C": "el respectivo gobernador o alcalde, para un período fijo de cuatro años.",
+   "D": "el Procurador General de la Nación."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 9 de la Ley 1474 de 2011 dispone que en el orden territorial el jefe de control interno es designado por el gobernador o alcalde para un período fijo de cuatro años, en la mitad del respectivo período del mandatario.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0021",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 2013 de 2019, arts. 1 y 2",
+  "enunciado": "La Ley 2013 de 2019 obliga a los servidores públicos y demás sujetos señalados a",
+  "opciones": {
+   "A": "renunciar a sus cuentas bancarias en el exterior.",
+   "B": "publicar sus historias clínicas.",
+   "C": "inscribirse en un partido político.",
+   "D": "publicar y divulgar su declaración de bienes y rentas, el registro de conflictos de interés y la declaración del impuesto sobre la renta."
+  },
+  "correcta": "D",
+  "explicacion": "La Ley 2013 de 2019 busca garantizar la transparencia mediante la publicación y divulgación de la declaración de bienes y rentas, el registro de conflictos de interés y la declaración del impuesto sobre la renta y complementarios de los sujetos obligados.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0022",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 18",
+  "enunciado": "Una alcaldía recibe la solicitud de copia de la historia laboral completa de un empleado, con sus datos de salud y de familia. Según la Ley 1712 de 2014, la entidad",
+  "opciones": {
+   "A": "debe consultar previamente al Ministerio Público.",
+   "B": "debe entregarla completa, porque todo dato de un servidor es público.",
+   "C": "puede negar motivadamente y por escrito el acceso a la información que dañe la intimidad del servidor, con las limitaciones propias de su condición de servidor público.",
+   "D": "debe negarla toda, incluso cargo y salario."
+  },
+  "correcta": "C",
+  "explicacion": "El literal a del artículo 18 permite negar motivadamente el acceso a información clasificada cuando pueda dañar el derecho a la intimidad, bajo las limitaciones que impone la condición de servidor público. Datos como el cargo y la remuneración son públicos.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0023",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 26",
+  "enunciado": "El término para responder una solicitud de acceso a información pública es el establecido en",
+  "opciones": {
+   "A": "el artículo 14 de la Ley 1437 de 2011, para peticiones de documentos e información.",
+   "B": "un reglamento interno que fije cada entidad.",
+   "C": "el Decreto 2591 de 1991.",
+   "D": "el Código General del Proceso para las pruebas documentales."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 26 de la Ley 1712 de 2014 remite a los términos del artículo 14 de la Ley 1437 de 2011, sustituido por la Ley 1755 de 2015, que fija diez días para peticiones de documentos e información.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0024",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 21",
+  "enunciado": "Una autoridad se niega a indicar siquiera si un documento solicitado obra en su poder. Según la Ley 1712 de 2014, ello solo es posible cuando",
+  "opciones": {
+   "A": "el documento tenga menos de un año de producido.",
+   "B": "el daño causado al interés protegido sea mayor al interés público de obtener acceso a la información.",
+   "C": "el jefe de la entidad lo considere conveniente.",
+   "D": "el solicitante no sea residente en el municipio."
+  },
+  "correcta": "B",
+  "explicacion": "El inciso segundo del artículo 21 dispone que ninguna autoridad puede negarse a indicar si un documento obra en su poder o negar su divulgación, salvo que el daño al interés protegido sea mayor al interés público de acceder a la información.",
+  "dificultad": 3
+ },
+ {
+  "id": "tra-0025",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 74",
+  "enunciado": "El fundamento constitucional directo del derecho de acceso a los documentos públicos es el artículo 74 de la Constitución, que dispone que",
+  "opciones": {
+   "A": "todas las personas tienen derecho a acceder a los documentos públicos salvo los casos que establezca la ley.",
+   "B": "el acceso requiere autorización judicial previa.",
+   "C": "los documentos públicos son reservados por diez años.",
+   "D": "solo los ciudadanos colombianos pueden acceder a documentos públicos."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 74 de la Constitución consagra el derecho de todas las personas a acceder a los documentos públicos, salvo los casos que establezca la ley, y declara inviolable el secreto profesional.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0026",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 19",
+  "enunciado": "Para que una entidad pueda negar el acceso a información pública reservada por daño a los intereses públicos, se requiere que",
+  "opciones": {
+   "A": "el jefe de la entidad declare la reserva mediante circular interna.",
+   "B": "el acceso esté expresamente prohibido por una norma legal o constitucional y la negativa sea motivada y por escrito.",
+   "C": "el documento haya sido marcado como confidencial por quien lo elaboró.",
+   "D": "el solicitante sea un medio de comunicación."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 19 permite rechazar el acceso de forma motivada y por escrito solo cuando el acceso esté expresamente prohibido por una norma legal o constitucional, en materias como defensa y seguridad nacional o seguridad pública. Una circular o una marca interna no crean reserva.",
+  "dificultad": 2
+ },
+ {
+  "id": "tra-0027",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1712 de 2014, art. 6, lit. j",
+  "enunciado": "Los datos primarios o sin procesar, en formatos estándar e interoperables, que se ponen a disposición de cualquier ciudadano de forma libre para su reutilización, son",
+  "opciones": {
+   "A": "datos semiprivados.",
+   "B": "documentos de archivo.",
+   "C": "datos abiertos.",
+   "D": "información clasificada."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 6 de la Ley 1712 de 2014 define los datos abiertos como datos primarios o sin procesar, en formatos estándar e interoperables, que se ponen a disposición de cualquier persona de forma libre y sin restricciones para su reutilización.",
+  "dificultad": 1
+ },
+ {
+  "id": "tra-0028",
+  "eje": "transparencia",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 4",
+  "enunciado": "Un exservidor que ejerció cargos de nivel directivo en una entidad quiere celebrar un contrato con esa misma entidad un año después de su retiro. Según el Estatuto Anticorrupción",
+  "opciones": {
+   "A": "puede contratar si la Procuraduría lo autoriza.",
+   "B": "puede contratar si participa en igualdad de condiciones.",
+   "C": "solo está inhabilitado durante seis meses.",
+   "D": "está inhabilitado, por haber ejercido cargo directivo en la entidad dentro de los dos años anteriores."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 4 de la Ley 1474 de 2011, que adicionó el artículo 8 de la Ley 80 de 1993, inhabilita para contratar con la entidad a quienes ejercieron cargos en el nivel directivo en ella durante los dos años siguientes a su retiro.",
+  "dificultad": 2
+ }
+]

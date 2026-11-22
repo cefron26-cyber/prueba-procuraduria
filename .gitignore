@@ -1,0 +1,6 @@
+# Material de referencia del Drive y normas convertidas: uso local, no se publica
+archivos de referencia/
+.claude/
+node_modules/
+*.tmp
+docs/drive-ids.md

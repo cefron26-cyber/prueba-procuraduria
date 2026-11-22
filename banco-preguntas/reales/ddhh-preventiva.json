@@ -1,0 +1,20 @@
+[
+ {
+  "id": "real-0002",
+  "eje": "ddhh-preventiva",
+  "nucleo": "especifico",
+  "origen": "real",
+  "tipo": "multiple",
+  "fuente": "Cartilla de pruebas escritas PGN 2015, Universidad de Antioquia, ejemplo de selección múltiple con múltiple respuesta (Drive: act_298581349-Cartilla-Procuraduria-concurso.md). C.P. arts. 11, 13, 18 y 22",
+  "enunciado": "El Alcalde debe cumplir con la cláusula general de competencia que lo obliga a velar por el cumplimiento de los fines del Estado Social de Derecho y por los derechos humanos en su municipio. De acuerdo con lo anterior, un Alcalde fue requerido por el Procurador ya que incumplió con este mandato constitucional, poniendo en riesgo los derechos\n\n1. a la vida y a la libertad.\n2. al medio ambiente y a la seguridad.\n3. a la paz y a la libertad de conciencia.\n4. a la institucionalidad y a la integralidad personal.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "Según la clave oficial, la vida (art. 11), la libertad (art. 28), la libertad de conciencia (art. 18) y la paz (art. 22) están consagradas en el capítulo 1 del título II de la Constitución, De los derechos fundamentales. Las demás combinaciones incluyen derechos colectivos o expresiones que no corresponden a derechos fundamentales.",
+  "dificultad": 2
+ }
+]

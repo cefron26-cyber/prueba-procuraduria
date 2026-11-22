@@ -1,0 +1,478 @@
+[
+ {
+  "id": "disc-0001",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 33 (modif. Ley 2094 de 2021, art. 7)",
+  "enunciado": "Un secretario de despacho municipal omitió el 10 de marzo de 2020 publicar un acto en el SECOP. Para efectos de la prescripción de la acción disciplinaria por una falta instantánea, el término general es de",
+  "opciones": {
+   "A": "cinco años contados desde que la entidad conoció la falta.",
+   "B": "tres años contados desde la apertura de la investigación.",
+   "C": "doce años contados desde el último acto.",
+   "D": "cinco años contados desde el día de su consumación."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 33 de la Ley 1952 de 2019, modificado por el artículo 7 de la Ley 2094 de 2021, fija en cinco años la prescripción; para faltas instantáneas se cuenta desde la consumación. Los doce años aplican solo a las faltas del artículo 52; el término no se cuenta desde la apertura ni desde el conocimiento de la entidad.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0002",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 33 (modif. Ley 2094 de 2021, art. 7)",
+  "enunciado": "En un proceso por desaparición forzada atribuida a un servidor público, falta prevista en el artículo 52 del Código General Disciplinario, la acción disciplinaria prescribe en",
+  "opciones": {
+   "A": "doce años.",
+   "B": "diez años.",
+   "C": "veinte años.",
+   "D": "cinco años."
+  },
+  "correcta": "A",
+  "explicacion": "Para las faltas del artículo 52 (infracciones al Derecho Internacional de los Derechos Humanos y al DIH) el término de prescripción es de doce años, según el inciso cuarto del artículo 33 modificado por la Ley 2094 de 2021. Cinco años es el término general; diez y veinte años no están previstos.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0003",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 33 (modif. Ley 2094 de 2021, art. 7)",
+  "enunciado": "Se notificó el fallo sancionatorio de primera instancia por una falta grave dolosa. Según el Código General Disciplinario, la prescripción",
+  "opciones": {
+   "A": "se interrumpe y se producirá si en tres años no se notifica la segunda instancia.",
+   "B": "se interrumpe y se producirá si en los dos años siguientes no se notifica la decisión de segunda instancia.",
+   "C": "se suspende hasta que quede en firme la sanción, sin límite de tiempo.",
+   "D": "vuelve a contarse por cinco años completos desde la notificación."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 33 dispone que la notificación del fallo de primera instancia interrumpe la prescripción y que esta se produce si transcurren dos años sin notificarse la segunda instancia. El plazo de tres años corresponde solo a las faltas del artículo 52; no hay suspensión indefinida ni reinicio por cinco años.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0004",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 29 (modif. Ley 2094 de 2021, art. 4)",
+  "enunciado": "Una profesional de una alcaldía firmó un acto sin revisar un requisito elemental que cualquier persona del común habría verificado, sin que exista ignorancia supina ni violación manifiesta de reglas. Su conducta corresponde a",
+  "opciones": {
+   "A": "culpa leve, no sancionable.",
+   "B": "dolo eventual.",
+   "C": "culpa grave.",
+   "D": "culpa gravísima."
+  },
+  "correcta": "C",
+  "explicacion": "Según el artículo 29, hay culpa grave cuando se incurre en falta por inobservancia del cuidado necesario que cualquier persona del común imprime a sus actuaciones. La culpa gravísima exige ignorancia supina, desatención elemental o violación manifiesta de reglas; la culpa leve no se sanciona, y el dolo requiere conocer y querer la falta.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0005",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 29 (modif. Ley 2094 de 2021, art. 4)",
+  "enunciado": "En materia disciplinaria, la culpa leve",
+  "opciones": {
+   "A": "solo es sancionable en faltas gravísimas.",
+   "B": "se sanciona con amonestación escrita.",
+   "C": "se sanciona con multa de diez a ciento ochenta días.",
+   "D": "no es sancionable."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 29 del Código General Disciplinario establece expresamente que la culpa leve no será sancionable; la culpa sancionable solo puede ser gravísima o grave. La amonestación escrita corresponde a faltas leves culposas, cometidas con culpa grave o gravísima, no a la culpa leve.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0006",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 28",
+  "enunciado": "Según el Código General Disciplinario, la conducta es dolosa cuando el sujeto disciplinable",
+  "opciones": {
+   "A": "actúa con desatención elemental de reglas de obligatorio cumplimiento.",
+   "B": "conoce los hechos constitutivos de falta, su ilicitud y quiere su realización.",
+   "C": "obtiene un beneficio económico con la conducta.",
+   "D": "infringe el deber objetivo de cuidado y debió prever el resultado."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 28 define el dolo con tres elementos: conocimiento de los hechos, conocimiento de la ilicitud y voluntad de realizarlos. La infracción del deber de cuidado y la desatención elemental describen la culpa (art. 29); el beneficio económico no hace parte de la definición.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0007",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 48 (modif. Ley 2094 de 2021, art. 9)",
+  "enunciado": "A un servidor se le comprueba una falta gravísima cometida con dolo. La sanción que corresponde es",
+  "opciones": {
+   "A": "destitución e inhabilidad general de ocho a diez años.",
+   "B": "suspensión de tres a dieciocho meses e inhabilidad especial.",
+   "C": "destitución e inhabilidad general de diez a veinte años.",
+   "D": "destitución e inhabilidad general de uno a veinte años."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 1 del artículo 48 asigna a las faltas gravísimas dolosas la destitución e inhabilidad general de diez a veinte años. De ocho a diez años corresponde a la culpa gravísima; la suspensión es para faltas graves, y el rango de uno a veinte años es propio de particulares (art. 73).",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0008",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 48 (modif. Ley 2094 de 2021, art. 9)",
+  "enunciado": "Para las faltas gravísimas realizadas con culpa gravísima, el Código General Disciplinario prevé",
+  "opciones": {
+   "A": "destitución e inhabilidad general de ocho a diez años.",
+   "B": "multa de diez a ciento ochenta días de salario.",
+   "C": "destitución e inhabilidad general de diez a veinte años.",
+   "D": "suspensión de uno a doce meses."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 2 del artículo 48 fija destitución e inhabilidad general de ocho a diez años para las faltas gravísimas con culpa gravísima. De diez a veinte años es para las dolosas; la suspensión de uno a doce meses es para faltas graves culposas y la multa para leves dolosas.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0009",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 48 (modif. Ley 2094 de 2021, art. 9)",
+  "enunciado": "Una falta grave cometida a título de dolo se sanciona con",
+  "opciones": {
+   "A": "suspensión en el ejercicio del cargo de tres a dieciocho meses e inhabilidad especial por el mismo término.",
+   "B": "suspensión de uno a doce meses sin inhabilidad.",
+   "C": "multa de diez a ciento ochenta días del salario básico.",
+   "D": "destitución e inhabilidad general de ocho a diez años."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 3 del artículo 48 prevé para las faltas graves dolosas suspensión de tres a dieciocho meses e inhabilidad especial por el mismo término. La suspensión de uno a doce meses es para las graves culposas; la multa para leves dolosas y la destitución para gravísimas.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0010",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 48 (modif. Ley 2094 de 2021, art. 9)",
+  "enunciado": "Una auxiliar de una personería incurre en una falta leve dolosa. La sanción aplicable es",
+  "opciones": {
+   "A": "amonestación escrita con registro en la hoja de vida.",
+   "B": "suspensión de uno a doce meses.",
+   "C": "multa de diez a ciento ochenta días del salario básico devengado para la época de los hechos.",
+   "D": "multa de diez a cien salarios mínimos mensuales."
+  },
+  "correcta": "C",
+  "explicacion": "Según el numeral 5 del artículo 48, la falta leve dolosa se sanciona con multa de diez a ciento ochenta días del salario básico. La amonestación escrita es para faltas leves culposas; la multa en salarios mínimos mensuales es propia de los particulares disciplinables (art. 73).",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0011",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 47 (modif. Ley 2094 de 2021, art. 8)",
+  "enunciado": "Un servidor realizó objetivamente una conducta descrita como falta gravísima, pero se probó que actuó con culpa grave. Según el Código General Disciplinario, la falta",
+  "opciones": {
+   "A": "será considerada falta leve.",
+   "B": "será considerada falta grave.",
+   "C": "no es sancionable por ausencia de dolo.",
+   "D": "conserva su calificación de gravísima."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 9 del artículo 47 dispone que la realización típica de una falta objetivamente gravísima cometida con culpa grave será considerada falta grave. No conserva la calificación de gravísima, no se degrada a leve y la culpa grave sí es sancionable.",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0012",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 47 (modif. Ley 2094 de 2021, art. 8)",
+  "enunciado": "Respecto de la clasificación de las faltas disciplinarias, es correcto afirmar que",
+  "opciones": {
+   "A": "la autoridad disciplinaria califica libremente cualquier falta como gravísima según su impacto.",
+   "B": "todas las faltas están enumeradas taxativamente, incluidas las leves.",
+   "C": "la gravedad depende solo del cargo del disciplinado.",
+   "D": "las faltas gravísimas están taxativamente señaladas en la ley y las graves o leves se determinan según criterios legales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 47 establece que las faltas gravísimas están taxativamente señaladas en la ley y que la gravedad o levedad de las demás se determina con criterios como la forma de culpabilidad, la jerarquía, la perturbación del servicio o la trascendencia social. La jerarquía es solo uno de esos criterios.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0013",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 50 (modif. Ley 2094 de 2021, art. 11)",
+  "enunciado": "Al graduar la sanción de un servidor, la autoridad disciplinaria encuentra que este confesó la falta y además reparó por iniciativa propia el perjuicio causado. Estas circunstancias son",
+  "opciones": {
+   "A": "irrelevantes, pues solo cuentan los antecedentes.",
+   "B": "atenuantes para fijar la sanción.",
+   "C": "causales de exclusión de responsabilidad.",
+   "D": "causales de extinción de la acción disciplinaria."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 50 incluye entre los atenuantes la confesión de la falta o aceptación de cargos y el resarcimiento del daño por iniciativa propia. No excluyen la responsabilidad (art. 31) ni extinguen la acción, cuyas causales son la muerte, la caducidad y la prescripción (art. 32).",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0014",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 50 (modif. Ley 2094 de 2021, art. 11)",
+  "enunciado": "Es un criterio agravante para graduar la sanción disciplinaria",
+  "opciones": {
+   "A": "pertenecer el servidor público al nivel directivo o ejecutivo de la entidad.",
+   "B": "haber aceptado los cargos en la etapa de investigación.",
+   "C": "la ausencia de antecedentes disciplinarios.",
+   "D": "haber devuelto el bien afectado con la conducta."
+  },
+  "correcta": "A",
+  "explicacion": "El literal f del numeral 2 del artículo 50 prevé como agravante pertenecer al nivel directivo o ejecutivo. La ausencia de antecedentes, la devolución del bien y la aceptación de cargos son atenuantes según el numeral 1 del mismo artículo.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0015",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 50 (modif. Ley 2094 de 2021, art. 11)",
+  "enunciado": "Para que una sanción de suspensión impuesta previamente opere como agravante, debe haberse impuesto dentro de los",
+  "opciones": {
+   "A": "dos años anteriores al fallo de primera instancia.",
+   "B": "tres años anteriores a la apertura de la investigación.",
+   "C": "diez años anteriores a la conducta investigada.",
+   "D": "cinco años anteriores a la comisión de la conducta investigada."
+  },
+  "correcta": "D",
+  "explicacion": "El literal a del numeral 2 del artículo 50 considera agravante haber sido sancionado fiscal o disciplinariamente dentro de los cinco años anteriores a la conducta. El plazo de tres años aplica solo a la multa y la amonestación.",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0016",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 32 (modif. Ley 2094 de 2021, art. 6)",
+  "enunciado": "Durante una investigación, el ciudadano que presentó la queja manifiesta por escrito que desiste de ella. La consecuencia es que",
+  "opciones": {
+   "A": "la acción se extingue y se archiva el proceso.",
+   "B": "la investigación se suspende hasta que el quejoso ratifique.",
+   "C": "la acción disciplinaria continúa, porque el desistimiento del quejoso no la extingue.",
+   "D": "el proceso pasa a la Personería por pérdida de competencia."
+  },
+  "correcta": "C",
+  "explicacion": "El parágrafo del artículo 32 dispone que el desistimiento del quejoso no extingue la acción disciplinaria. Las causales de extinción son taxativas: muerte del disciplinable, caducidad y prescripción.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0017",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 32 (modif. Ley 2094 de 2021, art. 6)",
+  "enunciado": "Es causal de extinción de la acción disciplinaria",
+  "opciones": {
+   "A": "el retiro del servicio del disciplinable.",
+   "B": "el pago voluntario de la multa.",
+   "C": "la muerte del disciplinable.",
+   "D": "la reparación integral del daño."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 32 enumera como causales de extinción la muerte del disciplinable, la caducidad y la prescripción. El retiro del servicio no impide la acción (art. 89), y la reparación del daño solo opera como atenuante.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0018",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, arts. 25 y 89",
+  "enunciado": "Un exfuncionario renunció hace un año y es investigado por hechos ocurridos durante su vinculación. Su defensa alega que ya no es destinatario de la ley disciplinaria. El argumento es",
+  "opciones": {
+   "A": "procedente, porque la acción solo cobija a servidores activos.",
+   "B": "procedente solo si la renuncia fue aceptada antes de la queja.",
+   "C": "improcedente solo si la falta es gravísima.",
+   "D": "improcedente, porque son destinatarios los servidores públicos aunque se encuentren retirados del servicio."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 25 dispone que son destinatarios los servidores públicos aunque estén retirados, y el artículo 89 señala que la acción procede aunque el servidor ya no ejerza funciones; si la sanción no puede cumplirse, se registra. No depende de la gravedad de la falta ni de la fecha de la renuncia.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0019",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 70",
+  "enunciado": "Una empresa privada presta un servicio público domiciliario sin que la ley o un contrato le atribuya prerrogativas exclusivas del Estado. Respecto del régimen disciplinario, sus empleados",
+  "opciones": {
+   "A": "no son disciplinables, salvo que en ejercicio de esas actividades desempeñen funciones públicas.",
+   "B": "son disciplinables por el solo hecho de prestar un servicio público.",
+   "C": "son disciplinables únicamente por faltas gravísimas.",
+   "D": "son disciplinables por la Superintendencia y no por la Procuraduría."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 70 señala que no son disciplinables los particulares que presten servicios públicos, salvo que en ejercicio de esas actividades desempeñen funciones públicas. La prestación de un servicio público no equivale por sí sola a ejercer función pública.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0020",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 70",
+  "enunciado": "Es sujeto disciplinable en su condición de particular",
+  "opciones": {
+   "A": "el accionista minoritario de una empresa contratista.",
+   "B": "el interventor de un contrato estatal de obra.",
+   "C": "el proveedor que vende papelería a una entidad.",
+   "D": "el ciudadano que presenta una queja disciplinaria."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 70 aplica el régimen a los particulares que ejerzan funciones públicas, administren recursos públicos, cumplan labores de interventoría o supervisión en contratos estatales y a los auxiliares de la justicia. El proveedor, el quejoso y el accionista no están en esos supuestos.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0021",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 73",
+  "enunciado": "Un particular que administraba recursos públicos fue hallado responsable de una falta que causó detrimento patrimonial. Además de la inhabilidad, la sanción patrimonial será",
+  "opciones": {
+   "A": "igual al valor exacto del detrimento.",
+   "B": "de cien a mil salarios mínimos mensuales.",
+   "C": "de diez a ciento ochenta días de salario.",
+   "D": "igual al doble del detrimento patrimonial sufrido por el Estado."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 73 prevé para particulares multa de 10 a 100 salarios mínimos mensuales y, cuando la conducta implique detrimento del patrimonio público, una sanción patrimonial igual al doble del detrimento. Los días de salario corresponden a servidores públicos (art. 48).",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0022",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 31 (modif. Ley 2094 de 2021, art. 5)",
+  "enunciado": "Un servidor incumplió un plazo porque un deslizamiento de tierra, imprevisible e irresistible, destruyó la sede y los equipos. En materia disciplinaria",
+  "opciones": {
+   "A": "no hay responsabilidad, por fuerza mayor.",
+   "B": "responde a título de culpa grave.",
+   "C": "la acción se extingue por caducidad.",
+   "D": "solo procede una amonestación verbal."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 1 del artículo 31 excluye la responsabilidad disciplinaria cuando la conducta se realiza por fuerza mayor. No es un caso de culpa ni de extinción de la acción, y la amonestación verbal no existe como sanción en el Código.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0023",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 31, num. 8 (modif. Ley 2094 de 2021, art. 5)",
+  "enunciado": "Un servidor actuó con la convicción errada de que su conducta no era falta, pero el error de hecho era vencible. Si la falta admite la modalidad culposa, se sancionará",
+  "opciones": {
+   "A": "con la mitad de la sanción dolosa.",
+   "B": "a título de culpa.",
+   "C": "con amonestación escrita en todo caso.",
+   "D": "a título de dolo, sin reducción."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 8 del artículo 31 señala que si el error de hecho fuere vencible se sancionará la conducta a título de culpa, siempre que la falta admita esa modalidad. La reducción a la mitad corresponde al error de derecho vencible.",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0024",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 9 (modif. Ley 2094 de 2021, art. 2)",
+  "enunciado": "Según el Código General Disciplinario, la conducta del disciplinable es ilícita cuando",
+  "opciones": {
+   "A": "coincide con una descripción típica de la ley penal.",
+   "B": "contraría cualquier reglamento interno, aunque no afecte el servicio.",
+   "C": "afecta sustancialmente el deber funcional sin justificación alguna.",
+   "D": "causa un daño patrimonial cuantificable a la entidad."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 9 define la ilicitud sustancial como la afectación sustancial del deber funcional sin justificación. No exige daño patrimonial ni tipicidad penal, y la sola infracción formal de un reglamento no basta si no afecta sustancialmente el deber funcional.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0025",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 44",
+  "enunciado": "Un profesional de una entidad debe evaluar las propuestas de una licitación en la que participa una sociedad de la que su hermano es socio. Conforme al Código General Disciplinario, debe",
+  "opciones": {
+   "A": "declararse impedido, porque existe conflicto de intereses.",
+   "B": "informar al comité solo si la sociedad resulta adjudicataria.",
+   "C": "continuar, pues el parentesco entre hermanos no genera impedimento.",
+   "D": "evaluar la propuesta con mayor rigor para evitar sospechas."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 44 obliga a declararse impedido cuando el servidor o sus parientes dentro del cuarto grado de consanguinidad tengan interés particular y directo en el asunto. Un hermano es pariente en segundo grado de consanguinidad, por lo que debe apartarse antes de actuar.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0026",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 54, num. 5",
+  "enunciado": "El alcalde de un municipio declaró la urgencia manifiesta para contratar el mantenimiento rutinario de vías, sin que existiera ninguna de las causales previstas en la ley. Esta conducta está descrita como",
+  "opciones": {
+   "A": "conducta atípica, porque la urgencia la declara el representante legal.",
+   "B": "falta leve, porque se trata de una decisión discrecional.",
+   "C": "falta gravísima relacionada con la contratación pública.",
+   "D": "falta grave relacionada con el servicio."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 5 del artículo 54 tipifica como falta gravísima aplicar la urgencia manifiesta para la celebración de contratos sin existir las causales previstas en la ley. Ser el representante legal no autoriza a declararla sin causal.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0027",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 54, num. 6",
+  "enunciado": "La supervisora de un contrato certificó como recibida a satisfacción una obra que no había sido ejecutada a cabalidad. Según el Código General Disciplinario, incurre en",
+  "opciones": {
+   "A": "ninguna falta, si el contratista termina la obra después.",
+   "B": "falta grave por descuido administrativo.",
+   "C": "una irregularidad que solo genera responsabilidad fiscal.",
+   "D": "falta gravísima relacionada con la contratación pública."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 6 del artículo 54 describe como falta gravísima que el supervisor o interventor certifique como recibida a satisfacción obra no ejecutada a cabalidad. La responsabilidad disciplinaria es independiente de la fiscal y la terminación posterior no borra la falta.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0028",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 60, num. 2",
+  "enunciado": "Un jefe de oficina presiona a sus subalternos para que asistan a eventos de la campaña de un candidato a la alcaldía. Esta conducta constituye",
+  "opciones": {
+   "A": "ejercicio legítimo del derecho al voto.",
+   "B": "falta gravísima relacionada con la intervención en política.",
+   "C": "falta leve si los eventos son fuera del horario laboral.",
+   "D": "conducta sancionable solo por el Consejo Nacional Electoral."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 2 del artículo 60 tipifica como falta gravísima utilizar el empleo para presionar a particulares o subalternos a respaldar una causa o campaña política. No importa el horario y su conocimiento corresponde a las autoridades disciplinarias.",
+  "dificultad": 1
+ }
+]

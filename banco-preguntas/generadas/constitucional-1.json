@@ -1,0 +1,478 @@
+[
+ {
+  "id": "cons-0001",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 1",
+  "enunciado": "Según el artículo 1 de la Constitución, Colombia es un Estado social de derecho organizado en forma de",
+  "opciones": {
+   "A": "república federal, con estados autónomos.",
+   "B": "república unitaria, descentralizada, con autonomía de sus entidades territoriales.",
+   "C": "república unitaria y centralizada, sin autonomía territorial.",
+   "D": "confederación de departamentos con autonomía legislativa."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 1 define a Colombia como Estado social de derecho, organizado en forma de república unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participativa y pluralista. No es federal ni confederada, y la descentralización excluye el centralismo absoluto.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0002",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 4",
+  "enunciado": "Una ordenanza departamental contradice de manera directa un artículo de la Constitución. Según el artículo 4 de la Carta, la autoridad que debe aplicarla en un caso concreto",
+  "opciones": {
+   "A": "debe aplicar la ordenanza mientras no sea anulada.",
+   "B": "debe consultar previamente al Consejo de Estado.",
+   "C": "debe suspender la actuación hasta que la Corte Constitucional se pronuncie.",
+   "D": "debe aplicar de preferencia las disposiciones constitucionales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 4 establece que la Constitución es norma de normas y que, en caso de incompatibilidad con la ley u otra norma jurídica, se aplicarán las disposiciones constitucionales. Es la excepción de inconstitucionalidad, que no exige consulta previa ni suspensión.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0003",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 6",
+  "enunciado": "Según el artículo 6 de la Constitución, los servidores públicos son responsables",
+  "opciones": {
+   "A": "por infringir la Constitución y las leyes y por omisión o extralimitación en el ejercicio de sus funciones.",
+   "B": "exclusivamente ante sus superiores jerárquicos.",
+   "C": "solo por infringir la Constitución y las leyes.",
+   "D": "únicamente por las omisiones que causen daño patrimonial."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 6 señala que los particulares solo responden por infringir la Constitución y las leyes, mientras que los servidores públicos responden por la misma causa y además por omisión o extralimitación en el ejercicio de sus funciones.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0004",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 86; Decreto 2591 de 1991, art. 6",
+  "enunciado": "Un ciudadano interpone tutela para obtener el pago de una suma de dinero derivada de un contrato con una entidad, aunque tiene a su alcance la acción contractual y no existe perjuicio irremediable. El juez debe",
+  "opciones": {
+   "A": "tramitarla como acción de cumplimiento.",
+   "B": "remitirla a la Procuraduría para conciliación.",
+   "C": "declararla improcedente, por existir otro medio de defensa judicial idóneo.",
+   "D": "concederla, porque toda deuda estatal afecta derechos fundamentales."
+  },
+  "correcta": "C",
+  "explicacion": "La tutela es subsidiaria: según el artículo 86 de la Constitución y el artículo 6 del Decreto 2591 de 1991, solo procede cuando el afectado no dispone de otro medio de defensa judicial, salvo como mecanismo transitorio para evitar un perjuicio irremediable.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0005",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 86",
+  "enunciado": "El juez debe resolver una acción de tutela en un término máximo de",
+  "opciones": {
+   "A": "cinco días.",
+   "B": "quince días hábiles.",
+   "C": "treinta días.",
+   "D": "diez días."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 86 de la Constitución dispone que en ningún caso podrán transcurrir más de diez días entre la solicitud de tutela y su resolución. El fallo puede impugnarse ante el juez competente y se remite a la Corte Constitucional para eventual revisión.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0006",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 87; Ley 393 de 1997",
+  "enunciado": "Un municipio se niega a aplicar una ley que le ordena destinar un porcentaje de sus ingresos a un fondo específico. El mecanismo constitucional para exigir el cumplimiento de esa ley es",
+  "opciones": {
+   "A": "la acción de tutela.",
+   "B": "la acción de cumplimiento.",
+   "C": "la acción popular.",
+   "D": "la acción de nulidad por inconstitucionalidad."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 87 de la Constitución, desarrollado por la Ley 393 de 1997, consagra la acción de cumplimiento para que toda persona exija ante la autoridad judicial el cumplimiento de una ley o un acto administrativo. La tutela protege derechos fundamentales y la popular, derechos colectivos.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0007",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 88; Ley 472 de 1998",
+  "enunciado": "Los habitantes de un barrio quieren proteger el espacio público invadido por construcciones ilegales. La acción que procede es",
+  "opciones": {
+   "A": "la acción de tutela de cada propietario.",
+   "B": "la acción de cumplimiento contra los invasores.",
+   "C": "la acción popular, para la protección de derechos e intereses colectivos.",
+   "D": "la acción de grupo, para obtener una indemnización individual."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 88 de la Constitución y la Ley 472 de 1998 regulan la acción popular para proteger derechos e intereses colectivos como el espacio público. La acción de grupo busca indemnizar perjuicios a un número plural de personas, y la tutela protege derechos fundamentales.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0008",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 93",
+  "enunciado": "Los tratados y convenios internacionales ratificados por el Congreso que reconocen derechos humanos y prohíben su limitación en estados de excepción",
+  "opciones": {
+   "A": "prevalecen en el orden interno y hacen parte del bloque de constitucionalidad.",
+   "B": "tienen rango inferior a las leyes estatutarias.",
+   "C": "tienen rango de ley ordinaria.",
+   "D": "solo obligan si son reglamentados por decreto."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 93 dispone que esos tratados prevalecen en el orden interno y que los derechos y deberes se interpretan de conformidad con ellos. La Corte Constitucional ha precisado que integran el bloque de constitucionalidad.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0009",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 23; Ley 1755 de 2015",
+  "enunciado": "El derecho de petición, según la Constitución, permite presentar peticiones respetuosas a las autoridades",
+  "opciones": {
+   "A": "siempre que se presenten por escrito y con abogado.",
+   "B": "únicamente para solicitar documentos.",
+   "C": "por motivos de interés general o particular y obtener pronta resolución.",
+   "D": "solo por motivos de interés particular."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 23 de la Constitución consagra el derecho a presentar peticiones respetuosas por motivos de interés general o particular y a obtener pronta resolución. La Ley 1755 de 2015 permite presentarlas verbalmente o por escrito, sin necesidad de abogado.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0010",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 113",
+  "enunciado": "Son ramas del poder público según el artículo 113 de la Constitución",
+  "opciones": {
+   "A": "la legislativa, la ejecutiva y la judicial.",
+   "B": "la ejecutiva, la judicial y la electoral.",
+   "C": "la legislativa, la ejecutiva y el Ministerio Público.",
+   "D": "la legislativa, la ejecutiva, la judicial y la de control."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 113 señala como ramas del poder público la legislativa, la ejecutiva y la judicial; además existen otros órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y la organización electoral, que no son ramas.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0011",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 117",
+  "enunciado": "Son órganos de control según la Constitución",
+  "opciones": {
+   "A": "la Contraloría y la Auditoría General únicamente.",
+   "B": "el Ministerio Público y la Contraloría General de la República.",
+   "C": "la Fiscalía General y la Procuraduría.",
+   "D": "la Registraduría y el Consejo Nacional Electoral."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 117 establece que el Ministerio Público y la Contraloría General de la República son órganos de control. La Fiscalía pertenece a la Rama Judicial y la Registraduría y el CNE integran la organización electoral.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0012",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 121",
+  "enunciado": "Una autoridad territorial expide un acto sobre una materia que ninguna norma le atribuye. Según la Constitución",
+  "opciones": {
+   "A": "las autoridades pueden ejercer funciones implícitas si son útiles al interés general.",
+   "B": "basta que el acto no esté prohibido expresamente.",
+   "C": "el acto es válido si lo ratifica el concejo municipal.",
+   "D": "ninguna autoridad del Estado podrá ejercer funciones distintas de las que le atribuyen la Constitución y la ley."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 121 consagra el principio de legalidad de la función pública: ninguna autoridad podrá ejercer funciones distintas de las que le atribuyen la Constitución y la ley. A diferencia de los particulares, el servidor solo puede hacer lo que la norma le permite.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0013",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 122",
+  "enunciado": "Antes de tomar posesión de un cargo público, todo servidor debe",
+  "opciones": {
+   "A": "prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben.",
+   "B": "obtener aprobación del Congreso.",
+   "C": "inscribirse en la carrera administrativa.",
+   "D": "presentar únicamente el certificado de antecedentes fiscales."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 122 dispone que ningún servidor entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben; también exige declarar bajo juramento el monto de sus bienes y rentas cuando la ley lo ordene.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0014",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 125",
+  "enunciado": "Según el artículo 125 de la Constitución, los empleos en los órganos y entidades del Estado",
+  "opciones": {
+   "A": "son de período fijo de cuatro años.",
+   "B": "se proveen por sorteo entre los aspirantes que cumplan requisitos.",
+   "C": "son de carrera, salvo los de elección popular, libre nombramiento y remoción, trabajadores oficiales y los demás que determine la ley.",
+   "D": "son de libre nombramiento, salvo los del nivel técnico."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 125 establece la carrera como regla general y enumera las excepciones: elección popular, libre nombramiento y remoción, trabajadores oficiales y los demás que determine la ley. El ingreso y ascenso en carrera se hacen por méritos.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0015",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 125",
+  "enunciado": "Según la Constitución, el retiro de un empleado de carrera se produce",
+  "opciones": {
+   "A": "por decisión discrecional del nominador.",
+   "B": "por cambio de gobierno.",
+   "C": "solo por pensión de jubilación.",
+   "D": "por calificación no satisfactoria del desempeño, violación del régimen disciplinario y las demás causales previstas en la Constitución o la ley."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 125 dispone que el retiro se hará por calificación no satisfactoria, violación del régimen disciplinario y demás causales previstas en la Constitución o la ley, y que la filiación política no puede determinar nombramiento, ascenso ni remoción.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0016",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 127",
+  "enunciado": "Un profesional universitario de carrera de una alcaldía quiere asistir a la reunión de un partido político y votar en las elecciones. Según el artículo 127 de la Constitución",
+  "opciones": {
+   "A": "puede participar libremente en campañas si lo hace fuera de la jornada laboral.",
+   "B": "puede votar, pero no puede tomar parte en las actividades de los partidos ni en las controversias políticas, salvo lo que autorice la ley estatutaria.",
+   "C": "puede participar en política solo si pide licencia no remunerada.",
+   "D": "tiene prohibido incluso votar mientras sea servidor público."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 127 prohíbe a los empleados del Estado que se desempeñen en la Rama Judicial, en órganos electorales, de control y de seguridad, tomar parte en actividades de partidos; a los demás empleados solo se les permite participar en las condiciones que señale la ley estatutaria. El voto es un derecho que conservan.",
+  "dificultad": 3
+ },
+ {
+  "id": "cons-0017",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 128",
+  "enunciado": "Una servidora pública de planta es contratada además como docente de cátedra en una universidad pública. Según el artículo 128 de la Constitución",
+  "opciones": {
+   "A": "la prohibición solo cobija a los empleados de carrera.",
+   "B": "nadie puede desempeñar simultáneamente más de un empleo público ni recibir más de una asignación del tesoro público, salvo los casos expresamente determinados por la ley.",
+   "C": "siempre puede recibir dos asignaciones si las jornadas no coinciden.",
+   "D": "la prohibición solo aplica a cargos de elección popular."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 128 prohíbe desempeñar simultáneamente más de un empleo público o recibir más de una asignación del tesoro, salvo los casos que la ley determine. La ley contempla excepciones, como ciertas horas de cátedra, por lo que la conducta depende de que encaje en ellas.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0018",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 209",
+  "enunciado": "Según el artículo 209 de la Constitución, la función administrativa está al servicio de los intereses generales y se desarrolla con fundamento en los principios de",
+  "opciones": {
+   "A": "igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad.",
+   "B": "legalidad, tipicidad, culpabilidad y proporcionalidad.",
+   "C": "oralidad, concentración e inmediación.",
+   "D": "libre competencia, rentabilidad y autonomía de la voluntad."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 209 enumera los principios de la función administrativa: igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad, mediante la descentralización, delegación y desconcentración. Los demás son principios del derecho sancionador, del proceso oral y del mercado.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0019",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 211",
+  "enunciado": "Un ministro delega en un viceministro la firma de ciertos contratos. Según el artículo 211 de la Constitución, la delegación",
+  "opciones": {
+   "A": "requiere autorización previa del Congreso en cada caso.",
+   "B": "mantiene la responsabilidad exclusiva del delegante.",
+   "C": "impide al delegante revisar los actos del delegatario.",
+   "D": "exime de responsabilidad al delegante, la cual corresponde exclusivamente al delegatario, cuyos actos podrá reformar o revocar aquel."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 211 dispone que la delegación exime de responsabilidad al delegante, que corresponde exclusivamente al delegatario, y que el delegante puede reformar o revocar los actos de este, reasumiendo la responsabilidad. La jurisprudencia ha matizado que el delegante conserva deberes de control.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0020",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 241",
+  "enunciado": "A la Corte Constitucional le corresponde decidir sobre las demandas de inconstitucionalidad que promuevan los ciudadanos contra",
+  "opciones": {
+   "A": "los actos administrativos de carácter particular.",
+   "B": "los decretos reglamentarios ordinarios.",
+   "C": "las leyes, tanto por su contenido material como por vicios de procedimiento en su formación.",
+   "D": "las resoluciones de los ministerios."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 4 del artículo 241 asigna a la Corte decidir sobre las demandas ciudadanas contra las leyes, por vicios de contenido o de procedimiento. Los decretos reglamentarios y actos administrativos se controlan ante el Consejo de Estado o la jurisdicción contencioso administrativa.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0021",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 237",
+  "enunciado": "Para controvertir un decreto del Gobierno Nacional cuya competencia no corresponda a la Corte Constitucional, el ciudadano debe acudir a",
+  "opciones": {
+   "A": "la Corte Suprema de Justicia, en casación.",
+   "B": "la Procuraduría General, mediante queja.",
+   "C": "el Congreso, mediante moción de censura.",
+   "D": "el Consejo de Estado, mediante acción de nulidad por inconstitucionalidad."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 2 del artículo 237 atribuye al Consejo de Estado conocer de las acciones de nulidad por inconstitucionalidad de los decretos del Gobierno cuya competencia no corresponda a la Corte Constitucional.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0022",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 152",
+  "enunciado": "Debe tramitarse como ley estatutaria la regulación de",
+  "opciones": {
+   "A": "los derechos y deberes fundamentales y los procedimientos y recursos para su protección.",
+   "B": "el presupuesto general de la Nación.",
+   "C": "el régimen de contratación estatal.",
+   "D": "los códigos en todas las ramas de la legislación."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 152 reserva a la ley estatutaria, entre otras materias, los derechos y deberes fundamentales y sus procedimientos y recursos de protección, la administración de justicia, los partidos, los mecanismos de participación y los estados de excepción. El presupuesto es materia orgánica y los códigos son leyes ordinarias.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0023",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, arts. 103 y 104",
+  "enunciado": "Son mecanismos de participación del pueblo en ejercicio de su soberanía, según el artículo 103 de la Constitución",
+  "opciones": {
+   "A": "el derecho de petición y la queja disciplinaria.",
+   "B": "la acción de tutela, la acción popular y la acción de grupo.",
+   "C": "el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato.",
+   "D": "la moción de censura y la pérdida de investidura."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 103 enumera los mecanismos de participación ciudadana: voto, plebiscito, referendo, consulta popular, cabildo abierto, iniciativa legislativa y revocatoria del mandato. Las acciones judiciales y los mecanismos de control político son instituciones distintas.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0024",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 29",
+  "enunciado": "Según el artículo 29 de la Constitución, la prueba obtenida con violación del debido proceso",
+  "opciones": {
+   "A": "es válida si resulta determinante para la decisión.",
+   "B": "es nula de pleno derecho.",
+   "C": "solo puede valorarse en procesos disciplinarios.",
+   "D": "se convalida si el afectado no la objeta en cinco días."
+  },
+  "correcta": "B",
+  "explicacion": "El último inciso del artículo 29 dispone que es nula, de pleno derecho, la prueba obtenida con violación del debido proceso. Esta garantía aplica a toda clase de actuaciones judiciales y administrativas, incluidas las disciplinarias.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0025",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 90",
+  "enunciado": "El Estado es condenado a reparar un daño antijurídico causado por la conducta dolosa de un servidor. Según el artículo 90 de la Constitución, el Estado",
+  "opciones": {
+   "A": "solo puede pedir sanción disciplinaria.",
+   "B": "debe esperar a que el servidor sea condenado penalmente para pagar.",
+   "C": "deberá repetir contra el servidor.",
+   "D": "no puede recuperar lo pagado."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 90 establece que el Estado responde patrimonialmente por los daños antijurídicos imputables a la acción u omisión de las autoridades y que, si es condenado por un daño consecuencia de la conducta dolosa o gravemente culposa de un agente, deberá repetir contra este.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0026",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 13",
+  "enunciado": "Una entidad adopta medidas de acceso preferente a sus programas para personas en situación de discapacidad. Según el artículo 13 de la Constitución, estas medidas",
+  "opciones": {
+   "A": "son compatibles con la igualdad, porque el Estado debe adoptar medidas a favor de grupos discriminados o marginados.",
+   "B": "solo son válidas si las ordena un juez de tutela.",
+   "C": "requieren una reforma constitucional previa.",
+   "D": "violan la igualdad formal y deben suprimirse."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 13 consagra la igualdad material: el Estado promoverá las condiciones para que la igualdad sea real y efectiva y adoptará medidas en favor de grupos discriminados o marginados, protegiendo especialmente a quienes están en circunstancia de debilidad manifiesta.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0027",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, arts. 212 a 215",
+  "enunciado": "Los estados de excepción previstos en la Constitución son",
+  "opciones": {
+   "A": "guerra exterior y estado de sitio.",
+   "B": "guerra exterior, conmoción interior y emergencia económica, social y ecológica.",
+   "C": "estado de sitio, toque de queda y ley marcial.",
+   "D": "emergencia sanitaria, calamidad pública y conmoción interior."
+  },
+  "correcta": "B",
+  "explicacion": "Los artículos 212, 213 y 215 regulan los estados de guerra exterior, conmoción interior y emergencia económica, social y ecológica. El estado de sitio fue una figura de la Constitución de 1886.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0028",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 214",
+  "enunciado": "Durante los estados de excepción",
+  "opciones": {
+   "A": "se suspende el funcionamiento del Congreso.",
+   "B": "los decretos legislativos no tienen control de constitucionalidad.",
+   "C": "el Gobierno puede suspender la acción de tutela.",
+   "D": "no podrán suspenderse los derechos humanos ni las libertades fundamentales y se respetarán las reglas del derecho internacional humanitario."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 214 dispone que en los estados de excepción no podrán suspenderse los derechos humanos ni las libertades fundamentales, se respetarán las reglas del DIH, no se interrumpirá el funcionamiento de las ramas del poder y la Corte Constitucional ejercerá control automático sobre los decretos legislativos.",
+  "dificultad": 2
+ }
+]
