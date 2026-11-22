@@ -1,0 +1,482 @@
+[
+ {
+  "id": "disc-0029",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 8",
+  "enunciado": "Una ley posterior reduce la sanción prevista para una falta por la que un servidor está cumpliendo suspensión. Según el principio de favorabilidad",
+  "opciones": {
+   "A": "solo se aplica si el sancionado renuncia al cargo.",
+   "B": "no procede porque la sanción ya está en firme.",
+   "C": "la ley favorable se aplica también a quien está cumpliendo la sanción.",
+   "D": "solo se aplica a las investigaciones iniciadas después de la nueva ley."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 8 de la Ley 1952 de 2019 dispone que la ley permisiva o favorable, aun posterior, se aplica de preferencia, y que este principio rige también para quien esté cumpliendo la sanción.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0030",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 10",
+  "enunciado": "Un jefe de oficina es investigado solo porque una falta ocurrió en su dependencia, sin prueba de que haya actuado con dolo o culpa. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "no puede sancionarse, porque está proscrita toda forma de responsabilidad objetiva.",
+   "B": "responde objetivamente por ser el jefe.",
+   "C": "responde con amonestación por posición de garante.",
+   "D": "responde si la falta es gravísima."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 10 de la Ley 1952 de 2019 establece que solo se sancionan conductas realizadas con culpabilidad, a título de dolo o culpa, y que queda proscrita toda forma de responsabilidad objetiva.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0031",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 14",
+  "enunciado": "Al valorar las pruebas, el funcionario tiene una duda razonable sobre la responsabilidad del disciplinable que no es posible eliminar. Debe",
+  "opciones": {
+   "A": "imponer la sanción mínima.",
+   "B": "suspender el proceso hasta que surjan nuevas pruebas.",
+   "C": "resolverla a favor del disciplinable.",
+   "D": "trasladar la carga de la prueba al disciplinable."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 14 de la Ley 1952 de 2019 consagra la presunción de inocencia y ordena resolver toda duda razonable a favor del sujeto disciplinable cuando no haya modo de eliminarla.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0032",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 16",
+  "enunciado": "Un servidor fue absuelto mediante fallo ejecutoriado por unos hechos. Meses después, otra autoridad disciplinaria quiere investigarlo por los mismos hechos. Según el Código",
+  "opciones": {
+   "A": "puede investigarse si el fallo absolutorio fue de primera instancia.",
+   "B": "puede investigarse nuevamente si aparecen pruebas nuevas.",
+   "C": "puede investigarse si la nueva autoridad es de mayor jerarquía.",
+   "D": "no puede ser sometido a nueva investigación por los mismos hechos, sin perjuicio de la revocatoria directa en los casos legales."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 16 de la Ley 1952 de 2019 consagra la cosa juzgada disciplinaria: quien tiene su situación decidida en fallo ejecutoriado no será sometido a nueva investigación por los mismos hechos, sin perjuicio de la revocatoria directa.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0033",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 21",
+  "enunciado": "En un proceso disciplinario se incorpora una grabación obtenida interceptando ilegalmente el teléfono del investigado, y con base en ella se halló un documento. Según la cláusula de exclusión",
+  "opciones": {
+   "A": "la grabación es nula de pleno derecho y también deben excluirse las pruebas derivadas, salvo excepciones como la fuente independiente.",
+   "B": "la exclusión depende de que el investigado la solicite.",
+   "C": "la grabación es válida si demuestra la falta.",
+   "D": "solo se excluye la grabación, pero el documento derivado se valora siempre."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 21 de la Ley 1952 de 2019 dispone que la prueba obtenida con violación de derechos fundamentales es nula de pleno derecho, al igual que las que sean su consecuencia, con las excepciones de fuente independiente, vínculo atenuado y descubrimiento inevitable.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0034",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 3",
+  "enunciado": "Una oficina de control interno disciplinario adelanta una investigación contra un director. Respecto de ese proceso, la Procuraduría General",
+  "opciones": {
+   "A": "debe pedir permiso al jefe de la entidad para asumirlo.",
+   "B": "no puede intervenir mientras la oficina no termine.",
+   "C": "solo puede revisar el fallo mediante tutela.",
+   "D": "puede iniciarlo, proseguirlo o remitirlo en ejercicio de su poder disciplinario preferente, e incluso asumirlo en segunda instancia."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 3 de la Ley 1952 de 2019 atribuye a la Procuraduría el ejercicio preferente del poder disciplinario, en cuyo desarrollo puede iniciar, proseguir o remitir cualquier investigación de las oficinas de control interno y personerías, y asumir el proceso en segunda instancia.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0035",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 30",
+  "enunciado": "Un jefe induce a un subalterno a omitir un trámite obligatorio, y el subalterno lo omite. Según el Código General Disciplinario, el jefe",
+  "opciones": {
+   "A": "no responde, porque no ejecutó la conducta.",
+   "B": "es autor, porque es autor quien realiza la falta o determina a otro a realizarla.",
+   "C": "responde solo como cómplice con sanción reducida.",
+   "D": "responde solo si el subalterno es absuelto."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 30 de la Ley 1952 de 2019 dispone que es autor quien realice la falta o determine a otro a realizarla, aun cuando los efectos se produzcan después de la dejación del cargo.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0036",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 34",
+  "enunciado": "Un disciplinable cuya acción ya prescribió quiere que se demuestre su inocencia y renuncia a la prescripción. En ese caso, la acción",
+  "opciones": {
+   "A": "puede proseguirse indefinidamente.",
+   "B": "se reinicia con un nuevo término de cinco años.",
+   "C": "solo puede proseguirse por un máximo de dos años desde la presentación personal de la solicitud.",
+   "D": "no puede proseguirse porque la prescripción es irrenunciable."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 34 de la Ley 1952 de 2019 permite renunciar a la prescripción; en ese caso la acción solo puede proseguirse por dos años contados desde la presentación personal de la solicitud, vencidos los cuales se declara la prescripción.",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0037",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 36",
+  "enunciado": "La sanción disciplinaria impuesta mediante fallo ejecutoriado prescribe en",
+  "opciones": {
+   "A": "un año contado desde la ejecutoria.",
+   "B": "tres años contados desde la notificación.",
+   "C": "cinco años contados a partir de la ejecutoria del fallo.",
+   "D": "diez años contados desde la comisión de la falta."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 36 de la Ley 1952 de 2019 establece que la sanción disciplinaria prescribe en cinco años contados a partir de la ejecutoria del fallo; cumplidas la destitución o la suspensión con inhabilidad, la rehabilitación es automática, salvo lo dispuesto en la Constitución.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0038",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 35",
+  "enunciado": "Son causales de extinción de la sanción disciplinaria",
+  "opciones": {
+   "A": "el cambio de entidad y la rehabilitación.",
+   "B": "la renuncia al cargo y el pago de la multa.",
+   "C": "el perdón del quejoso y la reparación del daño.",
+   "D": "la muerte del sancionado y la prescripción de la sanción."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 35 de la Ley 1952 de 2019 prevé dos causales de extinción de la sanción: la muerte del sancionado y la prescripción de la sanción disciplinaria.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0039",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 51",
+  "enunciado": "Un servidor infringe varias disposiciones disciplinarias con distintas acciones, y la sanción más grave que corresponde es la suspensión. Según las reglas del concurso de faltas, esa sanción",
+  "opciones": {
+   "A": "se incrementará hasta en otro tanto, sin exceder el máximo legal.",
+   "B": "se convierte automáticamente en destitución.",
+   "C": "se impone una sola vez sin incremento.",
+   "D": "se suma aritméticamente con las demás sin límite."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 51 de la Ley 1952 de 2019 dispone que, en concurso de faltas, la sanción más grave se incrementa hasta en otro tanto, sin exceder el máximo legal.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0040",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 55, num. 1",
+  "enunciado": "Un profesional de una procuraduría provincial comparte con un periodista el contenido de una investigación sometida a reserva. Según el Código General Disciplinario, la conducta",
+  "opciones": {
+   "A": "solo es sancionable penalmente.",
+   "B": "está descrita como falta gravísima relacionada con el servicio o la función pública.",
+   "C": "es una falta leve si no se publicaron nombres.",
+   "D": "no es falta, porque prevalece la libertad de prensa."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 1 del artículo 55 de la Ley 1952 de 2019 tipifica como falta gravísima violar la reserva de la investigación y de las demás actuaciones sometidas a la misma restricción.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0041",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 55, num. 5",
+  "enunciado": "Un servidor deja de asistir a su trabajo durante seis días hábiles sin justificación. Según el Código General Disciplinario, la conducta",
+  "opciones": {
+   "A": "es falta leve que solo genera descuento.",
+   "B": "no es falta si luego presenta excusa médica.",
+   "C": "es falta grave en todo caso.",
+   "D": "constituye falta gravísima por ausentarse de la función por un término igual o superior a cinco días sin justificación."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 5 del artículo 55 de la Ley 1952 de 2019 describe como falta gravísima ausentarse del cumplimiento de la función por un término igual o superior a cinco días sin justificación.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0042",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 55, num. 6",
+  "enunciado": "Un aspirante presentó un certificado de experiencia falso para obtener un ascenso. Una vez posesionado, se descubre el hecho. La conducta",
+  "opciones": {
+   "A": "constituye falta gravísima por suministrar documentación que no corresponde a la realidad con incidencia en su permanencia o ascenso.",
+   "B": "es falta leve si el servidor tiene buen desempeño.",
+   "C": "carece de relevancia disciplinaria por ser anterior a la posesión en el nuevo cargo.",
+   "D": "solo es delito y no falta."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 6 del artículo 55 de la Ley 1952 de 2019 tipifica como falta gravísima suministrar datos inexactos o documentación que no corresponda a la realidad con incidencia en la vinculación, permanencia, promoción o ascenso; la acción disciplinaria es independiente de la penal.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0043",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 56, num. 2",
+  "enunciado": "Un alcalde nombra como secretario a una persona sabiendo que está inhabilitada por una sanción vigente. Según el Código General Disciplinario",
+  "opciones": {
+   "A": "no incurre en falta, porque la inhabilidad es del nombrado.",
+   "B": "incurre en falta gravísima por nombrar a una persona a sabiendas de que concurre en ella causal de inhabilidad.",
+   "C": "incurre en falta solo si el nombrado no renuncia.",
+   "D": "incurre en falta leve por descuido."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 2 del artículo 56 de la Ley 1952 de 2019 describe como falta gravísima nombrar, designar, elegir o postular a una persona a sabiendas de que concurre en ella causal de inhabilidad, incompatibilidad o conflicto de intereses.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0044",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 54, num. 1",
+  "enunciado": "Una entidad celebra contratos de prestación de servicios para que contratistas cumplan funciones permanentes de planta, con horario, dedicación de tiempo completo y subordinación. Quien los celebra",
+  "opciones": {
+   "A": "comete falta leve por razones de austeridad.",
+   "B": "actúa válidamente porque los contratos tienen cláusula de autonomía.",
+   "C": "incurre en falta gravísima relacionada con la contratación pública, salvo las excepciones legales.",
+   "D": "solo genera una controversia laboral."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 1 del artículo 54 de la Ley 1952 de 2019 tipifica como falta gravísima celebrar contratos de prestación de servicios para cumplir funciones que requieran dedicación de tiempo completo e impliquen subordinación y ausencia de autonomía del contratista, salvo excepciones legales.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0045",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 53, num. 4",
+  "enunciado": "Un servidor promueve actos de hostigamiento contra un ciudadano por su orientación sexual. Según el Código General Disciplinario, la conducta",
+  "opciones": {
+   "A": "constituye falta gravísima relacionada con la libertad y otros derechos fundamentales.",
+   "B": "solo es sancionable si ocurre en horario laboral.",
+   "C": "es falta leve si no hubo agresión física.",
+   "D": "es una opinión personal sin relevancia disciplinaria."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 4 del artículo 53 de la Ley 1952 de 2019 tipifica como falta gravísima realizar, promover o instigar actos de hostigamiento, acoso o persecución contra una persona en razón de su raza, sexo, orientación sexual, identidad de género, religión o ideología, entre otros.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0046",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 59, num. 3",
+  "enunciado": "Un alcalde no adopta las acciones de gestión del riesgo de desastres que le corresponden por ley, pese a las alertas de una creciente. Según el Código, la conducta",
+  "opciones": {
+   "A": "es falta leve si no hubo víctimas.",
+   "B": "está descrita como falta gravísima relacionada con la salud pública, los recursos naturales y el ambiente.",
+   "C": "es una decisión de conveniencia sin control disciplinario.",
+   "D": "solo genera responsabilidad política ante el concejo."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 3 del artículo 59 de la Ley 1952 de 2019 tipifica como falta gravísima no dar cumplimiento a las funciones relacionadas con la gestión del riesgo de desastres en los términos de la ley.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0047",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 65",
+  "enunciado": "Cuando la conducta no puede adecuarse a ninguna de las faltas gravísimas específicas, constituye falta gravísima, según el artículo 65 del Código,",
+  "opciones": {
+   "A": "cualquier contravención de tránsito cometida por un servidor.",
+   "B": "todo delito culposo cometido por fuera del servicio.",
+   "C": "cualquier conducta que el superior considere grave.",
+   "D": "realizar objetivamente una descripción típica consagrada en la ley como delito sancionable a título de dolo, cuando se comete en razón, con ocasión o como consecuencia de la función o cargo."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 65 de la Ley 1952 de 2019 establece, en virtud de los principios de especialidad y subsidiariedad, que es falta gravísima realizar objetivamente una descripción típica de delito doloso cuando se cometa en razón, con ocasión o como consecuencia de la función o cargo, o abusando de él.",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0048",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 4",
+  "enunciado": "El principio de legalidad en materia disciplinaria exige que los destinatarios solo sean investigados y sancionados por comportamientos",
+  "opciones": {
+   "A": "previstos en circulares internas de la entidad.",
+   "B": "que generen escándalo público.",
+   "C": "descritos como falta en la ley vigente al momento de su realización.",
+   "D": "que el superior jerárquico considere reprochables."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 4 de la Ley 1952 de 2019 dispone que solo se investiga y sanciona por comportamientos descritos como falta en la ley vigente al momento de su realización; la preexistencia se predica también de las normas complementarias.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0049",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, arts. 26 y 27",
+  "enunciado": "Según el Código General Disciplinario, las faltas disciplinarias se realizan",
+  "opciones": {
+   "A": "solo mediante acciones positivas.",
+   "B": "únicamente dentro del horario laboral.",
+   "C": "solo cuando producen un daño patrimonial.",
+   "D": "por acción u omisión en el cumplimiento de los deberes propios del cargo o función, o con ocasión de ellos, o por extralimitación de sus funciones."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 27 de la Ley 1952 de 2019 dispone que las faltas se realizan por acción u omisión en el cumplimiento de los deberes propios del cargo, o con ocasión de ellos, o por extralimitación de funciones; el artículo 26 define la falta como incumplimiento de deberes, extralimitación, violación de prohibiciones o del régimen de inhabilidades.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0050",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 31, num. 4 (modif. Ley 2094 de 2021, art. 5)",
+  "enunciado": "Un servidor cumple una orden de su superior que estaba emitida con las formalidades legales y era legítima. La conducta resulta luego cuestionada. En materia disciplinaria",
+  "opciones": {
+   "A": "responde a título de culpa grave.",
+   "B": "responde solo si la orden fue verbal.",
+   "C": "no hay responsabilidad, por actuar en cumplimiento de orden legítima de autoridad competente emitida con las formalidades legales.",
+   "D": "responde siempre, porque la obediencia no excusa."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 4 del artículo 31 excluye la responsabilidad cuando la conducta se realiza en cumplimiento de orden legítima de autoridad competente emitida con las formalidades legales. Una orden manifiestamente ilegal no ampara al servidor.",
+  "dificultad": 1
+ },
+ {
+  "id": "disc-0051",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1952 de 2019, art. 50 (modif. Ley 2094 de 2021, art. 11)",
+  "enunciado": "Al graduar la sanción de un servidor, son criterios atenuantes según el Código General Disciplinario:\n\n1. La confesión de la falta o la aceptación de cargos.\n2. Haber resarcido el daño por iniciativa propia.\n3. Pertenecer al nivel directivo de la entidad.\n4. El grave daño social de la conducta.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 1 del artículo 50 incluye como atenuantes la confesión o aceptación de cargos y el resarcimiento del daño por iniciativa propia. Pertenecer al nivel directivo y el grave daño social son agravantes según el numeral 2.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0052",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1952 de 2019, art. 70",
+  "enunciado": "Según el Código General Disciplinario, son sujetos disciplinables en su condición de particulares quienes:\n\n1. Ejercen funciones públicas de manera permanente o transitoria.\n2. Prestan servicios públicos sin ejercer funciones públicas.\n3. Administran recursos públicos.\n4. Venden bienes a entidades estatales mediante contrato de suministro.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 70 incluye a los particulares que ejercen funciones públicas, administran recursos públicos, cumplen labores de interventoría o supervisión y a los auxiliares de la justicia. Quien presta servicios públicos sin ejercer funciones públicas y el simple proveedor no son disciplinables.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0053",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Ley 1952 de 2019, art. 29 (modif. Ley 2094 de 2021, art. 4)",
+  "enunciado": "TESIS: En materia disciplinaria solo son sancionables la culpa gravísima y la culpa grave.\n\nPOSTULADO I: Un servidor que incurre en culpa leve no puede ser sancionado disciplinariamente.\nPOSTULADO II: Toda conducta culposa genera la sanción de destitución.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "Si solo son sancionables la culpa gravísima y la grave, la culpa leve no se sanciona (postulado I). El postulado II no se deduce: la sanción depende de la gravedad de la falta y del grado de culpabilidad (art. 48), y la culpa grave en faltas graves se sanciona con suspensión.",
+  "dificultad": 2
+ },
+ {
+  "id": "disc-0054",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Ley 1952 de 2019, arts. 25 y 89",
+  "enunciado": "TESIS: Son destinatarios de la ley disciplinaria los servidores públicos aunque se encuentren retirados del servicio.\n\nPOSTULADO I: El retiro del servicio no impide adelantar la acción disciplinaria por hechos ocurridos durante la vinculación.\nPOSTULADO II: Si la sanción no puede cumplirse por el retiro, debe registrarse.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "De la tesis se deduce directamente que el retiro no impide la acción (postulado I). El postulado II es verdadero según el artículo 89, pero no se deduce lógicamente de la tesis, sino de una regla adicional sobre el registro de sanciones.",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0055",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 56, num. 4",
+  "enunciado": "Según el Código General Disciplinario, prestar servicios de asesoría en asuntos relacionados con las funciones propias del cargo, respecto del organismo al que se prestó el servicio, es falta gravísima cuando se hace dentro del término de",
+  "opciones": {
+   "A": "un mes después de la dejación del cargo.",
+   "B": "un año después de la dejación del cargo.",
+   "C": "seis meses después de la dejación del cargo.",
+   "D": "cinco años después de la dejación del cargo."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 4 del artículo 56 de la Ley 1952 de 2019 tipifica esta falta hasta por el término de un año después de la dejación del cargo. La Ley 1474 de 2011, artículo 3, prevé una prohibición de dos años en el régimen anticorrupción.",
+  "dificultad": 3
+ },
+ {
+  "id": "disc-0056",
+  "eje": "disciplinario",
+  "nucleo": "especifico",
+  "origen": "estilo",
+  "fuente": "Ley 1952 de 2019, art. 63 (modif. Ley 2094 de 2021, art. 12); art. 2",
+  "enunciado": "La acción disciplinaria contra los empleados judiciales, incluidos los de la Fiscalía General de la Nación, corresponde a",
+  "opciones": {
+   "A": "la Comisión Nacional y las Comisiones Seccionales de Disciplina Judicial.",
+   "B": "la Procuraduría General de la Nación en forma exclusiva.",
+   "C": "las oficinas de control interno de cada despacho.",
+   "D": "el Consejo de Estado."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 2 de la Ley 1952 de 2019, modificado por la Ley 2094 de 2021, asigna a la Comisión Nacional y a las Comisiones Seccionales de Disciplina Judicial la acción disciplinaria contra funcionarios y empleados judiciales, incluidos los de la Fiscalía.",
+  "dificultad": 2
+ }
+]
