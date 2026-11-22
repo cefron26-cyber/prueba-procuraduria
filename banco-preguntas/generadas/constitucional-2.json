@@ -1,0 +1,480 @@
+[
+ {
+  "id": "cons-0029",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 2",
+  "enunciado": "Según el artículo 2 de la Constitución, las autoridades de la República están instituidas para",
+  "opciones": {
+   "A": "ejecutar únicamente las órdenes del Presidente.",
+   "B": "proteger exclusivamente a los ciudadanos colombianos.",
+   "C": "proteger a todas las personas residentes en Colombia en su vida, honra, bienes, creencias y demás derechos y libertades, y asegurar el cumplimiento de los deberes sociales del Estado y de los particulares.",
+   "D": "garantizar la rentabilidad de las empresas del Estado."
+  },
+  "correcta": "C",
+  "explicacion": "El inciso segundo del artículo 2 dispone que las autoridades están instituidas para proteger a todas las personas residentes en Colombia, no solo a los nacionales, y para asegurar el cumplimiento de los deberes sociales del Estado y de los particulares.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0030",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 85",
+  "enunciado": "Según el artículo 85 de la Constitución, son de aplicación inmediata, entre otros, los derechos",
+  "opciones": {
+   "A": "a la vida, a la igualdad, al debido proceso, de petición y al habeas corpus.",
+   "B": "a la recreación y al deporte.",
+   "C": "a la vivienda digna y al trabajo.",
+   "D": "al ambiente sano y al espacio público."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 85 enumera los derechos de aplicación inmediata, entre ellos la vida, la igualdad, el debido proceso, el derecho de petición y el habeas corpus. Los derechos sociales y colectivos requieren, por regla general, desarrollo legal y presupuestal.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0031",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 11",
+  "enunciado": "Según la Constitución Política de Colombia",
+  "opciones": {
+   "A": "el derecho a la vida es inviolable y no hay pena de muerte.",
+   "B": "la pena de muerte puede establecerse mediante ley estatutaria.",
+   "C": "la pena de muerte procede en estado de guerra exterior.",
+   "D": "la pena de muerte procede por delitos de lesa humanidad."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 11 de la Constitución dispone que el derecho a la vida es inviolable y que no habrá pena de muerte, sin excepciones.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0032",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 28",
+  "enunciado": "Una persona detenida preventivamente debe ser puesta a disposición del juez competente dentro de las",
+  "opciones": {
+   "A": "setenta y dos horas siguientes.",
+   "B": "veinticuatro horas siguientes, sin excepción.",
+   "C": "treinta y seis horas siguientes, para que este adopte la decisión correspondiente en el término que establezca la ley.",
+   "D": "cinco días hábiles siguientes."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 28 de la Constitución dispone que la persona detenida preventivamente será puesta a disposición del juez competente dentro de las treinta y seis horas siguientes.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0033",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 33",
+  "enunciado": "En un proceso, se pretende obligar a una persona a declarar contra su hermano. Según el artículo 33 de la Constitución",
+  "opciones": {
+   "A": "la excepción solo opera en procesos penales por delitos menores.",
+   "B": "nadie puede ser obligado a declarar contra sí mismo o contra su cónyuge, compañero permanente o parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil.",
+   "C": "la excepción solo cubre al cónyuge.",
+   "D": "el deber de declarar prevalece en todos los casos."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 33 consagra la garantía de no autoincriminación y su extensión a cónyuge, compañero permanente y parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil. Un hermano es pariente en segundo grado.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0034",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 31",
+  "enunciado": "Según el artículo 31 de la Constitución, cuando el condenado es apelante único",
+  "opciones": {
+   "A": "no procede la apelación.",
+   "B": "la apelación se resuelve por el mismo juez.",
+   "C": "el superior puede aumentar la pena si encuentra pruebas nuevas.",
+   "D": "el superior no podrá agravar la pena impuesta."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 31 dispone que toda sentencia judicial podrá ser apelada o consultada, salvo excepciones legales, y que el superior no podrá agravar la pena impuesta cuando el condenado sea apelante único (prohibición de reformatio in pejus).",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0035",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 15",
+  "enunciado": "Una persona encuentra en la base de datos de una entidad información negativa desactualizada sobre ella. El derecho que le permite conocer, actualizar y rectificar esa información es",
+  "opciones": {
+   "A": "el derecho de reunión.",
+   "B": "el habeas data.",
+   "C": "el habeas corpus.",
+   "D": "la libertad de expresión."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 15 de la Constitución consagra el derecho de todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y archivos de entidades públicas y privadas, conocido como habeas data.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0036",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 58",
+  "enunciado": "Según el artículo 58 de la Constitución, la propiedad",
+  "opciones": {
+   "A": "es un derecho absoluto que no admite limitaciones.",
+   "B": "solo puede limitarse mediante tutela.",
+   "C": "es una función social que implica obligaciones y le es inherente una función ecológica.",
+   "D": "no puede ser objeto de expropiación en ningún caso."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 58 garantiza la propiedad privada, pero dispone que es una función social que implica obligaciones, con una función ecológica inherente, y permite la expropiación por motivos de utilidad pública o interés social definidos por el legislador.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0037",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 7",
+  "enunciado": "El reconocimiento y la protección de la diversidad étnica y cultural de la Nación colombiana están consagrados en",
+  "opciones": {
+   "A": "el artículo 7 de la Constitución, como principio fundamental.",
+   "B": "un decreto reglamentario del Ministerio del Interior.",
+   "C": "la jurisprudencia, sin fundamento constitucional expreso.",
+   "D": "una ley ordinaria de 1993 exclusivamente."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 7 de la Constitución, ubicado en el título de principios fundamentales, dispone que el Estado reconoce y protege la diversidad étnica y cultural de la Nación colombiana.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0038",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 246",
+  "enunciado": "Las autoridades de los pueblos indígenas pueden ejercer funciones jurisdiccionales",
+  "opciones": {
+   "A": "en todo el territorio nacional, sobre cualquier persona.",
+   "B": "solo con autorización previa de la Corte Suprema en cada caso.",
+   "C": "únicamente en asuntos civiles de menor cuantía.",
+   "D": "dentro de su ámbito territorial, conforme a sus propias normas y procedimientos, siempre que no sean contrarios a la Constitución y leyes de la República."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 246 reconoce la jurisdicción especial indígena dentro de su ámbito territorial, conforme a sus propias normas y procedimientos, siempre que no sean contrarios a la Constitución y a las leyes; la ley establece su coordinación con el sistema judicial nacional.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0039",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 374",
+  "enunciado": "Según el artículo 374, la Constitución puede ser reformada por",
+  "opciones": {
+   "A": "la Corte Constitucional mediante sentencia.",
+   "B": "los concejos municipales por mayoría.",
+   "C": "el Presidente mediante decreto con fuerza de ley.",
+   "D": "el Congreso, una Asamblea Constituyente o el pueblo mediante referendo."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 374 establece tres mecanismos de reforma constitucional: acto legislativo del Congreso, Asamblea Constituyente y referendo. El Ejecutivo y la Corte no pueden reformar la Constitución.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0040",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 375",
+  "enunciado": "El trámite de un proyecto de acto legislativo en el Congreso",
+  "opciones": {
+   "A": "se surte en un solo debate en sesión conjunta.",
+   "B": "requiere aprobación previa de la Corte Constitucional.",
+   "C": "tiene lugar en dos períodos ordinarios y consecutivos, y en el segundo se requiere el voto de la mayoría de los miembros de cada cámara.",
+   "D": "se tramita como una ley ordinaria."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 375 dispone que el trámite del acto legislativo tendrá lugar en dos períodos ordinarios y consecutivos, y que en el segundo su aprobación requiere el voto de la mayoría de los miembros de cada cámara.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0041",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 153",
+  "enunciado": "La aprobación de las leyes estatutarias exige",
+  "opciones": {
+   "A": "mayoría simple y sanción presidencial.",
+   "B": "mayoría absoluta de los miembros del Congreso, trámite dentro de una sola legislatura y revisión previa de exequibilidad por la Corte Constitucional.",
+   "C": "aprobación en referendo.",
+   "D": "concepto previo del Consejo de Estado."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 153 exige para las leyes estatutarias mayoría absoluta, trámite en una sola legislatura y revisión previa de la exequibilidad del proyecto por la Corte Constitucional.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0042",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, arts. 183 y 184",
+  "enunciado": "La pérdida de investidura de los congresistas es decretada por",
+  "opciones": {
+   "A": "el Consejo de Estado, en un término no mayor de veinte días hábiles desde la solicitud.",
+   "B": "la Procuraduría General, mediante proceso disciplinario.",
+   "C": "la Corte Suprema de Justicia, en proceso penal.",
+   "D": "la mesa directiva de la respectiva cámara."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 184 de la Constitución asigna al Consejo de Estado decretar la pérdida de investidura, en un término no mayor de veinte días hábiles desde la solicitud presentada por la mesa directiva o por cualquier ciudadano; el artículo 183 fija las causales.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0043",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 135, num. 9",
+  "enunciado": "La moción de censura que pueden proponer las cámaras del Congreso procede respecto de",
+  "opciones": {
+   "A": "los magistrados de las altas cortes.",
+   "B": "los ministros, superintendentes y directores de departamentos administrativos, por asuntos relacionados con funciones propias del cargo.",
+   "C": "el Procurador General de la Nación.",
+   "D": "el Presidente de la República."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 9 del artículo 135 permite proponer moción de censura respecto de ministros, superintendentes y directores de departamentos administrativos por asuntos relacionados con sus funciones o por desatención a requerimientos del Congreso.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0044",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 286",
+  "enunciado": "Son entidades territoriales según el artículo 286 de la Constitución",
+  "opciones": {
+   "A": "los departamentos, las comunas y los corregimientos.",
+   "B": "las regiones, las provincias y las veredas.",
+   "C": "los departamentos, los distritos, los municipios y los territorios indígenas.",
+   "D": "los municipios y las áreas metropolitanas únicamente."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 286 dispone que son entidades territoriales los departamentos, los distritos, los municipios y los territorios indígenas; la ley podrá dar ese carácter a regiones y provincias. Las comunas y corregimientos son divisiones del municipio.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0045",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 313, num. 8",
+  "enunciado": "El personero municipal es elegido por",
+  "opciones": {
+   "A": "el concejo municipal, para el período que fije la ley, previo concurso público de méritos.",
+   "B": "el Procurador General, por delegación.",
+   "C": "voto popular directo.",
+   "D": "el alcalde, por libre nombramiento."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 8 del artículo 313 de la Constitución atribuye a los concejos la elección del personero para el período que fije la ley; la Ley 1551 de 2012 exige concurso público de méritos.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0046",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 249",
+  "enunciado": "El Fiscal General de la Nación es elegido por",
+  "opciones": {
+   "A": "el Senado, de terna de la Corte Suprema.",
+   "B": "el Presidente de la República, por libre nombramiento.",
+   "C": "el Congreso en pleno, de lista de elegibles.",
+   "D": "la Corte Suprema de Justicia, de terna enviada por el Presidente de la República, para un período de cuatro años."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 249 dispone que el Fiscal General es elegido para un período de cuatro años por la Corte Suprema de Justicia, de terna enviada por el Presidente de la República.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0047",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 257A (adic. Acto Legislativo 02 de 2015)",
+  "enunciado": "Tras el Acto Legislativo 02 de 2015, la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial corresponde a",
+  "opciones": {
+   "A": "la Comisión Nacional de Disciplina Judicial y las comisiones seccionales.",
+   "B": "la Procuraduría General de la Nación.",
+   "C": "la Corte Suprema de Justicia en pleno.",
+   "D": "la Sala Disciplinaria del Consejo Superior de la Judicatura."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 257A, adicionado por el Acto Legislativo 02 de 2015, creó la Comisión Nacional de Disciplina Judicial, que ejerce la función jurisdiccional disciplinaria sobre funcionarios y empleados de la Rama Judicial, con comisiones seccionales; reemplazó a la Sala Disciplinaria del Consejo Superior.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0048",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 266",
+  "enunciado": "El Registrador Nacional del Estado Civil es escogido por",
+  "opciones": {
+   "A": "el Consejo Nacional Electoral, por libre nombramiento.",
+   "B": "el Presidente de la República, de terna del Congreso.",
+   "C": "los presidentes de la Corte Constitucional, la Corte Suprema y el Consejo de Estado, mediante concurso de méritos, para un período de cuatro años.",
+   "D": "el Senado de la República."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 266 de la Constitución dispone que el Registrador Nacional será escogido por los presidentes de la Corte Constitucional, la Corte Suprema de Justicia y el Consejo de Estado, mediante concurso de méritos, para un período de cuatro años.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0049",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 120",
+  "enunciado": "Según el artículo 120 de la Constitución, la organización electoral está conformada por",
+  "opciones": {
+   "A": "la Procuraduría y la Defensoría.",
+   "B": "los partidos políticos con personería jurídica.",
+   "C": "el Ministerio del Interior y las alcaldías.",
+   "D": "el Consejo Nacional Electoral, la Registraduría Nacional del Estado Civil y los demás organismos que establezca la ley."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 120 establece que la organización electoral está conformada por el Consejo Nacional Electoral, la Registraduría Nacional del Estado Civil y los demás organismos que establezca la ley.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0050",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 79",
+  "enunciado": "El derecho de todas las personas a gozar de un ambiente sano está consagrado en el artículo 79 de la Constitución, que además dispone que",
+  "opciones": {
+   "A": "solo las autoridades ambientales pueden exigirlo.",
+   "B": "la ley garantizará la participación de la comunidad en las decisiones que puedan afectarlo.",
+   "C": "es un derecho fundamental de aplicación inmediata en todo caso.",
+   "D": "se protege exclusivamente mediante tutela."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 79 consagra el derecho a gozar de un ambiente sano y ordena a la ley garantizar la participación de la comunidad en las decisiones que puedan afectarlo. Es un derecho colectivo, protegible principalmente por acción popular.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0051",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 95",
+  "enunciado": "Según el artículo 95 de la Constitución, es un deber de la persona y del ciudadano",
+  "opciones": {
+   "A": "votar en todas las elecciones bajo sanción penal.",
+   "B": "contribuir al financiamiento de los gastos e inversiones del Estado dentro de conceptos de justicia y equidad.",
+   "C": "prestar servicio en la Procuraduría por un año.",
+   "D": "pertenecer a un partido político."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 95 enumera deberes como respetar los derechos ajenos, apoyar a las autoridades democráticas, colaborar con la justicia, proteger los recursos naturales y contribuir al financiamiento de los gastos del Estado dentro de conceptos de justicia y equidad.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0052",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 190 (modif. Acto Legislativo 02 de 2015)",
+  "enunciado": "Tras el Acto Legislativo 02 de 2015, el Presidente de la República es elegido para un período de cuatro años",
+  "opciones": {
+   "A": "y puede ser reelegido indefinidamente.",
+   "B": "y puede ser reelegido después de un período de intervalo, si lo aprueba el Congreso.",
+   "C": "y no puede ser reelegido.",
+   "D": "y puede ser reelegido por una sola vez para el período siguiente."
+  },
+  "correcta": "C",
+  "explicacion": "El Acto Legislativo 02 de 2015 eliminó la reelección presidencial; los artículos 190 y 197 disponen que el Presidente es elegido para un período de cuatro años y no podrá ser reelegido.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0053",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 189",
+  "enunciado": "Ejercer la potestad reglamentaria, mediante la expedición de decretos, resoluciones y órdenes necesarias para la cumplida ejecución de las leyes, corresponde a",
+  "opciones": {
+   "A": "el Presidente de la República.",
+   "B": "el Consejo de Estado.",
+   "C": "el Procurador General.",
+   "D": "el Congreso de la República."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 11 del artículo 189 de la Constitución asigna al Presidente, como suprema autoridad administrativa, ejercer la potestad reglamentaria mediante decretos, resoluciones y órdenes necesarias para la cumplida ejecución de las leyes.",
+  "dificultad": 1
+ },
+ {
+  "id": "cons-0054",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Constitución Política, art. 150, num. 10",
+  "enunciado": "El Congreso puede revestir al Presidente de facultades extraordinarias para expedir normas con fuerza de ley",
+  "opciones": {
+   "A": "por tiempo indefinido y en cualquier materia.",
+   "B": "solo para reformar la Constitución.",
+   "C": "únicamente para expedir códigos.",
+   "D": "hasta por seis meses, de manera precisa, cuando la necesidad lo exija o la conveniencia pública lo aconseje, pero no para expedir códigos ni leyes estatutarias, orgánicas o tributarias."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 10 del artículo 150 permite otorgar facultades extraordinarias precisas hasta por seis meses, pero prohíbe conferirlas para expedir códigos, leyes estatutarias, orgánicas, las del numeral 19 del artículo 150 ni para decretar impuestos.",
+  "dificultad": 3
+ },
+ {
+  "id": "cons-0055",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "tipo": "multiple",
+  "origen": "estilo",
+  "fuente": "Constitución Política, arts. 103, 117 y 118",
+  "enunciado": "Respecto de la organización del Estado colombiano, son afirmaciones correctas:\n\n1. El Ministerio Público y la Contraloría son órganos de control.\n2. La Fiscalía General hace parte del Ministerio Público.\n3. Los personeros municipales ejercen el Ministerio Público.\n4. La Registraduría es una rama del poder público.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 117 define al Ministerio Público y la Contraloría como órganos de control, y el 118 incluye a los personeros en el Ministerio Público. La Fiscalía pertenece a la Rama Judicial y la Registraduría integra la organización electoral, no es una rama.",
+  "dificultad": 2
+ },
+ {
+  "id": "cons-0056",
+  "eje": "constitucional",
+  "nucleo": "general",
+  "tipo": "postulados",
+  "origen": "estilo",
+  "fuente": "Constitución Política, arts. 4 y 241",
+  "enunciado": "TESIS: La Constitución es norma de normas y, en caso de incompatibilidad con la ley, se aplican las disposiciones constitucionales.\n\nPOSTULADO I: Un juez puede inaplicar en un caso concreto una norma legal que contradiga la Constitución.\nPOSTULADO II: Cualquier juez puede declarar la inexequibilidad de una ley con efectos generales.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "De la supremacía constitucional se deduce la excepción de inconstitucionalidad: inaplicar la norma incompatible en el caso concreto (postulado I). La declaratoria de inexequibilidad con efectos generales corresponde a la Corte Constitucional (art. 241), no a cualquier juez.",
+  "dificultad": 2
+ }
+]
