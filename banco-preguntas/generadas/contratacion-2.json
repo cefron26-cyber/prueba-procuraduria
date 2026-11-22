@@ -1,0 +1,480 @@
+[
+ {
+  "id": "cont-0029",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 7",
+  "enunciado": "Dos empresas se presentan a una licitación como consorcio. Respecto de las obligaciones derivadas de la propuesta y del contrato, sus integrantes",
+  "opciones": {
+   "A": "no responden; responde únicamente el representante.",
+   "B": "responden solo por las sanciones.",
+   "C": "responden solidariamente de todas y cada una de ellas.",
+   "D": "responden solo en proporción a su participación, en todos los casos."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 1 del artículo 7 de la Ley 80 de 1993 dispone que en el consorcio los integrantes responden solidariamente de todas las obligaciones. En la unión temporal responden solidariamente, pero las sanciones se imponen según la participación de cada uno.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0030",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 7, num. 2",
+  "enunciado": "En una unión temporal, las sanciones por el incumplimiento de las obligaciones derivadas de la propuesta y del contrato",
+  "opciones": {
+   "A": "se imponen de acuerdo con la participación en la ejecución de cada uno de los miembros.",
+   "B": "se imponen en partes iguales a todos los miembros.",
+   "C": "solo se imponen al miembro mayoritario.",
+   "D": "no pueden imponerse a ningún miembro."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 2 del artículo 7 de la Ley 80 de 1993 dispone que en la unión temporal los miembros responden solidariamente, pero las sanciones se imponen de acuerdo con la participación de cada uno en la ejecución.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0031",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 9",
+  "enunciado": "Durante la ejecución de un contrato, al contratista le sobreviene una inhabilidad. Según la Ley 80 de 1993",
+  "opciones": {
+   "A": "la entidad debe declarar la caducidad.",
+   "B": "debe ceder el contrato previa autorización escrita de la entidad o, si no es posible, renunciar a su ejecución.",
+   "C": "el contrato se declara nulo automáticamente.",
+   "D": "puede continuar sin consecuencias."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 9 de la Ley 80 de 1993 dispone que si sobreviene una inhabilidad o incompatibilidad, el contratista cederá el contrato previa autorización escrita de la entidad o, si no es posible, renunciará a su ejecución.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0032",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 16",
+  "enunciado": "La entidad modifica unilateralmente un contrato y la modificación altera su valor en más de un veinte por ciento. El contratista",
+  "opciones": {
+   "A": "puede renunciar a la continuación de la ejecución, y en ese caso se ordena la liquidación.",
+   "B": "debe demandar la nulidad de la modificación.",
+   "C": "puede suspender la obra unilateralmente.",
+   "D": "está obligado a continuar sin derecho a reclamo."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 16 de la Ley 80 de 1993 dispone que si las modificaciones alteran el valor del contrato en un veinte por ciento o más del valor inicial, el contratista podrá renunciar a la continuación de la ejecución, caso en el cual se ordena la liquidación.",
+  "dificultad": 3
+ },
+ {
+  "id": "cont-0033",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 17",
+  "enunciado": "Es causal para que la entidad termine unilateralmente un contrato según la Ley 80 de 1993",
+  "opciones": {
+   "A": "la demora de un día en la entrega.",
+   "B": "el simple cambio de administración.",
+   "C": "la falta de interés del ordenador del gasto.",
+   "D": "la muerte o incapacidad física permanente del contratista persona natural."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 17 de la Ley 80 de 1993 prevé la terminación unilateral cuando lo exijan el servicio público o el orden público, por muerte o incapacidad del contratista persona natural o disolución de la persona jurídica, por interdicción judicial o declaración de quiebra, o por embargo judicial que afecte gravemente el cumplimiento.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0034",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 32, num. 3",
+  "enunciado": "Según la Ley 80 de 1993, los contratos de prestación de servicios con personas naturales",
+  "opciones": {
+   "A": "tienen duración indefinida.",
+   "B": "generan relación laboral con todas las prestaciones.",
+   "C": "solo pueden celebrarse cuando las actividades no puedan realizarse con personal de planta o requieran conocimientos especializados, y en ningún caso generan relación laboral ni prestaciones sociales.",
+   "D": "se usan para cubrir cualquier cargo de planta vacante."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 3 del artículo 32 de la Ley 80 de 1993 dispone que los contratos de prestación de servicios con personas naturales solo se celebran cuando las actividades no puedan realizarse con personal de planta o requieran conocimientos especializados, y que no generan relación laboral ni prestaciones sociales.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0035",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 32, num. 2",
+  "enunciado": "Una entidad contrata los estudios necesarios para la ejecución de un proyecto de inversión, la interventoría y la asesoría técnica. Este tipo de contrato es de",
+  "opciones": {
+   "A": "suministro.",
+   "B": "consultoría.",
+   "C": "obra.",
+   "D": "concesión."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 2 del artículo 32 de la Ley 80 de 1993 define los contratos de consultoría como los referidos a estudios necesarios para proyectos de inversión, diagnóstico, prefactibilidad, factibilidad, asesoría técnica, interventoría, gerencia de obra o proyectos.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0036",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 32, num. 4",
+  "enunciado": "Una entidad otorga a un particular la construcción, explotación y mantenimiento de una vía, por su cuenta y riesgo, a cambio de una remuneración que puede consistir en peajes. Este contrato es de",
+  "opciones": {
+   "A": "empréstito.",
+   "B": "obra pública a precio global.",
+   "C": "prestación de servicios.",
+   "D": "concesión."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 4 del artículo 32 de la Ley 80 de 1993 define la concesión como el contrato para otorgar la prestación, operación, explotación o construcción de un bien o servicio público, por cuenta y riesgo del concesionario, remunerado con tarifas, tasas, valorización o participación.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0037",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 40, parágrafo",
+  "enunciado": "En los contratos estatales, el anticipo que se pacte",
+  "opciones": {
+   "A": "no puede exceder del cincuenta por ciento del valor del contrato.",
+   "B": "puede ser hasta del cien por ciento.",
+   "C": "debe ser siempre del treinta por ciento.",
+   "D": "está prohibido en todos los contratos."
+  },
+  "correcta": "A",
+  "explicacion": "El parágrafo del artículo 40 de la Ley 80 de 1993 dispone que en los contratos que celebren las entidades estatales se podrá pactar el pago anticipado y la entrega de anticipos, pero su monto no podrá exceder del cincuenta por ciento del valor del contrato.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0038",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 91",
+  "enunciado": "En un contrato de obra adjudicado por licitación pública, el contratista recibe un anticipo. Según el Estatuto Anticorrupción, el manejo de esos recursos debe hacerse",
+  "opciones": {
+   "A": "en efectivo, previa factura.",
+   "B": "a través de la tesorería del municipio.",
+   "C": "mediante una fiducia o patrimonio autónomo irrevocable constituido por el contratista.",
+   "D": "en la cuenta personal del representante legal."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 91 de la Ley 1474 de 2011 dispone que en los contratos de obra, concesión, salud o los que se realicen por licitación pública, el contratista debe constituir una fiducia o patrimonio autónomo irrevocable para el manejo de los recursos del anticipo, con el fin de que se apliquen exclusivamente a la ejecución.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0039",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 7",
+  "enunciado": "Según la Ley 1150 de 2007, los contratistas deben prestar garantía única para el cumplimiento de sus obligaciones, que puede consistir en",
+  "opciones": {
+   "A": "únicamente una letra de cambio firmada por el contratista.",
+   "B": "una declaración juramentada de patrimonio.",
+   "C": "pólizas expedidas por compañías de seguros, fiducia mercantil, garantía bancaria a primer requerimiento y otros mecanismos reglamentados.",
+   "D": "el depósito del cien por ciento del valor en la entidad."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 7 de la Ley 1150 de 2007 permite que la garantía consista en pólizas de seguros, fiducia mercantil, garantía bancaria a primer requerimiento, endoso en garantía de títulos valores o depósito de dinero en garantía, entre otros mecanismos reglamentados; en mínima cuantía y ciertos casos puede no exigirse.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0040",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 8",
+  "enunciado": "Antes de publicar el pliego de condiciones definitivo de una licitación, la entidad debe",
+  "opciones": {
+   "A": "publicar el proyecto de pliego de condiciones para que los interesados puedan formular observaciones.",
+   "B": "obtener la aprobación del Congreso.",
+   "C": "seleccionar previamente al contratista.",
+   "D": "pedir autorización a la Procuraduría."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 8 de la Ley 1150 de 2007 obliga a publicar los proyectos de pliegos de condiciones, para permitir observaciones de los interesados, junto con los estudios y documentos previos; la publicación no obliga a abrir el proceso.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0041",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 5, parágrafo 1 (modif. Ley 1882 de 2018, art. 5)",
+  "enunciado": "Un proponente omitió adjuntar un documento que acredita un requisito habilitante, pero que no otorga puntaje. Según la Ley 1150 de 2007 modificada",
+  "opciones": {
+   "A": "su propuesta debe rechazarse de inmediato.",
+   "B": "puede subsanarlo después de la adjudicación.",
+   "C": "solo puede subsanarlo si la entidad lo autoriza por escrito antes del cierre.",
+   "D": "puede subsanarlo hasta el término de traslado del informe de evaluación, porque la ausencia de requisitos que no otorgan puntaje no es causal de rechazo."
+  },
+  "correcta": "D",
+  "explicacion": "El parágrafo 1 del artículo 5 de la Ley 1150 de 2007, modificado por la Ley 1882 de 2018, establece que la ausencia de requisitos o documentos que no otorgan puntaje no es título suficiente para rechazar la oferta, y que pueden subsanarse hasta el término de traslado del informe de evaluación.",
+  "dificultad": 3
+ },
+ {
+  "id": "cont-0042",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 5",
+  "enunciado": "Según la Ley 1150 de 2007, la selección del contratista es objetiva cuando",
+  "opciones": {
+   "A": "se prefiere al proponente local.",
+   "B": "se escoge el ofrecimiento más favorable a la entidad y a los fines que ella busca, sin consideración a factores de afecto o de interés ni motivación subjetiva.",
+   "C": "se escoge siempre al de menor precio, en todas las modalidades.",
+   "D": "el jefe de la entidad elige al proponente de su confianza."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 5 de la Ley 1150 de 2007 define la selección objetiva como la escogencia del ofrecimiento más favorable a la entidad y a sus fines, sin tener en consideración factores de afecto o de interés y, en general, cualquier clase de motivación subjetiva.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0043",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 25, num. 18",
+  "enunciado": "Una licitación se declara desierta. Según la Ley 80 de 1993, esa declaratoria",
+  "opciones": {
+   "A": "procede si el único proponente es de otro departamento.",
+   "B": "procede cuando el jefe de la entidad cambie de opinión.",
+   "C": "solo procede por motivos o causas que impidan la escogencia objetiva y se declara en acto que exprese detalladamente las razones.",
+   "D": "no requiere motivación."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 18 del artículo 25 de la Ley 80 de 1993 dispone que la declaratoria de desierta únicamente procede por motivos que impidan la escogencia objetiva, y se declara en acto que exprese detalladamente las razones.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0044",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 84",
+  "enunciado": "El interventor de un contrato advierte hechos que podrían constituir actos de corrupción. Según el Estatuto Anticorrupción, debe",
+  "opciones": {
+   "A": "informar a la entidad contratante de esos hechos, so pena de responder solidariamente por los perjuicios que se causen.",
+   "B": "esperar la liquidación para informar.",
+   "C": "guardar reserva para no afectar al contratista.",
+   "D": "suspender el contrato por su cuenta."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 84 de la Ley 1474 de 2011 obliga a supervisores e interventores a informar a la entidad de los hechos que puedan constituir actos de corrupción o pongan en riesgo el contrato; su omisión los hace solidariamente responsables. El artículo 54, numeral 7, de la Ley 1952 la tipifica como falta gravísima.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0045",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 90",
+  "enunciado": "A un contratista le han impuesto en una misma vigencia fiscal tres multas en distintos contratos con una o varias entidades. Según el Estatuto Anticorrupción",
+  "opciones": {
+   "A": "queda inhabilitado de por vida.",
+   "B": "debe pagar una multa adicional sin otra consecuencia.",
+   "C": "solo pierde el derecho al anticipo.",
+   "D": "queda inhabilitado para contratar con el Estado por incumplimiento reiterado, por el término que fija la ley."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 90 de la Ley 1474 de 2011 establece la inhabilidad por incumplimiento reiterado, entre otros supuestos, cuando al contratista se le han impuesto tres o más multas en una misma vigencia fiscal con una o varias entidades; la inhabilidad dura tres años.",
+  "dificultad": 3
+ },
+ {
+  "id": "cont-0046",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 5",
+  "enunciado": "Es un derecho del contratista según la Ley 80 de 1993",
+  "opciones": {
+   "A": "modificar unilateralmente el objeto contractual.",
+   "B": "recibir oportunamente la remuneración pactada y que se mantenga el valor intrínseco de ella durante la vigencia del contrato.",
+   "C": "ceder el contrato sin autorización.",
+   "D": "interpretar unilateralmente las cláusulas."
+  },
+  "correcta": "B",
+  "explicacion": "El numeral 1 del artículo 5 de la Ley 80 de 1993 reconoce al contratista el derecho a recibir oportunamente la remuneración pactada y a que su valor intrínseco no se altere durante la vigencia del contrato; las potestades excepcionales son de la entidad.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0047",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 41",
+  "enunciado": "Los contratos estatales son intuitu personae y, en consecuencia, una vez celebrados",
+  "opciones": {
+   "A": "pueden cederse libremente.",
+   "B": "pueden cederse solo a familiares del contratista.",
+   "C": "no pueden cederse sin previa autorización escrita de la entidad contratante.",
+   "D": "no pueden cederse en ningún caso."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 41 de la Ley 80 de 1993 dispone que los contratos estatales son intuitu personae y no podrán cederse sin previa autorización escrita de la entidad contratante.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0048",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 45",
+  "enunciado": "El jefe de una entidad advierte que un contrato en ejecución se celebró con una persona inhabilitada. Según la Ley 80 de 1993",
+  "opciones": {
+   "A": "debe continuar hasta el final para evitar perjuicios.",
+   "B": "debe dar por terminado el contrato mediante acto motivado y ordenar su liquidación en el estado en que se encuentre.",
+   "C": "debe declarar la caducidad.",
+   "D": "solo puede informar a la Contraloría."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 45 de la Ley 80 de 1993 obliga al jefe o representante legal a dar por terminado el contrato mediante acto motivado y ordenar su liquidación cuando se configuren, entre otras, la causal de nulidad por contratar con persona inhabilitada.",
+  "dificultad": 3
+ },
+ {
+  "id": "cont-0049",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 2, lit. b",
+  "enunciado": "Una entidad pretende contratar un objeto cuyo valor no supera la menor cuantía fijada según su presupuesto. La modalidad aplicable es",
+  "opciones": {
+   "A": "la licitación pública obligatoria.",
+   "B": "el concurso de méritos.",
+   "C": "la contratación directa en todos los casos.",
+   "D": "la selección abreviada de menor cuantía."
+  },
+  "correcta": "D",
+  "explicacion": "El literal b del numeral 2 del artículo 2 de la Ley 1150 de 2007 prevé la selección abreviada para la contratación de menor cuantía, que se determina según el presupuesto anual de la entidad expresado en salarios mínimos; si no supera el diez por ciento de ella, procede la mínima cuantía.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0050",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 4, lit. g",
+  "enunciado": "Una entidad necesita adquirir un software del que solo existe un proveedor titular de los derechos de propiedad intelectual. Puede contratar directamente por",
+  "opciones": {
+   "A": "inexistencia de pluralidad de oferentes en el mercado.",
+   "B": "mínima cuantía, sin importar el valor.",
+   "C": "contrato interadministrativo.",
+   "D": "urgencia manifiesta."
+  },
+  "correcta": "A",
+  "explicacion": "El literal g del numeral 4 del artículo 2 de la Ley 1150 de 2007 permite la contratación directa cuando no exista pluralidad de oferentes en el mercado, como ocurre cuando una sola persona es titular de los derechos de propiedad intelectual o proveedor exclusivo.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0051",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1474 de 2011, art. 87",
+  "enunciado": "Según el Estatuto Anticorrupción, antes de abrir una licitación de obra, la entidad debe contar con",
+  "opciones": {
+   "A": "los estudios y diseños que permitan establecer la viabilidad del proyecto y su impacto social, económico y ambiental (maduración del proyecto).",
+   "B": "la liquidación de contratos anteriores similares.",
+   "C": "la aprobación del alcalde de cada municipio vecino.",
+   "D": "el acuerdo previo con el futuro contratista."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 87 de la Ley 1474 de 2011, sobre maduración de proyectos, exige que, para contratos de obra que deban adjudicarse por licitación, la entidad cuente con los estudios y diseños que permitan establecer la viabilidad del proyecto y su impacto social, económico y ambiental.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0052",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 30",
+  "enunciado": "En una licitación pública, la adjudicación se realiza",
+  "opciones": {
+   "A": "por sorteo entre los proponentes habilitados.",
+   "B": "por el Concejo Municipal.",
+   "C": "en privado por el ordenador del gasto.",
+   "D": "en audiencia pública, mediante resolución motivada que se entiende notificada al proponente favorecido en la audiencia."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 10 del artículo 30 de la Ley 80 de 1993, modificado por la Ley 1150 de 2007, dispone que la adjudicación en licitación se hace en audiencia pública mediante resolución motivada, que se entiende notificada al proponente favorecido en esa audiencia.",
+  "dificultad": 2
+ },
+ {
+  "id": "cont-0053",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 11",
+  "enunciado": "Según la Ley 80 de 1993, la competencia para ordenar y dirigir la celebración de licitaciones y escoger contratistas corresponde a",
+  "opciones": {
+   "A": "el jefe de la oficina jurídica en todos los casos.",
+   "B": "el jefe o representante de la entidad, según el caso.",
+   "C": "el comité evaluador.",
+   "D": "la Agencia Colombia Compra Eficiente."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 11 de la Ley 80 de 1993 asigna al jefe o representante de la entidad la competencia para ordenar y dirigir las licitaciones y escoger contratistas; puede delegarla en los términos del artículo 12. El comité evaluador solo recomienda.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0054",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 80 de 1993, art. 3",
+  "enunciado": "Según el artículo 3 de la Ley 80 de 1993, los servidores públicos, al celebrar contratos y vigilar su ejecución, deben buscar",
+  "opciones": {
+   "A": "favorecer a proveedores locales sin excepción.",
+   "B": "reducir el número de contratos a uno por año.",
+   "C": "el cumplimiento de los fines estatales, la continua y eficiente prestación de los servicios públicos y la efectividad de los derechos de los administrados.",
+   "D": "la máxima ganancia para la entidad."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 3 de la Ley 80 de 1993 fija como fines de la contratación el cumplimiento de los fines estatales, la continua y eficiente prestación de los servicios públicos y la efectividad de los derechos e intereses de los administrados que colaboran en la consecución de dichos fines.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0055",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1150 de 2007, art. 2, num. 4",
+  "enunciado": "Son causales de contratación directa según la Ley 1150 de 2007:\n\n1. La urgencia manifiesta.\n2. La adquisición de bienes de características técnicas uniformes.\n3. La prestación de servicios profesionales y de apoyo a la gestión.\n4. La selección de consultores para estudios y diseños.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 4 del artículo 2 de la Ley 1150 de 2007 incluye como causales de contratación directa la urgencia manifiesta y la prestación de servicios profesionales y de apoyo a la gestión. Los bienes uniformes se adquieren por selección abreviada y los consultores por concurso de méritos.",
+  "dificultad": 1
+ },
+ {
+  "id": "cont-0056",
+  "eje": "contratacion",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Ley 1150 de 2007, art. 5",
+  "enunciado": "TESIS: Los requisitos habilitantes de los proponentes son objeto de verificación de cumplimiento y no otorgan puntaje.\n\nPOSTULADO I: La experiencia exigida como requisito habilitante no puede usarse para asignar puntos en la misma verificación.\nPOSTULADO II: El precio debe ser siempre el factor de mayor puntaje en todas las modalidades.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "Si los requisitos habilitantes solo se verifican como cumple o no cumple, la experiencia habilitante no otorga puntos (postulado I). El postulado II no se deduce y además es falso: en el concurso de méritos el precio ni siquiera puede ser factor de escogencia.",
+  "dificultad": 2
+ }
+]
