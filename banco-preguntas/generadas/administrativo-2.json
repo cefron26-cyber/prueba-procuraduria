@@ -1,0 +1,480 @@
+[
+ {
+  "id": "adm-0029",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 17 (sustituido por Ley 1755 de 2015)",
+  "enunciado": "Una entidad advierte que una petición ya radicada está incompleta y que la actuación puede continuar sin oponerse a la ley. Debe",
+  "opciones": {
+   "A": "requerir al peticionario dentro de los diez días siguientes para que la complete en el término máximo de un mes.",
+   "B": "archivarla de inmediato por desistimiento.",
+   "C": "rechazarla de plano por incompleta.",
+   "D": "resolverla negativamente sin requerimiento."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 17 del CPACA, sustituido por la Ley 1755 de 2015, ordena requerir al peticionario dentro de los diez días siguientes a la radicación para que complete la petición en el término máximo de un mes; si no lo hace ni pide prórroga, se entiende que desistió.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0030",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 19 (sustituido por Ley 1755 de 2015)",
+  "enunciado": "Una entidad no logra comprender la finalidad u objeto de una petición escrita. Según el CPACA",
+  "opciones": {
+   "A": "la remitirá a la Procuraduría.",
+   "B": "la rechazará por oscura sin más trámite.",
+   "C": "la devolverá al interesado para que la corrija o aclare dentro de los diez días siguientes; si no lo hace, se archiva.",
+   "D": "la resolverá negativamente."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 19 del CPACA, sustituido por la Ley 1755 de 2015, dispone que solo cuando no se comprenda la finalidad u objeto de la petición se devolverá para que se corrija o aclare dentro de los diez días siguientes; de no hacerlo, se archiva. Las peticiones irrespetuosas sí pueden rechazarse.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0031",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 21 (sustituido por Ley 1755 de 2015)",
+  "enunciado": "Una alcaldía recibe por escrito una petición que corresponde resolver a una gobernación. La alcaldía debe",
+  "opciones": {
+   "A": "informar al interesado y remitir la petición al competente dentro de los cinco días siguientes a su recepción, enviando copia del oficio remisorio.",
+   "B": "devolverla al peticionario para que la radique ante la gobernación.",
+   "C": "resolverla de fondo para no dilatar el trámite.",
+   "D": "archivarla por falta de competencia."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 21 del CPACA dispone que si la autoridad no es competente informará al interesado de inmediato, si actúa verbalmente, o dentro de los cinco días siguientes, si obró por escrito, y remitirá la petición al competente con copia del oficio al peticionario.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0032",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 37",
+  "enunciado": "En una actuación administrativa para otorgar una licencia, la autoridad advierte que los vecinos pueden resultar directamente afectados por la decisión. Debe",
+  "opciones": {
+   "A": "suspender la actuación hasta que los vecinos presenten una petición.",
+   "B": "notificarles solo la decisión final.",
+   "C": "decidir sin comunicarles, porque no son peticionarios.",
+   "D": "comunicarles la existencia de la actuación, su objeto y el nombre del peticionario, para que puedan constituirse como parte."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 37 del CPACA impone el deber de comunicar a los terceros que puedan resultar directamente afectados la existencia de la actuación, su objeto y el nombre del peticionario, para que puedan constituirse como parte y hacer valer sus derechos.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0033",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 44",
+  "enunciado": "Según el CPACA, cuando el contenido de una decisión administrativa es discrecional, debe ser",
+  "opciones": {
+   "A": "consultado con la comunidad en audiencia pública.",
+   "B": "conforme a la voluntad del funcionario, sin necesidad de motivación.",
+   "C": "adecuado a los fines de la norma que la autoriza y proporcional a los hechos que le sirven de causa.",
+   "D": "previamente aprobado por el superior jerárquico."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 44 del CPACA dispone que la decisión discrecional debe ser adecuada a los fines de la norma que la autoriza y proporcional a los hechos que le sirven de causa. La discrecionalidad no equivale a arbitrariedad.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0034",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 45",
+  "enunciado": "En una resolución se escribió mal el número de cédula del beneficiario por un error de digitación. La entidad",
+  "opciones": {
+   "A": "debe revocar la resolución y expedir una nueva.",
+   "B": "puede corregirlo en cualquier tiempo, de oficio o a petición de parte, sin cambiar el sentido material de la decisión ni revivir términos.",
+   "C": "debe demandar su propio acto.",
+   "D": "no puede corregirlo una vez notificado."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 45 del CPACA permite corregir en cualquier tiempo los errores simplemente formales, como los aritméticos, de digitación o transcripción, sin que ello cambie el sentido material de la decisión ni reviva los términos para demandar.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0035",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 65",
+  "enunciado": "Un decreto municipal de carácter general fue firmado pero no se ha publicado. Respecto de su obligatoriedad",
+  "opciones": {
+   "A": "no es obligatorio mientras no se publique en la gaceta territorial o por el medio que garantice amplia divulgación.",
+   "B": "es obligatorio desde la firma.",
+   "C": "es obligatorio desde que se comunica a las dependencias.",
+   "D": "es obligatorio a los tres días de expedido."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 65 del CPACA dispone que los actos administrativos de carácter general no son obligatorios mientras no se publiquen en el Diario Oficial o en las gacetas territoriales, o por los medios alternativos que garanticen amplia divulgación.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0036",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 88",
+  "enunciado": "Un particular considera ilegal un acto administrativo en firme que le impone una obligación. Mientras la jurisdicción no lo anule ni lo suspenda",
+  "opciones": {
+   "A": "el acto queda en suspenso desde la presentación de la demanda.",
+   "B": "el acto se presume legal y es obligatorio.",
+   "C": "la entidad debe revocarlo de oficio.",
+   "D": "el particular puede desatenderlo si lo considera ilegal."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 88 del CPACA consagra la presunción de legalidad: los actos se presumen legales mientras no hayan sido anulados por la jurisdicción. La sola presentación de la demanda no suspende sus efectos; se requiere medida cautelar.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0037",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 89",
+  "enunciado": "Una alcaldía expidió un acto en firme que ordena retirar una valla ilegal. Para ejecutarlo",
+  "opciones": {
+   "A": "debe esperar la aceptación del propietario.",
+   "B": "debe pedir autorización al concejo municipal.",
+   "C": "debe obtener primero una orden judicial.",
+   "D": "puede hacerlo por sí misma, sin mediación de otra autoridad, y requerir si es necesario el apoyo de la Policía."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 89 del CPACA reconoce el carácter ejecutorio de los actos en firme: las autoridades pueden ejecutarlos por sí mismas, sin mediación de otra autoridad, con apoyo de la Policía si es necesario.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0038",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 90",
+  "enunciado": "Un particular se resiste a cumplir una obligación no dineraria impuesta por un acto administrativo en firme. La autoridad puede",
+  "opciones": {
+   "A": "ordenar su arresto por desacato.",
+   "B": "anular el acto y expedir uno nuevo.",
+   "C": "imponerle multas sucesivas mientras permanezca en rebeldía, con plazos razonables para cumplir, o ejecutar directamente lo ordenado a su costa.",
+   "D": "privarlo de la libertad."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 90 del CPACA permite, ante la renuencia, imponer multas sucesivas mientras persista la rebeldía y realizar directamente o contratar la ejecución material, imputando los gastos al particular renuente.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0039",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, arts. 98 y 99",
+  "enunciado": "Un municipio impuso una multa mediante acto ejecutoriado y el sancionado no paga. Para recaudarla, el municipio",
+  "opciones": {
+   "A": "está revestido de la prerrogativa de cobro coactivo, porque el acto ejecutoriado presta mérito ejecutivo.",
+   "B": "no puede cobrarla si el sancionado apeló ante la jurisdicción.",
+   "C": "debe demandar siempre ante el juez civil.",
+   "D": "debe pedir a la Procuraduría que la cobre."
+  },
+  "correcta": "A",
+  "explicacion": "Los artículos 98 y 99 del CPACA otorgan a las entidades públicas la prerrogativa de cobro coactivo sobre las obligaciones claras, expresas y exigibles que constan en actos ejecutoriados que imponen pagar sumas líquidas de dinero; también pueden acudir a los jueces.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0040",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 102",
+  "enunciado": "Un ciudadano se encuentra en la misma situación de hecho y de derecho de un demandante a quien el Consejo de Estado reconoció un derecho en una sentencia de unificación. Según el CPACA, puede",
+  "opciones": {
+   "A": "pedir al Consejo de Estado que lo incluya en la sentencia.",
+   "B": "interponer tutela directamente sin acudir a la autoridad.",
+   "C": "exigir el pago sin petición previa.",
+   "D": "pedir a la autoridad competente que le extienda los efectos de esa sentencia, siempre que su pretensión no haya caducado."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 102 del CPACA permite solicitar a las autoridades la extensión de los efectos de una sentencia de unificación del Consejo de Estado que reconoció un derecho, acreditando los mismos supuestos y siempre que la pretensión no haya caducado.",
+  "dificultad": 3
+ },
+ {
+  "id": "adm-0041",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 136",
+  "enunciado": "Durante un estado de emergencia económica, un gobernador expide un decreto general en desarrollo de un decreto legislativo. Ese decreto departamental",
+  "opciones": {
+   "A": "es revisado por la asamblea departamental.",
+   "B": "es revisado automáticamente por la Corte Constitucional.",
+   "C": "tiene control inmediato de legalidad por la Jurisdicción de lo Contencioso Administrativo.",
+   "D": "no tiene control judicial por ser de excepción."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 136 del CPACA establece el control inmediato de legalidad de las medidas generales dictadas en ejercicio de la función administrativa en desarrollo de decretos legislativos durante los estados de excepción; si son territoriales, lo ejerce el tribunal del lugar.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0042",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 231",
+  "enunciado": "En un proceso de nulidad, la suspensión provisional de los efectos del acto demandado procede cuando",
+  "opciones": {
+   "A": "el demandante lo solicita, sin más requisitos.",
+   "B": "la violación de las normas invocadas surja del análisis del acto demandado y su confrontación con las normas superiores o con las pruebas aportadas.",
+   "C": "el acto tiene más de cinco años de expedido.",
+   "D": "lo pide la entidad demandada."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 231 del CPACA dispone que la suspensión provisional procede por violación de las normas invocadas cuando esta surja del análisis del acto y su confrontación con las normas superiores o del estudio de las pruebas allegadas con la solicitud.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0043",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 3",
+  "enunciado": "El principio de las actuaciones administrativas según el cual las autoridades deben buscar que los procedimientos logren su finalidad y remover de oficio los obstáculos puramente formales, es el de",
+  "opciones": {
+   "A": "publicidad.",
+   "B": "imparcialidad.",
+   "C": "eficacia.",
+   "D": "coordinación."
+  },
+  "correcta": "C",
+  "explicacion": "El numeral 11 del artículo 3 del CPACA define el principio de eficacia: las autoridades buscarán que los procedimientos logren su finalidad y, para ello, removerán de oficio los obstáculos puramente formales y evitarán decisiones inhibitorias.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0044",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 3, num. 1",
+  "enunciado": "Según el principio de debido proceso del CPACA, en materia administrativa sancionatoria se observarán adicionalmente los principios de",
+  "opciones": {
+   "A": "legalidad de las faltas y de las sanciones, presunción de inocencia, no reformatio in pejus y non bis in idem.",
+   "B": "libre competencia y rentabilidad.",
+   "C": "secreto, reserva y discrecionalidad.",
+   "D": "oralidad, concentración e inmediación."
+  },
+  "correcta": "A",
+  "explicacion": "El numeral 1 del artículo 3 del CPACA dispone que en materia administrativa sancionatoria se observarán además los principios de legalidad de las faltas y sanciones, presunción de inocencia, no reformatio in pejus y non bis in idem.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0045",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 104",
+  "enunciado": "La Jurisdicción de lo Contencioso Administrativo conoce, entre otros, de las controversias originadas en",
+  "opciones": {
+   "A": "los procesos penales contra servidores públicos.",
+   "B": "actos, contratos, hechos, omisiones y operaciones sujetos al derecho administrativo en los que estén involucradas entidades públicas o particulares en ejercicio de función administrativa.",
+   "C": "los conflictos entre particulares por contratos comerciales.",
+   "D": "los conflictos laborales de los trabajadores oficiales."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 104 del CPACA delimita el objeto de la jurisdicción: controversias y litigios originados en actos, contratos, hechos, omisiones y operaciones sujetos al derecho administrativo, en los que estén involucradas entidades públicas o particulares en ejercicio de función administrativa.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0046",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 74",
+  "enunciado": "El recurso de queja en la actuación administrativa procede",
+  "opciones": {
+   "A": "para controvertir el silencio positivo.",
+   "B": "contra cualquier acto de trámite.",
+   "C": "contra los actos generales.",
+   "D": "cuando se rechace el de apelación, y se interpone ante el superior del funcionario que dictó la decisión."
+  },
+  "correcta": "D",
+  "explicacion": "El numeral 3 del artículo 74 del CPACA establece que el recurso de queja procede cuando se rechace el de apelación; se interpone ante el superior del funcionario que dictó la decisión.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0047",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 74",
+  "enunciado": "Contra las decisiones de los ministros, directores de departamento administrativo y representantes legales de entidades descentralizadas, por regla general",
+  "opciones": {
+   "A": "procede únicamente el recurso de queja.",
+   "B": "procede apelación ante el Presidente de la República.",
+   "C": "procede apelación ante el Consejo de Estado.",
+   "D": "no procede el recurso de apelación."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 74 del CPACA dispone que no habrá apelación de las decisiones de los ministros, directores de departamento administrativo, superintendentes y representantes legales de entidades descentralizadas, ni de los directores u organismos superiores de los órganos constitucionales autónomos; contra ellas procede reposición.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0048",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 138",
+  "enunciado": "Una persona fue sancionada por una superintendencia mediante un acto particular que lesiona sus derechos. Para obtener su anulación y la devolución de lo pagado, el medio de control es",
+  "opciones": {
+   "A": "acción popular.",
+   "B": "nulidad simple.",
+   "C": "nulidad y restablecimiento del derecho.",
+   "D": "reparación directa."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 138 del CPACA permite a toda persona que se crea lesionada en un derecho subjetivo pedir la nulidad del acto particular y el restablecimiento del derecho, incluida la reparación del daño.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0049",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 164, num. 1",
+  "enunciado": "La demanda de nulidad simple contra un acto administrativo de carácter general puede presentarse",
+  "opciones": {
+   "A": "dentro de los dos años siguientes a su expedición.",
+   "B": "en cualquier tiempo.",
+   "C": "dentro de los treinta días siguientes.",
+   "D": "dentro de los cuatro meses siguientes a su publicación."
+  },
+  "correcta": "B",
+  "explicacion": "El literal a del numeral 1 del artículo 164 del CPACA dispone que la demanda puede presentarse en cualquier tiempo cuando se pretenda la nulidad de actos administrativos, salvo excepciones legales como la nulidad electoral.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0050",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 69",
+  "enunciado": "Una entidad desconoce la dirección y el correo del destinatario de un acto particular. La notificación por aviso se hará",
+  "opciones": {
+   "A": "publicándolo con copia íntegra del acto en la página electrónica y en un lugar de acceso al público de la entidad por cinco días; la notificación se entiende surtida al finalizar el día siguiente al retiro del aviso.",
+   "B": "por conducta concluyente de manera automática.",
+   "C": "por edicto en un diario de circulación nacional por diez días.",
+   "D": "mediante estado fijado en la secretaría por un día."
+  },
+  "correcta": "A",
+  "explicacion": "El inciso segundo del artículo 69 del CPACA dispone que, cuando se desconoce la información del destinatario, el aviso con copia íntegra del acto se publica en la página electrónica y en un lugar de acceso al público por cinco días, y la notificación se entiende surtida al finalizar el día siguiente al retiro.",
+  "dificultad": 3
+ },
+ {
+  "id": "adm-0051",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 67",
+  "enunciado": "En la diligencia de notificación personal de un acto administrativo debe entregarse al interesado",
+  "opciones": {
+   "A": "solo la parte resolutiva del acto.",
+   "B": "copia íntegra, auténtica y gratuita del acto, con indicación de los recursos que proceden, las autoridades ante quienes se interponen y los plazos.",
+   "C": "un resumen elaborado por el notificador.",
+   "D": "una copia previa liquidación de su costo."
+  },
+  "correcta": "B",
+  "explicacion": "El artículo 67 del CPACA ordena entregar en la diligencia copia íntegra, auténtica y gratuita del acto, con anotación de fecha y hora, los recursos procedentes, las autoridades ante quienes deben interponerse y los plazos.",
+  "dificultad": 1
+ },
+ {
+  "id": "adm-0052",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 72",
+  "enunciado": "Un acto administrativo fue notificado sin indicar los recursos procedentes, pero el interesado lo conoció y presentó oportunamente el recurso. Según el CPACA",
+  "opciones": {
+   "A": "el acto nunca produce efectos.",
+   "B": "el acto es nulo de pleno derecho.",
+   "C": "la notificación se entiende convalidada, porque el interesado se dio por suficientemente enterado y utilizó los recursos.",
+   "D": "debe repetirse la notificación y rechazarse el recurso."
+  },
+  "correcta": "C",
+  "explicacion": "El artículo 72 del CPACA dispone que sin el lleno de los requisitos no se tiene por hecha la notificación, salvo que la parte interesada revele que conoce el acto, consienta la decisión o interponga los recursos legales.",
+  "dificultad": 3
+ },
+ {
+  "id": "adm-0053",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 77",
+  "enunciado": "Es requisito del recurso de reposición o apelación en la actuación administrativa",
+  "opciones": {
+   "A": "interponerse dentro del plazo legal por el interesado o su representante, con expresión concreta de los motivos de inconformidad.",
+   "B": "presentarse siempre con abogado.",
+   "C": "autenticarse ante notario.",
+   "D": "acompañarse de una póliza."
+  },
+  "correcta": "A",
+  "explicacion": "El artículo 77 del CPACA exige interponer el recurso dentro del plazo legal, sustentarlo con expresión concreta de los motivos de inconformidad, solicitar y aportar pruebas e indicar nombre y dirección; solo exige abogado cuando el recurrente no es el interesado ni su representante.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0054",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "fuente": "Ley 1437 de 2011, art. 79",
+  "enunciado": "Cuando al resolver un recurso hay pruebas por practicar, el término para hacerlo no puede ser mayor de",
+  "opciones": {
+   "A": "cinco días hábiles.",
+   "B": "seis meses.",
+   "C": "noventa días improrrogables.",
+   "D": "treinta días; si se fija uno menor, puede prorrogarse una vez sin exceder de treinta."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 79 del CPACA dispone que cuando hay que practicar pruebas en los recursos se señala un término no mayor de treinta días; si se señala uno menor, puede prorrogarse una sola vez sin exceder de treinta en total.",
+  "dificultad": 3
+ },
+ {
+  "id": "adm-0055",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "multiple",
+  "fuente": "Ley 1437 de 2011, art. 93",
+  "enunciado": "Son causales de revocación directa de los actos administrativos:\n\n1. Su manifiesta oposición a la Constitución o a la ley.\n2. Que el interesado no los haya recurrido.\n3. Que no estén conformes con el interés público o social, o atenten contra él.\n4. Que haya cambiado el titular de la entidad.",
+  "opciones": {
+   "A": "1 y 2 son correctas.",
+   "B": "2 y 3 son correctas.",
+   "C": "3 y 4 son correctas.",
+   "D": "1 y 3 son correctas."
+  },
+  "correcta": "D",
+  "explicacion": "El artículo 93 del CPACA prevé tres causales: manifiesta oposición a la Constitución o la ley, inconformidad con el interés público o social, y agravio injustificado a una persona. No haber recurrido o el cambio de titular no son causales.",
+  "dificultad": 2
+ },
+ {
+  "id": "adm-0056",
+  "eje": "administrativo",
+  "nucleo": "general",
+  "origen": "estilo",
+  "tipo": "postulados",
+  "fuente": "Ley 1437 de 2011, arts. 83 y 86",
+  "enunciado": "TESIS: Si transcurren tres meses desde la presentación de una petición sin que se notifique decisión, se entiende negada.\n\nPOSTULADO I: El peticionario puede acudir a la jurisdicción contra el acto presunto negativo.\nPOSTULADO II: Si se interpone recurso y no se resuelve en dos meses, la decisión sobre el recurso se entiende positiva.",
+  "opciones": {
+   "A": "De la tesis se deducen los postulados I y II.",
+   "B": "De la tesis solo se deduce el postulado I.",
+   "C": "De la tesis solo se deduce el postulado II.",
+   "D": "Ninguno de los postulados se deduce de la tesis."
+  },
+  "correcta": "B",
+  "explicacion": "Si el silencio produce un acto presunto negativo, ese acto puede controvertirse ante la jurisdicción (postulado I). El postulado II es falso: según el artículo 86, el silencio frente a los recursos también es negativo, salvo el régimen del sancionatorio.",
+  "dificultad": 3
+ }
+]
